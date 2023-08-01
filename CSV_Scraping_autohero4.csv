@@ -1,0 +1,502 @@
+Marca,Modelo,Version,Precio,Combustible,Año,Kms,Potencia,Puertas,Cambio,Color
+"Peugeot Rifter, ","Peugeot Rifter, ",1.2 e-THP Active L2,22.499 €,Gasolina,03.2019,72.288 km,110 CV / 81 kW,5,Cambio tipo manual,Azul
+"Volkswagen Polo, ","Volkswagen Polo, ",1.6 TDI Advance,14.499 €,Diésel,10.2018,72.570 km,95 CV / 70 kW,5,Cambio tipo manual,Negro
+"Volkswagen Polo, ","Volkswagen Polo, ",1.4 TDI Advance BlueMotion,11.199 €,Diésel,11.2015,72.932 km,90 CV / 66 kW,5,Cambio tipo manual,Gris
+"Citroen C 3, ","Citroen C 3, ",1.6 HDi Selection,7.699 €,Diésel,05.2011,73.630 km,92 CV / 68 kW,5,Cambio tipo manual,Gris
+"Lancia Ypsilon, ","Lancia Ypsilon, ",1.2 Gold,7.399 €,Gasolina,03.2016,73.675 km,70 CV / 51 kW,5,Cambio tipo manual,Negro
+"Renault Megane, ","Renault Megane, ",1.5 dCi Energy Zen,14.299 €,Diésel,07.2017,73.690 km,110 CV / 81 kW,5,Cambio tipo manual,Plata
+"Jeep Compass, ","Jeep Compass, ",1.4 M-Air Limited FWD,21.199 €,Gasolina,10.2019,73.802 km,140 CV / 103 kW,5,Cambio tipo manual,Negro
+"Audi A3, ","Audi A3, ",1.6 TDI Ambiente,15.499 €,Diésel,12.2015,74.188 km,110 CV / 81 kW,3,Cambio tipo manual,Blanco
+"Seat Ibiza, ","Seat Ibiza, ",1.2 TSI Style ITech,8.399 €,Gasolina,03.2014,74.763 km,85 CV / 63 kW,5,Cambio tipo manual,Blanco
+"Citroen C4, ","Citroen C4, ",1.6 Blue-HDi Feel Edition,11.499 €,Diésel,03.2016,74.793 km,100 CV / 73 kW,5,Cambio tipo manual,Negro
+"Seat Altea, ","Seat Altea, ",1.6 TDI Reference Ecomotive,9.199 €,Diésel,04.2014,74.985 km,105 CV / 77 kW,5,Cambio tipo manual,Blanco
+"BMW Z4, ","BMW Z4, ",sDrive 20i,24.599 €,Gasolina,03.2014,75.341 km,185 CV / 135 kW,2,Cambio tipo automático,Negro
+"Citroen Berlingo, ","Citroen Berlingo, ",1.5 Blue-HDi Feel M,19.999 €,Diésel,11.2019,75.705 km,102 CV / 75 kW,5,Cambio tipo manual,Gris
+"Opel Zafira Tourer, ","Opel Zafira Tourer, ",1.4 Turbo Excellence,13.799 €,Gasolina,07.2017,77.074 km,140 CV / 103 kW,5,Cambio tipo automático,Negro
+"Hyundai i30, ","Hyundai i30, ",1.4 CRDi Klass,11.499 €,Diésel,07.2016,77.097 km,90 CV / 66 kW,5,Cambio tipo manual,Gris
+"Citroen C 3, ","Citroen C 3, ",1.2 VTi Feel,11.999 €,Gasolina,07.2019,77.097 km,82 CV / 60 kW,5,Cambio tipo manual,Rojo
+"Citroen Berlingo, ","Citroen Berlingo, ",1.6 Blue-HDi 20 Aniversario Edition,16.499 €,Diésel,02.2018,77.857 km,99 CV / 73 kW,5,Cambio tipo manual,Blanco
+"Peugeot 3008, ","Peugeot 3008, ",1.6 Blue-HDi Style,12.399 €,Diésel,06.2015,78.035 km,120 CV / 88 kW,5,Cambio tipo manual,Gris
+"Opel Corsa, ","Opel Corsa, ",1.2 Selective,6.799 €,Gasolina,08.2014,78.096 km,85 CV / 63 kW,3,Cambio tipo manual,Rojo
+"Ford Focus, ","Ford Focus, ",1.5 TDCi Business,13.699 €,Diésel,09.2018,78.619 km,120 CV / 88 kW,5,Cambio tipo manual,Plata
+"Seat León, ","Seat León, ",2.0 TDI X-Perience 4Drive,19.199 €,Diésel,02.2017,79.241 km,185 CV / 135 kW,5,Doble embrague,Blanco
+"Fiat Tipo, ","Fiat Tipo, ",1.4 Lounge,11.299 €,Gasolina,04.2019,79.325 km,95 CV / 70 kW,4,Cambio tipo manual,Negro
+"Audi Q3, ","Audi Q3, ",2.0 TDI Ambiente,17.499 €,Diésel,05.2013,79.737 km,140 CV / 103 kW,4,Cambio tipo manual,Blanco
+"Hyundai i10, ","Hyundai i10, ",1.2 Comfort,6.499 €,Gasolina,07.2013,79.875 km,85 CV / 63 kW,5,Cambio tipo manual,Blanco
+"Skoda Yeti, ","Skoda Yeti, ",1.2 TSI Edition Outdoor,12.799 €,Gasolina,01.2016,81.065 km,110 CV / 81 kW,5,Cambio tipo manual,Blanco
+"BMW Serie 1, ","BMW Serie 1, ",118d M Sport,19.899 €,Diésel,11.2018,81.215 km,150 CV / 110 kW,5,Cambio tipo manual,Blanco
+"Citroen C 3, ","Citroen C 3, ",1.1 LX,5.899 €,Gasolina,06.2011,81.739 km,60 CV / 44 kW,5,Cambio tipo manual,Negro
+"Hyundai Tucson, ","Hyundai Tucson, ",1.6 Essence BlueDrive 2WD,16.899 €,Gasolina,07.2018,82.351 km,132 CV / 97 kW,5,Cambio tipo manual,Rojo
+"Mazda 2, ","Mazda 2, ",1.5 Diesel Luxury,11.599 €,Diésel,02.2018,83.579 km,105 CV / 77 kW,5,Cambio tipo manual,Blanco
+"Skoda Yeti, ","Skoda Yeti, ",1.2 TSI Black Outdoor,14.199 €,Gasolina,10.2017,83.680 km,110 CV / 81 kW,5,Cambio tipo manual,Plata
+"Nissan Note, ","Nissan Note, ",1.5 dCi Acenta,8.599 €,Diésel,08.2014,83.712 km,90 CV / 66 kW,5,Cambio tipo manual,Negro
+"Citroen Berlingo, ","Citroen Berlingo, ",1.5 Blue-HDi Feel XL,20.699 €,Diésel,03.2019,84.320 km,102 CV / 75 kW,5,Cambio tipo manual,Blanco
+"Volkswagen Polo, ","Volkswagen Polo, ",1.2 TSI Sport BlueMotion,14.299 €,Gasolina,06.2016,84.471 km,110 CV / 81 kW,5,Doble embrague,Rojo
+"BMW X2, ","BMW X2, ",sDrive 18i,26.799 €,Gasolina,04.2019,85.244 km,140 CV / 103 kW,5,Cambio tipo automático,Plata
+"Peugeot Partner, ","Peugeot Partner, ",1.6 Blue-HDi Outdoor,14.899 €,Diésel,04.2016,85.416 km,100 CV / 73 kW,5,Cambio tipo manual,Gris
+"Citroen C4 Grand Picasso, ","Citroen C4 Grand Picasso, ",1.6 VTi Seduction,8.799 €,Gasolina,10.2012,85.679 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Citroen C3 Aircross, ","Citroen C3 Aircross, ",1.6 Blue-HDi Shine,14.399 €,Diésel,10.2017,85.763 km,120 CV / 88 kW,5,Cambio tipo manual,Gris
+"Opel Corsa, ","Opel Corsa, ",1.4 Selective,7.799 €,Gasolina,08.2014,85.880 km,100 CV / 74 kW,5,Cambio tipo manual,Negro
+"Renault Clio, ","Renault Clio, ",1.5 dCi Energy Technofeel,8.999 €,Diésel,06.2015,86.902 km,90 CV / 66 kW,5,Cambio tipo manual,Gris
+"Toyota Auris, ","Toyota Auris, ",1.8 Hybrid Active,14.299 €,Híbrido,09.2017,87.014 km,100 CV / 73 kW,5,Cambio tipo automático,Negro
+"Volkswagen T-Roc, ","Volkswagen T-Roc, ",1.0 TSI Advance,19.499 €,Gasolina,05.2019,87.857 km,115 CV / 85 kW,5,Cambio tipo manual,Negro
+"Citroen C4 Grand Picasso, ","Citroen C4 Grand Picasso, ",1.6 VTi Business,7.999 €,Gasolina,10.2011,87.942 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Volkswagen T6 Multivan, ","Volkswagen T6 Multivan, ",2.0 TDI Outdoor,35.599 €,Diésel,12.2016,88.461 km,150 CV / 110 kW,4,Cambio tipo manual,Blanco
+"Ssangyong Tivoli, ","Ssangyong Tivoli, ",1.6 Turbodiesel Limited 4x2,13.499 €,Diésel,10.2017,88.491 km,115 CV / 85 kW,5,Cambio tipo manual,Negro
+"BMW Serie 1, ","BMW Serie 1, ",118d M Sport,18.499 €,Diésel,05.2017,88.532 km,150 CV / 110 kW,3,Cambio tipo manual,Rojo
+"Jaguar F-Pace, ","Jaguar F-Pace, ",20d Pure AWD,22.799 €,Diésel,12.2016,88.703 km,180 CV / 132 kW,5,Semi-automático,Gris
+"Peugeot 5008, ","Peugeot 5008, ",1.5 Blue-HDi Allure,22.399 €,Diésel,07.2019,89.212 km,130 CV / 96 kW,5,Cambio tipo manual,Blanco
+"Peugeot 2008, ","Peugeot 2008, ",1.2 e-VTi Active,10.999 €,Gasolina,12.2014,89.649 km,82 CV / 60 kW,5,Cambio tipo automático,Blanco
+"Dacia Dokker, ","Dacia Dokker, ",1.5 Blue dCi SL Nomada,14.999 €,Diésel,02.2019,90.214 km,95 CV / 70 kW,5,Cambio tipo manual,Negro
+"Citroen C 3, ","Citroen C 3, ",1.2 VTi Live Edition,8.499 €,Gasolina,01.2016,90.533 km,82 CV / 60 kW,5,Cambio tipo manual,Rojo
+"Renault Captur, ","Renault Captur, ",0.9 Energy Zen,11.599 €,Gasolina,01.2016,90.572 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"Renault Megane, ","Renault Megane, ",1.2 Limited,9.599 €,Gasolina,12.2014,91.552 km,115 CV / 85 kW,5,Cambio tipo manual,Blanco
+"Ford Transit Connect, ","Ford Transit Connect, ",1.5 EcoBlue TDCi Kombi Trend lang,19.499 €,Diésel,12.2018,91.557 km,120 CV / 88 kW,5,Cambio tipo manual,Azul
+"Hyundai i10, ","Hyundai i10, ",1.0 Go,8.499 €,Gasolina,09.2016,91.901 km,67 CV / 49 kW,5,Cambio tipo manual,Blanco
+"BMW Serie 1, ","BMW Serie 1, ",120d M Sport,18.799 €,Diésel,08.2016,91.938 km,190 CV / 140 kW,5,Cambio tipo manual,Blanco
+"Dacia Sandero II, ","Dacia Sandero II, ",1.5 dCi Stepway,9.999 €,Diésel,02.2016,92.018 km,90 CV / 66 kW,5,Cambio tipo manual,Rojo
+"Opel Insignia, ","Opel Insignia, ",1.6 CDTI Excellence,14.799 €,Diésel,07.2017,92.588 km,135 CV / 100 kW,5,Cambio tipo manual,Gris
+"Mazda 3, ","Mazda 3, ",1.6 CD Diesel Style,7.999 €,Diésel,02.2013,92.657 km,115 CV / 85 kW,5,Cambio tipo manual,Marrón
+"Hyundai Kona, ","Hyundai Kona, ",1.0 TGDI Classic 2WD,14.299 €,Gasolina,02.2018,92.737 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Smart ForFour, ","Smart ForFour, ",0.9 Turbo Basis passion,10.699 €,Gasolina,06.2016,92.889 km,90 CV / 66 kW,5,Doble embrague,Blanco
+"MINI Clubman, ","MINI Clubman, ",Cooper SD,21.699 €,Diésel,11.2018,93.446 km,190 CV / 140 kW,5,Cambio tipo automático,Gris
+"Citroen C4 Grand Picasso, ","Citroen C4 Grand Picasso, ",1.2 e-THP Attraction,12.899 €,Gasolina,01.2016,93.521 km,130 CV / 96 kW,5,Cambio tipo manual,Blanco
+"Citroen C 3, ","Citroen C 3, ",1.6 Blue-HDi Shine,11.899 €,Diésel,11.2017,93.536 km,100 CV / 73 kW,5,Cambio tipo manual,Blanco
+"Citroen C4 Cactus, ","Citroen C4 Cactus, ",1.2 VTi Feel,9.999 €,Gasolina,01.2016,93.718 km,82 CV / 60 kW,5,Cambio tipo manual,Azul
+"Citroen C4 Cactus, ","Citroen C4 Cactus, ",1.2 e-THP Feel,12.599 €,Gasolina,12.2018,93.868 km,110 CV / 81 kW,5,Cambio tipo manual,Rojo
+"Hyundai i20, ","Hyundai i20, ",1.2 Go! Navi,9.499 €,Gasolina,06.2016,94.657 km,85 CV / 62 kW,5,Cambio tipo manual,Blanco
+"Ford Tourneo Connect, ","Ford Tourneo Connect, ",1.8 TDCi Trend kurz,8.499 €,Diésel,08.2011,94.725 km,110 CV / 81 kW,4,Cambio tipo manual,Plata
+"Volkswagen Scirocco, ","Volkswagen Scirocco, ",1.4 TSI,12.299 €,Gasolina,06.2012,94.836 km,122 CV / 90 kW,3,Cambio tipo manual,Azul
+"Renault Clio, ","Renault Clio, ",1.5 dCi Energy Technofeel,8.999 €,Diésel,06.2015,86.902 km,90 CV / 66 kW,5,Cambio tipo manual,Gris
+"Toyota Auris, ","Toyota Auris, ",1.8 Hybrid Active,14.299 €,Híbrido,09.2017,87.014 km,100 CV / 73 kW,5,Cambio tipo automático,Negro
+"Volkswagen T-Roc, ","Volkswagen T-Roc, ",1.0 TSI Advance,19.499 €,Gasolina,05.2019,87.857 km,115 CV / 85 kW,5,Cambio tipo manual,Negro
+"Citroen C4 Grand Picasso, ","Citroen C4 Grand Picasso, ",1.6 VTi Business,7.999 €,Gasolina,10.2011,87.942 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Volkswagen T6 Multivan, ","Volkswagen T6 Multivan, ",2.0 TDI Outdoor,35.599 €,Diésel,12.2016,88.461 km,150 CV / 110 kW,4,Cambio tipo manual,Blanco
+"Ssangyong Tivoli, ","Ssangyong Tivoli, ",1.6 Turbodiesel Limited 4x2,13.499 €,Diésel,10.2017,88.491 km,115 CV / 85 kW,5,Cambio tipo manual,Negro
+"BMW Serie 1, ","BMW Serie 1, ",118d M Sport,18.499 €,Diésel,05.2017,88.532 km,150 CV / 110 kW,3,Cambio tipo manual,Rojo
+"Jaguar F-Pace, ","Jaguar F-Pace, ",20d Pure AWD,22.799 €,Diésel,12.2016,88.703 km,180 CV / 132 kW,5,Semi-automático,Gris
+"Peugeot 5008, ","Peugeot 5008, ",1.5 Blue-HDi Allure,22.399 €,Diésel,07.2019,89.212 km,130 CV / 96 kW,5,Cambio tipo manual,Blanco
+"Peugeot 2008, ","Peugeot 2008, ",1.2 e-VTi Active,10.999 €,Gasolina,12.2014,89.649 km,82 CV / 60 kW,5,Cambio tipo automático,Blanco
+"Dacia Dokker, ","Dacia Dokker, ",1.5 Blue dCi SL Nomada,14.999 €,Diésel,02.2019,90.214 km,95 CV / 70 kW,5,Cambio tipo manual,Negro
+"Citroen C 3, ","Citroen C 3, ",1.2 VTi Live Edition,8.499 €,Gasolina,01.2016,90.533 km,82 CV / 60 kW,5,Cambio tipo manual,Rojo
+"Renault Captur, ","Renault Captur, ",0.9 Energy Zen,11.599 €,Gasolina,01.2016,90.572 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"Renault Megane, ","Renault Megane, ",1.2 Limited,9.599 €,Gasolina,12.2014,91.552 km,115 CV / 85 kW,5,Cambio tipo manual,Blanco
+"Ford Transit Connect, ","Ford Transit Connect, ",1.5 EcoBlue TDCi Kombi Trend lang,19.499 €,Diésel,12.2018,91.557 km,120 CV / 88 kW,5,Cambio tipo manual,Azul
+"Hyundai i10, ","Hyundai i10, ",1.0 Go,8.499 €,Gasolina,09.2016,91.901 km,67 CV / 49 kW,5,Cambio tipo manual,Blanco
+"BMW Serie 1, ","BMW Serie 1, ",120d M Sport,18.799 €,Diésel,08.2016,91.938 km,190 CV / 140 kW,5,Cambio tipo manual,Blanco
+"Dacia Sandero II, ","Dacia Sandero II, ",1.5 dCi Stepway,9.999 €,Diésel,02.2016,92.018 km,90 CV / 66 kW,5,Cambio tipo manual,Rojo
+"Opel Insignia, ","Opel Insignia, ",1.6 CDTI Excellence,14.799 €,Diésel,07.2017,92.588 km,135 CV / 100 kW,5,Cambio tipo manual,Gris
+"Mazda 3, ","Mazda 3, ",1.6 CD Diesel Style,7.999 €,Diésel,02.2013,92.657 km,115 CV / 85 kW,5,Cambio tipo manual,Marrón
+"Hyundai Kona, ","Hyundai Kona, ",1.0 TGDI Classic 2WD,14.299 €,Gasolina,02.2018,92.737 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Smart ForFour, ","Smart ForFour, ",0.9 Turbo Basis passion,10.699 €,Gasolina,06.2016,92.889 km,90 CV / 66 kW,5,Doble embrague,Blanco
+"MINI Clubman, ","MINI Clubman, ",Cooper SD,21.699 €,Diésel,11.2018,93.446 km,190 CV / 140 kW,5,Cambio tipo automático,Gris
+"Citroen C4 Grand Picasso, ","Citroen C4 Grand Picasso, ",1.2 e-THP Attraction,12.899 €,Gasolina,01.2016,93.521 km,130 CV / 96 kW,5,Cambio tipo manual,Blanco
+"Citroen C 3, ","Citroen C 3, ",1.6 Blue-HDi Shine,11.899 €,Diésel,11.2017,93.536 km,100 CV / 73 kW,5,Cambio tipo manual,Blanco
+"Citroen C4 Cactus, ","Citroen C4 Cactus, ",1.2 VTi Feel,9.999 €,Gasolina,01.2016,93.718 km,82 CV / 60 kW,5,Cambio tipo manual,Azul
+"Citroen C4 Cactus, ","Citroen C4 Cactus, ",1.2 e-THP Feel,12.599 €,Gasolina,12.2018,93.868 km,110 CV / 81 kW,5,Cambio tipo manual,Rojo
+"Hyundai i20, ","Hyundai i20, ",1.2 Go! Navi,9.499 €,Gasolina,06.2016,94.657 km,85 CV / 62 kW,5,Cambio tipo manual,Blanco
+"Ford Tourneo Connect, ","Ford Tourneo Connect, ",1.8 TDCi Trend kurz,8.499 €,Diésel,08.2011,94.725 km,110 CV / 81 kW,4,Cambio tipo manual,Plata
+"Volkswagen Scirocco, ","Volkswagen Scirocco, ",1.4 TSI,12.299 €,Gasolina,06.2012,94.836 km,122 CV / 90 kW,3,Cambio tipo manual,Azul
+"Lexus NX-Serie, ","Lexus NX-Serie, ",NX 300h,23.099 €,Híbrido,12.2015,94.900 km,155 CV / 114 kW,5,Cambio tipo automático,Gris
+"Volkswagen Golf VII, ","Volkswagen Golf VII, ",1.2 TSI Edition BlueMotion Tech.,13.299 €,Gasolina,06.2016,95.126 km,110 CV / 81 kW,5,Cambio tipo manual,Blanco
+"Honda CR-V, ","Honda CR-V, ",1.6 DTEC Executive 4WD,19.999 €,Diésel,12.2016,96.804 km,160 CV / 118 kW,5,Cambio tipo automático,Rojo
+"Ford Ka+, ","Ford Ka+, ",1.2 Ti-VCT Basis,8.399 €,Gasolina,10.2016,96.952 km,70 CV / 51 kW,5,Cambio tipo manual,Blanco
+"Kia Sportage, ","Kia Sportage, ",2.0 CRDi GT Line 2WD,19.199 €,Diésel,11.2016,97.631 km,135 CV / 100 kW,5,Cambio tipo manual,Blanco
+"Hyundai Elantra, ","Hyundai Elantra, ",1.6 CRDi Klass,11.999 €,Diésel,08.2016,97.678 km,135 CV / 100 kW,4,Cambio tipo manual,Blanco
+"Chevrolet Cruze, ","Chevrolet Cruze, ",2.0 Diesel LT,6.999 €,Diésel,07.2011,97.706 km,163 CV / 120 kW,4,Cambio tipo automático,Blanco
+"Mercedes-Benz Clase A, ","Mercedes-Benz Clase A, ",A 180 CDI BlueEfficiency Urban,18.499 €,Diésel,07.2016,98.020 km,110 CV / 80 kW,5,Cambio tipo automático,Blanco
+"Nissan Juke, ","Nissan Juke, ",1.6 Acenta,9.499 €,Gasolina,11.2012,98.297 km,117 CV / 86 kW,5,Cambio tipo manual,Blanco
+"Skoda Fabia, ","Skoda Fabia, ",1.2 Basis,6.599 €,Gasolina,03.2011,98.433 km,60 CV / 44 kW,5,Cambio tipo manual,Azul
+"Seat León, ","Seat León, ",1.6 TDI Style Ecomotive,12.199 €,Diésel,10.2015,98.544 km,110 CV / 81 kW,5,Cambio tipo manual,Blanco
+"Ford Focus, ","Ford Focus, ",1.6 TDCi Trend,7.799 €,Diésel,06.2011,99.040 km,95 CV / 70 kW,5,Cambio tipo manual,Gris
+"Seat Altea, ","Seat Altea, ",1.6 TDI I-Tech Ecomotive,9.699 €,Diésel,03.2014,99.216 km,105 CV / 77 kW,5,Cambio tipo manual,Blanco
+"Citroen C4 Grand Picasso, ","Citroen C4 Grand Picasso, ",1.6 VTi Business,7.899 €,Gasolina,12.2012,99.774 km,120 CV / 88 kW,5,Cambio tipo manual,Plata
+"Mazda CX 5, ","Mazda CX 5, ",2.0 Black Tech Ed.,17.999 €,Gasolina,01.2017,100.319 km,165 CV / 121 kW,5,Cambio tipo manual,Negro
+"Peugeot 2008, ","Peugeot 2008, ",1.2 e-THP Allure,12.999 €,Gasolina,01.2018,100.536 km,110 CV / 81 kW,5,Cambio tipo automático,Rojo
+"Audi A7, ","Audi A7, ",3.0 V6 TDI quattro,23.999 €,Diésel,02.2014,101.809 km,245 CV / 180 kW,5,Doble embrague,Negro
+"Citroen C4 Cactus, ","Citroen C4 Cactus, ",1.6 Blue-HDi Feel,10.999 €,Diésel,07.2016,101.811 km,100 CV / 73 kW,5,Cambio tipo manual,Amarillo
+"Volkswagen Golf VII, ","Volkswagen Golf VII, ",1.0 TSI Ready2Go,13.899 €,Gasolina,10.2017,102.009 km,110 CV / 81 kW,5,Cambio tipo manual,Blanco
+"Peugeot 208, ","Peugeot 208, ",1.4 HDi Style,7.999 €,Diésel,11.2014,102.167 km,68 CV / 50 kW,5,Cambio tipo manual,Azul
+"Citroen C3 Aircross, ","Citroen C3 Aircross, ",1.2 e-THP Feel,12.799 €,Gasolina,02.2019,102.352 km,110 CV / 81 kW,5,Cambio tipo manual,Gris
+"BMW Serie 3, ","BMW Serie 3, ",318d,13.199 €,Diésel,05.2012,102.407 km,143 CV / 105 kW,4,Cambio tipo automático,Blanco
+"Volkswagen Polo, ","Volkswagen Polo, ",1.6 TDI Advance,9.099 €,Diésel,07.2013,102.539 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"BMW Serie 1, ","BMW Serie 1, ",116d,12.999 €,Diésel,11.2013,102.539 km,115 CV / 85 kW,3,Cambio tipo manual,Blanco
+"Mercedes-Benz Clase A, ","Mercedes-Benz Clase A, ",A 200 CDI Urban,18.799 €,Diésel,12.2019,102.948 km,135 CV / 100 kW,5,Doble embrague,Gris
+"Nissan Juke, ","Nissan Juke, ",1.5 Turbodiesel Tekna,11.599 €,Diésel,12.2014,103.595 km,110 CV / 81 kW,5,Cambio tipo manual,Blanco
+"Nissan Juke, ","Nissan Juke, ",1.5 Turbodiesel Tekna,11.599 €,Diésel,12.2014,103.595 km,110 CV / 81 kW,5,Cambio tipo manual,Blanco
+"Dacia Duster, ","Dacia Duster, ",1.5 dCi Ambiance 4x2,11.399 €,Diésel,02.2017,103.605 km,110 CV / 80 kW,5,Cambio tipo manual,Blanco
+"Mercedes-Benz Viano, ","Mercedes-Benz Viano, ",2.2 CDI lang Ambiente,25.999 €,Diésel,10.2013,104.469 km,163 CV / 120 kW,4,Cambio tipo automático,Negro
+"Volkswagen Golf VII, ","Volkswagen Golf VII, ",1.4 TSI Advance,15.199 €,Gasolina,10.2017,104.697 km,125 CV / 92 kW,5,Cambio tipo manual,Blanco
+"Renault Scenic, ","Renault Scenic, ",1.5 dCi Dynamique,9.299 €,Diésel,07.2012,105.350 km,110 CV / 81 kW,5,Doble embrague,Blanco
+"Ford Focus, ","Ford Focus, ",1.0 EcoBoost Edition,8.199 €,Gasolina,12.2012,106.619 km,125 CV / 92 kW,5,Cambio tipo manual,Negro
+"Opel Corsa, ","Opel Corsa, ",1.4 Selective,8.999 €,Gasolina,05.2017,107.332 km,90 CV / 66 kW,5,Cambio tipo manual,Negro
+"Citroen Berlingo, ","Citroen Berlingo, ",1.5 Blue-HDi Feel M,19.999 €,Diésel,06.2020,107.844 km,102 CV / 75 kW,5,Cambio tipo manual,Gris
+"Mercedes-Benz Clase CLA, ","Mercedes-Benz Clase CLA, ",CLA 200 d Urban,22.499 €,Diésel,02.2018,108.171 km,135 CV / 100 kW,4,Doble embrague,Blanco
+"Citroen C4 Grand Picasso, ","Citroen C4 Grand Picasso, ",2.0 Blue-HDi Shine,18.199 €,Diésel,05.2018,108.304 km,150 CV / 110 kW,5,Cambio tipo automático,Gris
+"Peugeot Expert, ","Peugeot Expert, ",2.0 Blue-HDi Active L2,27.999 €,Diésel,12.2018,108.673 km,150 CV / 110 kW,4,Cambio tipo manual,Gris
+"Nissan Qashqai, ","Nissan Qashqai, ",1.6 dCi Visia 4x4,15.999 €,Diésel,02.2017,108.687 km,130 CV / 96 kW,5,Cambio tipo manual,Blanco
+"Nissan Pulsar, ","Nissan Pulsar, ",1.5 Turbodiesel Acenta,11.099 €,Diésel,03.2017,108.935 km,110 CV / 81 kW,5,Cambio tipo manual,Gris
+"Citroen C4, ","Citroen C4, ",1.6 HDi Exclusive,8.599 €,Diésel,09.2011,108.939 km,110 CV / 82 kW,5,Semi-automático,Azul
+"Peugeot 508, ","Peugeot 508, ",1.6 Turbo Allure,8.499 €,Gasolina,03.2011,109.111 km,155 CV / 115 kW,4,Cambio tipo manual,Negro
+"Seat Altea, ","Seat Altea, ",1.6 TDI Reference Copa Ecomotive,8.999 €,Diésel,09.2013,109.729 km,105 CV / 77 kW,5,Cambio tipo manual,Negro
+"Honda Jazz, ","Honda Jazz, ",1.3 Hybrid Elegance,9.599 €,Híbrido,12.2011,109.843 km,88 CV / 65 kW,5,Cambio tipo automático,Azul
+"Ford Grand Tourneo Connect, ","Ford Grand Tourneo Connect, ",1.5 TDCi Titanium,17.699 €,Diésel,10.2017,110.633 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Volkswagen Passat, ","Volkswagen Passat, ",1.6 TDI Edition BlueMotion,11.899 €,Diésel,05.2014,111.310 km,105 CV / 77 kW,5,Cambio tipo manual,Blanco
+"Citroen C3 Aircross, ","Citroen C3 Aircross, ",1.2 e-THP Feel,12.799 €,Gasolina,02.2019,102.352 km,110 CV / 81 kW,5,Cambio tipo manual,Gris
+"BMW Serie 3, ","BMW Serie 3, ",318d,13.199 €,Diésel,05.2012,102.407 km,143 CV / 105 kW,4,Cambio tipo automático,Blanco
+"Volkswagen Polo, ","Volkswagen Polo, ",1.6 TDI Advance,9.099 €,Diésel,07.2013,102.539 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"BMW Serie 1, ","BMW Serie 1, ",116d,12.999 €,Diésel,11.2013,102.539 km,115 CV / 85 kW,3,Cambio tipo manual,Blanco
+"Mercedes-Benz Clase A, ","Mercedes-Benz Clase A, ",A 200 CDI Urban,18.799 €,Diésel,12.2019,102.948 km,135 CV / 100 kW,5,Doble embrague,Gris
+"Nissan Juke, ","Nissan Juke, ",1.5 Turbodiesel Tekna,11.599 €,Diésel,12.2014,103.595 km,110 CV / 81 kW,5,Cambio tipo manual,Blanco
+"Nissan Juke, ","Nissan Juke, ",1.5 Turbodiesel Tekna,11.599 €,Diésel,12.2014,103.595 km,110 CV / 81 kW,5,Cambio tipo manual,Blanco
+"Dacia Duster, ","Dacia Duster, ",1.5 dCi Ambiance 4x2,11.399 €,Diésel,02.2017,103.605 km,110 CV / 80 kW,5,Cambio tipo manual,Blanco
+"Mercedes-Benz Viano, ","Mercedes-Benz Viano, ",2.2 CDI lang Ambiente,25.999 €,Diésel,10.2013,104.469 km,163 CV / 120 kW,4,Cambio tipo automático,Negro
+"Volkswagen Golf VII, ","Volkswagen Golf VII, ",1.4 TSI Advance,15.199 €,Gasolina,10.2017,104.697 km,125 CV / 92 kW,5,Cambio tipo manual,Blanco
+"Renault Scenic, ","Renault Scenic, ",1.5 dCi Dynamique,9.299 €,Diésel,07.2012,105.350 km,110 CV / 81 kW,5,Doble embrague,Blanco
+"Ford Focus, ","Ford Focus, ",1.0 EcoBoost Edition,8.199 €,Gasolina,12.2012,106.619 km,125 CV / 92 kW,5,Cambio tipo manual,Negro
+"Opel Corsa, ","Opel Corsa, ",1.4 Selective,8.999 €,Gasolina,05.2017,107.332 km,90 CV / 66 kW,5,Cambio tipo manual,Negro
+"Citroen Berlingo, ","Citroen Berlingo, ",1.5 Blue-HDi Feel M,19.999 €,Diésel,06.2020,107.844 km,102 CV / 75 kW,5,Cambio tipo manual,Gris
+"Mercedes-Benz Clase CLA, ","Mercedes-Benz Clase CLA, ",CLA 200 d Urban,22.499 €,Diésel,02.2018,108.171 km,135 CV / 100 kW,4,Doble embrague,Blanco
+"Citroen C4 Grand Picasso, ","Citroen C4 Grand Picasso, ",2.0 Blue-HDi Shine,18.199 €,Diésel,05.2018,108.304 km,150 CV / 110 kW,5,Cambio tipo automático,Gris
+"Peugeot Expert, ","Peugeot Expert, ",2.0 Blue-HDi Active L2,27.999 €,Diésel,12.2018,108.673 km,150 CV / 110 kW,4,Cambio tipo manual,Gris
+"Nissan Qashqai, ","Nissan Qashqai, ",1.6 dCi Visia 4x4,15.999 €,Diésel,02.2017,108.687 km,130 CV / 96 kW,5,Cambio tipo manual,Blanco
+"Nissan Pulsar, ","Nissan Pulsar, ",1.5 Turbodiesel Acenta,11.099 €,Diésel,03.2017,108.935 km,110 CV / 81 kW,5,Cambio tipo manual,Gris
+"Citroen C4, ","Citroen C4, ",1.6 HDi Exclusive,8.599 €,Diésel,09.2011,108.939 km,110 CV / 82 kW,5,Semi-automático,Azul
+"Peugeot 508, ","Peugeot 508, ",1.6 Turbo Allure,8.499 €,Gasolina,03.2011,109.111 km,155 CV / 115 kW,4,Cambio tipo manual,Negro
+"Seat Altea, ","Seat Altea, ",1.6 TDI Reference Copa Ecomotive,8.999 €,Diésel,09.2013,109.729 km,105 CV / 77 kW,5,Cambio tipo manual,Negro
+"Honda Jazz, ","Honda Jazz, ",1.3 Hybrid Elegance,9.599 €,Híbrido,12.2011,109.843 km,88 CV / 65 kW,5,Cambio tipo automático,Azul
+"Ford Grand Tourneo Connect, ","Ford Grand Tourneo Connect, ",1.5 TDCi Titanium,17.699 €,Diésel,10.2017,110.633 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Volkswagen Passat, ","Volkswagen Passat, ",1.6 TDI Edition BlueMotion,11.899 €,Diésel,05.2014,111.310 km,105 CV / 77 kW,5,Cambio tipo manual,Blanco
+"BMW X3, ","BMW X3, ",sDrive 18d,18.499 €,Diésel,10.2014,112.350 km,150 CV / 110 kW,5,Cambio tipo manual,Azul
+"Opel Insignia, ","Opel Insignia, ",2.0 CDTI Cosmo,7.999 €,Diésel,11.2011,113.235 km,130 CV / 96 kW,5,Cambio tipo manual,Negro
+"Volkswagen Polo, ","Volkswagen Polo, ",1.6 TDI Sport by R-Line,10.799 €,Diésel,10.2013,113.985 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"Dacia Duster, ","Dacia Duster, ",1.2 TCe Laureate 4x2,9.399 €,Gasolina,04.2016,114.899 km,125 CV / 92 kW,5,Cambio tipo manual,Blanco
+"Volkswagen Tiguan, ","Volkswagen Tiguan, ",2.0 TDI Sport 4Motion BlueMotion,27.599 €,Diésel,07.2017,115.074 km,190 CV / 140 kW,5,Doble embrague,Gris
+"Nissan Qashqai, ","Nissan Qashqai, ",1.6 dCi Visia 4x4,12.899 €,Diésel,03.2014,115.228 km,130 CV / 96 kW,5,Cambio tipo manual,Blanco
+"Dacia Sandero II, ","Dacia Sandero II, ",1.5 dCi Laureate,7.999 €,Diésel,06.2015,115.779 km,90 CV / 66 kW,5,Cambio tipo manual,Negro
+"Renault Megane, ","Renault Megane, ",1.2 Limited,8.699 €,Gasolina,10.2014,116.198 km,115 CV / 85 kW,5,Cambio tipo manual,Blanco
+"Peugeot 308, ","Peugeot 308, ",1.6 Active,7.099 €,Gasolina,11.2012,116.491 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Audi Q5, ","Audi Q5, ",2.0 TDI Advance quattro,20.999 €,Diésel,08.2014,117.575 km,177 CV / 130 kW,5,Doble embrague,Gris
+"Peugeot 308, ","Peugeot 308, ",1.2 e-THP Style,10.699 €,Gasolina,01.2016,118.212 km,110 CV / 81 kW,5,Cambio tipo manual,Blanco
+"Fiat Freemont, ","Fiat Freemont, ",2.0 Multijet Urban,10.699 €,Diésel,07.2011,118.792 km,140 CV / 103 kW,5,Cambio tipo manual,Negro
+"Kia Sportage, ","Kia Sportage, ",1.7 CRDi Drive 2WD,17.199 €,Diésel,01.2017,119.884 km,115 CV / 85 kW,5,Cambio tipo manual,Blanco
+"Volkswagen Tiguan, ","Volkswagen Tiguan, ",2.0 TDI T1 BlueMotion,16.699 €,Diésel,07.2015,120.453 km,150 CV / 110 kW,5,Cambio tipo manual,Blanco
+"MINI MINI, ","MINI MINI, ",Cooper S,11.599 €,Gasolina,11.2011,121.006 km,185 CV / 135 kW,3,Cambio tipo automático,Gris
+"Seat Ibiza, ","Seat Ibiza, ",1.6 TDI Style,7.099 €,Diésel,03.2012,121.814 km,105 CV / 77 kW,5,Cambio tipo manual,Gris
+"BMW Serie 1, ","BMW Serie 1, ",116d M Sport,14.999 €,Diésel,07.2015,122.971 km,115 CV / 85 kW,5,Cambio tipo manual,Blanco
+"Citroen C4 Picasso, ","Citroen C4 Picasso, ",1.6 Blue-HDi Live,11.799 €,Diésel,04.2017,124.010 km,120 CV / 88 kW,5,Cambio tipo manual,Negro
+"Citroen C4 Cactus, ","Citroen C4 Cactus, ",1.2 VTi Feel,9.299 €,Gasolina,03.2015,124.033 km,82 CV / 60 kW,5,Cambio tipo manual,Blanco
+"Audi A1, ","Audi A1, ",1.2 TFSI Attraction,10.499 €,Gasolina,05.2013,124.166 km,85 CV / 63 kW,3,Cambio tipo manual,Blanco
+"Peugeot 2008, ","Peugeot 2008, ",1.6 Blue-HDi Allure,12.199 €,Diésel,12.2016,124.942 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Suzuki SX4, ","Suzuki SX4, ",2.0 DDiS GLX,7.099 €,Diésel,03.2013,124.969 km,135 CV / 99 kW,5,Cambio tipo manual,Gris
+"MG ZS, ","MG ZS, ",1.5 VTi Luxury,18.499 €,Gasolina,11.2022,2487 km,106 CV / 78 kW,5,Cambio tipo manual,Negro
+"Fiat 500, ","Fiat 500, ",1.2 Lounge,15.099 €,Gasolina,10.2020,3198 km,70 CV / 51 kW,3,Cambio tipo automático,Blanco
+"Peugeot 2008, ","Peugeot 2008, ",GT PureTech SS EAT8,24.699 €,Gasolina,02.2021,3558 km,131 CV / 96 kW,5,Cambio tipo automático,Naranja
+"Hyundai Tucson, ","Hyundai Tucson, ",1.6 T-GDI Hybrid Maxx Auto,34.099 €,Híbrido,05.2022,4194 km,180 CV / 132 kW,5,Cambio tipo automático,Gris
+"Land Rover Evoque, ","Land Rover Evoque, ",D150 S Mild-Hybrid,36.399 €,Diésel,04.2019,4366 km,150 CV / 110 kW,5,Cambio tipo automático,Gris
+"Hyundai i20, ","Hyundai i20, ",1.0 TGDI SLX,15.299 €,Gasolina,07.2022,6025 km,101 CV / 74 kW,5,Cambio tipo manual,Verde
+"Volkswagen Polo, ","Volkswagen Polo, ",1.0 TSI United,15.499 €,Gasolina,03.2021,6108 km,95 CV / 70 kW,5,Cambio tipo manual,Blanco
+"Skoda Kamiq, ","Skoda Kamiq, ",1.0 TSI Emotion ,17.499 €,Gasolina,05.2022,6887 km,95 CV / 70 kW,5,Cambio tipo manual,Azul
+"Dacia Sandero II, ","Dacia Sandero II, ",1.0 TCe Comfort,10.799 €,Gasolina,08.2020,7811 km,101 CV / 74 kW,5,Cambio tipo manual,Azul
+"Skoda Fabia, ","Skoda Fabia, ",1.2 TSI Ambition,11.799 €,Gasolina,10.2016,8082 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"Peugeot 2008, ","Peugeot 2008, ",1.2 PureTech Style,14.299 €,Gasolina,08.2018,8633 km,82 CV / 60 kW,5,Cambio tipo manual,Gris
+"Peugeot 3008, ","Peugeot 3008, ",1.5 Blue-HDi GT Line,26.399 €,Diésel,06.2021,8670 km,130 CV / 96 kW,5,Cambio tipo manual,Rojo
+"Dacia Sandero III, ","Dacia Sandero III, ",1.0 TCe Stepway Essential,14.599 €,Gasolina,12.2021,8802 km,91 CV / 67 kW,5,Cambio tipo manual,Rojo
+"Nissan Micra, ","Nissan Micra, ",1.0 IG-T N-Tec,13.899 €,Gasolina,02.2020,9293 km,101 CV / 74 kW,5,Cambio tipo manual,Blanco
+"Dacia Duster, ","Dacia Duster, ",1.2 TCe Black Shadow 4x2,13.699 €,Gasolina,04.2017,10.575 km,125 CV / 92 kW,5,Cambio tipo manual,Blanco
+"Fiat 500, ","Fiat 500, ",1.0 Lounge,11.999 €,Híbrido,08.2020,10.915 km,70 CV / 51 kW,3,Cambio tipo manual,Blanco
+"Toyota C-HR, ","Toyota C-HR, ",1.8 Hybrid Active,25.299 €,Híbrido,04.2021,11.475 km,122 CV / 90 kW,5,Cambio tipo automático,Negro
+"Toyota C-HR, ","Toyota C-HR, ",2.0 Hybrid GR Sport,28.099 €,Híbrido,01.2022,12.774 km,184 CV / 135 kW,5,Cambio tipo automático,Blanco
+"Seat Arona, ","Seat Arona, ",1.0 TSI Ecomotive Style,14.299 €,Gasolina,04.2018,13.121 km,95 CV / 70 kW,5,Cambio tipo manual,Blanco
+"Peugeot 108, ","Peugeot 108, ",1.0 VTi Allure,9.799 €,Gasolina,01.2020,14.237 km,72 CV / 53 kW,5,Cambio tipo manual,Rojo
+"Dacia Sandero II, ","Dacia Sandero II, ",0.9 TCe SL Nomada 2018,11.499 €,Gasolina,06.2018,14.384 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"Peugeot 2008, ","Peugeot 2008, ",1.2 PureTech Style,14.299 €,Gasolina,04.2017,14.441 km,110 CV / 81 kW,5,Cambio tipo manual,Gris
+"Kia Picanto, ","Kia Picanto, ",1.0 CVVT Concept,8.899 €,Gasolina,10.2018,14.677 km,67 CV / 49 kW,5,Cambio tipo manual,Gris
+"Hyundai i20, ","Hyundai i20, ",1.0 TGDI Tecno LE,14.799 €,Gasolina,05.2019,15.027 km,101 CV / 74 kW,5,Cambio tipo automático,Blanco
+"Volkswagen up!, ","Volkswagen up!, ",1.0 High up!,7.699 €,Gasolina,06.2014,15.117 km,75 CV / 55 kW,5,Cambio tipo manual,Rojo
+"Fiat Punto, ","Fiat Punto, ",1.2 Nueva Coleccion,8.499 €,Gasolina,02.2018,15.253 km,70 CV / 51 kW,5,Cambio tipo manual,Blanco
+"Kia Sportage, ","Kia Sportage, ",1.6 GDI Concept 2WD,18.199 €,Gasolina,06.2020,15.675 km,132 CV / 97 kW,5,Cambio tipo manual,Gris
+"Fiat 500L, ","Fiat 500L, ",1.3 M-Jet Pop Star,13.999 €,Diésel,09.2017,16.107 km,95 CV / 70 kW,5,Cambio tipo automático,Rojo
+"Peugeot 2008, ","Peugeot 2008, ",1.6 Blue-HDi Allure,12.199 €,Diésel,12.2016,124.942 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Suzuki SX4, ","Suzuki SX4, ",2.0 DDiS GLX,7.099 €,Diésel,03.2013,124.969 km,135 CV / 99 kW,5,Cambio tipo manual,Gris
+"MG ZS, ","MG ZS, ",1.5 VTi Luxury,18.499 €,Gasolina,11.2022,2487 km,106 CV / 78 kW,5,Cambio tipo manual,Negro
+"Fiat 500, ","Fiat 500, ",1.2 Lounge,15.099 €,Gasolina,10.2020,3198 km,70 CV / 51 kW,3,Cambio tipo automático,Blanco
+"Peugeot 2008, ","Peugeot 2008, ",GT PureTech SS EAT8,24.699 €,Gasolina,02.2021,3558 km,131 CV / 96 kW,5,Cambio tipo automático,Naranja
+"Hyundai Tucson, ","Hyundai Tucson, ",1.6 T-GDI Hybrid Maxx Auto,34.099 €,Híbrido,05.2022,4194 km,180 CV / 132 kW,5,Cambio tipo automático,Gris
+"Land Rover Evoque, ","Land Rover Evoque, ",D150 S Mild-Hybrid,36.399 €,Diésel,04.2019,4366 km,150 CV / 110 kW,5,Cambio tipo automático,Gris
+"Hyundai i20, ","Hyundai i20, ",1.0 TGDI SLX,15.299 €,Gasolina,07.2022,6025 km,101 CV / 74 kW,5,Cambio tipo manual,Verde
+"Volkswagen Polo, ","Volkswagen Polo, ",1.0 TSI United,15.499 €,Gasolina,03.2021,6108 km,95 CV / 70 kW,5,Cambio tipo manual,Blanco
+"Skoda Kamiq, ","Skoda Kamiq, ",1.0 TSI Emotion ,17.499 €,Gasolina,05.2022,6887 km,95 CV / 70 kW,5,Cambio tipo manual,Azul
+"Dacia Sandero II, ","Dacia Sandero II, ",1.0 TCe Comfort,10.799 €,Gasolina,08.2020,7811 km,101 CV / 74 kW,5,Cambio tipo manual,Azul
+"Skoda Fabia, ","Skoda Fabia, ",1.2 TSI Ambition,11.799 €,Gasolina,10.2016,8082 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"Peugeot 2008, ","Peugeot 2008, ",1.2 PureTech Style,14.299 €,Gasolina,08.2018,8633 km,82 CV / 60 kW,5,Cambio tipo manual,Gris
+"Peugeot 3008, ","Peugeot 3008, ",1.5 Blue-HDi GT Line,26.399 €,Diésel,06.2021,8670 km,130 CV / 96 kW,5,Cambio tipo manual,Rojo
+"Dacia Sandero III, ","Dacia Sandero III, ",1.0 TCe Stepway Essential,14.599 €,Gasolina,12.2021,8802 km,91 CV / 67 kW,5,Cambio tipo manual,Rojo
+"Nissan Micra, ","Nissan Micra, ",1.0 IG-T N-Tec,13.899 €,Gasolina,02.2020,9293 km,101 CV / 74 kW,5,Cambio tipo manual,Blanco
+"Dacia Duster, ","Dacia Duster, ",1.2 TCe Black Shadow 4x2,13.699 €,Gasolina,04.2017,10.575 km,125 CV / 92 kW,5,Cambio tipo manual,Blanco
+"Fiat 500, ","Fiat 500, ",1.0 Lounge,11.999 €,Híbrido,08.2020,10.915 km,70 CV / 51 kW,3,Cambio tipo manual,Blanco
+"Toyota C-HR, ","Toyota C-HR, ",1.8 Hybrid Active,25.299 €,Híbrido,04.2021,11.475 km,122 CV / 90 kW,5,Cambio tipo automático,Negro
+"Toyota C-HR, ","Toyota C-HR, ",2.0 Hybrid GR Sport,28.099 €,Híbrido,01.2022,12.774 km,184 CV / 135 kW,5,Cambio tipo automático,Blanco
+"Seat Arona, ","Seat Arona, ",1.0 TSI Ecomotive Style,14.299 €,Gasolina,04.2018,13.121 km,95 CV / 70 kW,5,Cambio tipo manual,Blanco
+"Peugeot 108, ","Peugeot 108, ",1.0 VTi Allure,9.799 €,Gasolina,01.2020,14.237 km,72 CV / 53 kW,5,Cambio tipo manual,Rojo
+"Dacia Sandero II, ","Dacia Sandero II, ",0.9 TCe SL Nomada 2018,11.499 €,Gasolina,06.2018,14.384 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"Peugeot 2008, ","Peugeot 2008, ",1.2 PureTech Style,14.299 €,Gasolina,04.2017,14.441 km,110 CV / 81 kW,5,Cambio tipo manual,Gris
+"Kia Picanto, ","Kia Picanto, ",1.0 CVVT Concept,8.899 €,Gasolina,10.2018,14.677 km,67 CV / 49 kW,5,Cambio tipo manual,Gris
+"Hyundai i20, ","Hyundai i20, ",1.0 TGDI Tecno LE,14.799 €,Gasolina,05.2019,15.027 km,101 CV / 74 kW,5,Cambio tipo automático,Blanco
+"Volkswagen up!, ","Volkswagen up!, ",1.0 High up!,7.699 €,Gasolina,06.2014,15.117 km,75 CV / 55 kW,5,Cambio tipo manual,Rojo
+"Fiat Punto, ","Fiat Punto, ",1.2 Nueva Coleccion,8.499 €,Gasolina,02.2018,15.253 km,70 CV / 51 kW,5,Cambio tipo manual,Blanco
+"Kia Sportage, ","Kia Sportage, ",1.6 GDI Concept 2WD,18.199 €,Gasolina,06.2020,15.675 km,132 CV / 97 kW,5,Cambio tipo manual,Gris
+"Fiat 500L, ","Fiat 500L, ",1.3 M-Jet Pop Star,13.999 €,Diésel,09.2017,16.107 km,95 CV / 70 kW,5,Cambio tipo automático,Rojo
+"Nissan Micra, ","Nissan Micra, ",1.2 Acenta,7.999 €,Gasolina,10.2014,16.511 km,80 CV / 59 kW,5,Cambio tipo manual,Blanco
+"Dacia Sandero II, ","Dacia Sandero II, ",0.9 TCe SL Xplore,11.199 €,Gasolina,05.2019,16.908 km,90 CV / 66 kW,5,Cambio tipo manual,Azul
+"Suzuki Jimny, ","Suzuki Jimny, ",1.5 JX,26.499 €,Gasolina,02.2020,17.527 km,102 CV / 75 kW,3,Cambio tipo manual,Verde
+"Opel Mokka, ","Opel Mokka, ",1.2 Turbo GS Line,23.799 €,Gasolina,03.2021,17.574 km,131 CV / 96 kW,5,Cambio tipo automático,Blanco
+"Opel Adam, ","Opel Adam, ",1.4 Glam Unlimited,10.799 €,Gasolina,05.2019,18.280 km,87 CV / 64 kW,3,Cambio tipo manual,Negro
+"Kia Picanto, ","Kia Picanto, ",1.0 Concept,8.599 €,Gasolina,12.2016,18.387 km,65 CV / 48 kW,5,Cambio tipo manual,Blanco
+"Toyota AYGO, ","Toyota AYGO, ",1.0 X-Wave,10.299 €,Gasolina,06.2019,18.427 km,72 CV / 53 kW,5,Cambio tipo manual,Negro
+"Hyundai i20, ","Hyundai i20, ",1.2 Fresh,10.799 €,Gasolina,08.2017,18.640 km,85 CV / 62 kW,5,Cambio tipo manual,Blanco
+"Hyundai i30, ","Hyundai i30, ",1.5 Hybrid N Line,20.499 €,Híbrido,10.2021,18.750 km,159 CV / 117 kW,5,Cambio tipo manual,Rojo
+"Volkswagen Polo, ","Volkswagen Polo, ",1.6 TDI Advance,10.999 €,Diésel,04.2014,18.790 km,90 CV / 66 kW,3,Cambio tipo manual,Gris
+"Dacia Sandero, ","Dacia Sandero, ",0.9 TCe  Stepway Essential,11.299 €,Gasolina,08.2018,19.456 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"Smart ForTwo, ","Smart ForTwo, ",0.9 Turbo Coupe Passion ,12.199 €,Gasolina,02.2018,19.508 km,90 CV / 66 kW,3,Cambio tipo automático,Blanco
+"Peugeot 2008, ","Peugeot 2008, ",1.2 PureTech GT EAT8,25.599 €,Gasolina,11.2021,19.587 km,131 CV / 96 kW,5,Cambio tipo automático,Blanco
+"Dacia Sandero II, ","Dacia Sandero II, ",0.9 TCe Stepway Comfort,11.699 €,Gasolina,02.2019,19.812 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"Nissan Qashqai, ","Nissan Qashqai, ",1.3 DIG-T N-Connecta,18.899 €,Gasolina,06.2019,20.647 km,140 CV / 103 kW,5,Cambio tipo manual,Gris
+"Hyundai i30, ","Hyundai i30, ",1.0 TGDI Essence,17.399 €,Gasolina,02.2021,21.012 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Toyota Yaris, ","Toyota Yaris, ",1.5 Hybrid Active,13.999 €,Híbrido,03.2018,21.111 km,75 CV / 55 kW,5,Cambio tipo automático,Rojo
+"Citroen C4 Grand Spacetourer, ","Citroen C4 Grand Spacetourer, ",1.2 PureTech Feel,19.499 €,Gasolina,01.2019,21.381 km,130 CV / 96 kW,5,Cambio tipo manual,Negro
+"Dacia Lodgy, ","Dacia Lodgy, ",1.6 SCe SL Nomada,15.199 €,Gasolina,12.2018,21.489 km,102 CV / 75 kW,5,Cambio tipo manual,Blanco
+"Ford Tourneo, ","Ford Tourneo, ",1.0 EcoBoost Ambiente,14.299 €,Gasolina,04.2019,21.679 km,100 CV / 74 kW,5,Cambio tipo manual,Rojo
+"Volkswagen Polo, ","Volkswagen Polo, ",1.2 TSI Advance BlueMotion,13.099 €,Gasolina,04.2017,21.825 km,90 CV / 66 kW,5,Cambio tipo manual,Gris
+"Ford Focus, ","Ford Focus, ",1.0 EcoBoost Trend Edition,15.999 €,Gasolina,01.2019,22.001 km,125 CV / 92 kW,5,Cambio tipo manual,Blanco
+"Toyota AYGO, ","Toyota AYGO, ",1.0 X-Play,9.799 €,Gasolina,05.2018,22.378 km,70 CV / 51 kW,5,Cambio tipo manual,Plata
+"Toyota AYGO, ","Toyota AYGO, ",1.0 X-Play,10.899 €,Gasolina,05.2021,23.215 km,72 CV / 53 kW,5,Cambio tipo manual,Gris
+"Mitsubishi ASX, ","Mitsubishi ASX, ",2.0 MPI Spirit,18.899 €,Gasolina,12.2019,23.284 km,150 CV / 110 kW,5,Cambio tipo manual,Gris
+"Jeep Compass, ","Jeep Compass, ",1.3 Gse Sport FWD,21.099 €,Gasolina,05.2021,24.181 km,131 CV / 96 kW,5,Cambio tipo manual,Blanco
+"Citroen Berlingo, ","Citroen Berlingo, ",1.2 PureTech Feel M,20.299 €,Gasolina,07.2019,24.301 km,110 CV / 81 kW,5,Cambio tipo manual,Azul
+"Fiat 500, ","Fiat 500, ",1.2 Lounge,12.299 €,Gasolina,07.2019,24.324 km,70 CV / 51 kW,3,Cambio tipo automático,Azul
+"Toyota AYGO, ","Toyota AYGO, ",1.0 Live,6.999 €,Gasolina,05.2014,24.369 km,68 CV / 50 kW,5,Cambio tipo manual,Rojo
+"Skoda Octavia, ","Skoda Octavia, ",1.4 TSI Ambition,16.699 €,Gasolina,06.2018,24.417 km,150 CV / 110 kW,5,Cambio tipo manual,Gris
+"Fiat 500, ","Fiat 500, ",1.2 Pop,8.799 €,Gasolina,10.2017,24.670 km,70 CV / 51 kW,3,Cambio tipo manual,Blanco
+"Ford Fiesta, ","Ford Fiesta, ",1.0 EcoBoost ST-Line,14.199 €,Gasolina,01.2020,24.935 km,95 CV / 70 kW,5,Cambio tipo manual,Azul
+"Citroen Berlingo, ","Citroen Berlingo, ",Talla M BlueHDi Shine ,20.799 €,Diésel,09.2020,25.244 km,102 CV / 75 kW,5,Cambio tipo manual,Gris
+"DS Automobiles DS7 Crossback, ","DS Automobiles DS7 Crossback, ",1.2 PureTech Performance,27.899 €,Gasolina,10.2020,26.743 km,131 CV / 96 kW,5,Cambio tipo automático,Gris
+"Citroen C 3, ","Citroen C 3, ",1.6 Blue-HDi Shine,12.199 €,Diésel,09.2018,26.952 km,100 CV / 73 kW,5,Cambio tipo manual,Rojo
+"Citroen Berlingo, ","Citroen Berlingo, ",1.2 PureTech Feel Talla M,21.099 €,Gasolina,02.2019,27.601 km,110 CV / 81 kW,5,Cambio tipo manual,Negro
+"Citroen Berlingo, ","Citroen Berlingo, ",1.5 Blue-HDi Shine M,21.699 €,Diésel,08.2019,27.646 km,131 CV / 96 kW,5,Cambio tipo manual,Gris
+"Audi A1, ","Audi A1, ",30 TFSI S Line,18.599 €,Gasolina,11.2018,27.975 km,116 CV / 85 kW,5,Cambio tipo manual,Gris
+"Hyundai Tucson, ","Hyundai Tucson, ",1.6 CRDi NLine 4X2,23.099 €,Diésel,03.2021,28.063 km,116 CV / 85 kW,5,Cambio tipo manual,Rojo
+"Hyundai Kona, ","Hyundai Kona, ",1.0 TGDI Klass 2WD,15.999 €,Gasolina,03.2019,28.136 km,120 CV / 88 kW,5,Cambio tipo manual,Naranja
+"MINI Cabrio, ","MINI Cabrio, ",Cooper S,24.499 €,Gasolina,04.2018,28.214 km,192 CV / 141 kW,2,Cambio tipo automático,Negro
+"Citroen C3 Aircross, ","Citroen C3 Aircross, ",1.2 PureTech Feel,12.799 €,Gasolina,09.2018,28.314 km,82 CV / 60 kW,5,Cambio tipo manual,Rojo
+"Toyota AYGO, ","Toyota AYGO, ",1.0 X-Cite,9.699 €,Gasolina,04.2018,28.423 km,70 CV / 51 kW,5,Cambio tipo manual,Gris
+"Opel Insignia, ","Opel Insignia, ",1.4 Turbo Selective,12.599 €,Gasolina,02.2017,28.485 km,140 CV / 103 kW,5,Cambio tipo manual,Azul
+"Kia Rio, ","Kia Rio, ",1.2 X-Tech,10.399 €,Gasolina,07.2016,28.972 km,85 CV / 62 kW,5,Cambio tipo manual,Blanco
+"Volkswagen Polo, ","Volkswagen Polo, ",1.2 TSI Advance BlueMotion,13.099 €,Gasolina,04.2017,21.825 km,90 CV / 66 kW,5,Cambio tipo manual,Gris
+"Ford Focus, ","Ford Focus, ",1.0 EcoBoost Trend Edition,15.999 €,Gasolina,01.2019,22.001 km,125 CV / 92 kW,5,Cambio tipo manual,Blanco
+"Toyota AYGO, ","Toyota AYGO, ",1.0 X-Play,9.799 €,Gasolina,05.2018,22.378 km,70 CV / 51 kW,5,Cambio tipo manual,Plata
+"Toyota AYGO, ","Toyota AYGO, ",1.0 X-Play,10.899 €,Gasolina,05.2021,23.215 km,72 CV / 53 kW,5,Cambio tipo manual,Gris
+"Mitsubishi ASX, ","Mitsubishi ASX, ",2.0 MPI Spirit,18.899 €,Gasolina,12.2019,23.284 km,150 CV / 110 kW,5,Cambio tipo manual,Gris
+"Jeep Compass, ","Jeep Compass, ",1.3 Gse Sport FWD,21.099 €,Gasolina,05.2021,24.181 km,131 CV / 96 kW,5,Cambio tipo manual,Blanco
+"Citroen Berlingo, ","Citroen Berlingo, ",1.2 PureTech Feel M,20.299 €,Gasolina,07.2019,24.301 km,110 CV / 81 kW,5,Cambio tipo manual,Azul
+"Fiat 500, ","Fiat 500, ",1.2 Lounge,12.299 €,Gasolina,07.2019,24.324 km,70 CV / 51 kW,3,Cambio tipo automático,Azul
+"Toyota AYGO, ","Toyota AYGO, ",1.0 Live,6.999 €,Gasolina,05.2014,24.369 km,68 CV / 50 kW,5,Cambio tipo manual,Rojo
+"Skoda Octavia, ","Skoda Octavia, ",1.4 TSI Ambition,16.699 €,Gasolina,06.2018,24.417 km,150 CV / 110 kW,5,Cambio tipo manual,Gris
+"Fiat 500, ","Fiat 500, ",1.2 Pop,8.799 €,Gasolina,10.2017,24.670 km,70 CV / 51 kW,3,Cambio tipo manual,Blanco
+"Ford Fiesta, ","Ford Fiesta, ",1.0 EcoBoost ST-Line,14.199 €,Gasolina,01.2020,24.935 km,95 CV / 70 kW,5,Cambio tipo manual,Azul
+"Citroen Berlingo, ","Citroen Berlingo, ",Talla M BlueHDi Shine ,20.799 €,Diésel,09.2020,25.244 km,102 CV / 75 kW,5,Cambio tipo manual,Gris
+"DS Automobiles DS7 Crossback, ","DS Automobiles DS7 Crossback, ",1.2 PureTech Performance,27.899 €,Gasolina,10.2020,26.743 km,131 CV / 96 kW,5,Cambio tipo automático,Gris
+"Citroen C 3, ","Citroen C 3, ",1.6 Blue-HDi Shine,12.199 €,Diésel,09.2018,26.952 km,100 CV / 73 kW,5,Cambio tipo manual,Rojo
+"Citroen Berlingo, ","Citroen Berlingo, ",1.2 PureTech Feel Talla M,21.099 €,Gasolina,02.2019,27.601 km,110 CV / 81 kW,5,Cambio tipo manual,Negro
+"Citroen Berlingo, ","Citroen Berlingo, ",1.5 Blue-HDi Shine M,21.699 €,Diésel,08.2019,27.646 km,131 CV / 96 kW,5,Cambio tipo manual,Gris
+"Audi A1, ","Audi A1, ",30 TFSI S Line,18.599 €,Gasolina,11.2018,27.975 km,116 CV / 85 kW,5,Cambio tipo manual,Gris
+"Hyundai Tucson, ","Hyundai Tucson, ",1.6 CRDi NLine 4X2,23.099 €,Diésel,03.2021,28.063 km,116 CV / 85 kW,5,Cambio tipo manual,Rojo
+"Hyundai Kona, ","Hyundai Kona, ",1.0 TGDI Klass 2WD,15.999 €,Gasolina,03.2019,28.136 km,120 CV / 88 kW,5,Cambio tipo manual,Naranja
+"MINI Cabrio, ","MINI Cabrio, ",Cooper S,24.499 €,Gasolina,04.2018,28.214 km,192 CV / 141 kW,2,Cambio tipo automático,Negro
+"Citroen C3 Aircross, ","Citroen C3 Aircross, ",1.2 PureTech Feel,12.799 €,Gasolina,09.2018,28.314 km,82 CV / 60 kW,5,Cambio tipo manual,Rojo
+"Toyota AYGO, ","Toyota AYGO, ",1.0 X-Cite,9.699 €,Gasolina,04.2018,28.423 km,70 CV / 51 kW,5,Cambio tipo manual,Gris
+"Opel Insignia, ","Opel Insignia, ",1.4 Turbo Selective,12.599 €,Gasolina,02.2017,28.485 km,140 CV / 103 kW,5,Cambio tipo manual,Azul
+"Kia Rio, ","Kia Rio, ",1.2 X-Tech,10.399 €,Gasolina,07.2016,28.972 km,85 CV / 62 kW,5,Cambio tipo manual,Blanco
+"Audi A1, ","Audi A1, ",1.6 TDI Ambition,12.199 €,Diésel,04.2014,29.178 km,105 CV / 77 kW,3,Cambio tipo manual,Negro
+"Seat Alhambra, ","Seat Alhambra, ",1.4 TSI Xcellence,32.799 €,Gasolina,03.2021,29.357 km,150 CV / 110 kW,5,Cambio tipo automático,Negro
+"Hyundai i20, ","Hyundai i20, ",1.2 Essence,11.299 €,Gasolina,12.2019,29.713 km,75 CV / 55 kW,5,Cambio tipo manual,Azul
+"Hyundai Kona, ","Hyundai Kona, ",1.0 TGDI Essence 4x2,15.999 €,Gasolina,07.2019,29.979 km,120 CV / 88 kW,5,Cambio tipo manual,Gris
+"Seat Ateca, ","Seat Ateca, ",1.5 TSI  Style,23.999 €,Gasolina,05.2021,31.583 km,150 CV / 110 kW,5,Cambio tipo automático,Gris
+"Honda CR-V, ","Honda CR-V, ",2.0 i-MMD Hybrid Elegance 2WD,27.499 €,Híbrido,03.2019,31.851 km,184 CV / 135 kW,5,Cambio tipo automático,Azul
+"Toyota C-HR, ","Toyota C-HR, ",1.8 Hybrid Advance,20.699 €,Híbrido,10.2018,32.404 km,122 CV / 90 kW,5,Cambio tipo automático,Gris
+"Seat Ibiza, ","Seat Ibiza, ",1.2 TSI Reference,10.099 €,Gasolina,07.2016,32.471 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"Kia Sportage, ","Kia Sportage, ",1.6 GDI Concept,17.399 €,Gasolina,12.2019,32.821 km,132 CV / 97 kW,5,Cambio tipo manual,Blanco
+"Ford Focus, ","Ford Focus, ",1.0 EcoBoost ST-Line,19.099 €,Gasolina,10.2019,33.267 km,125 CV / 92 kW,5,Cambio tipo automático,Gris
+"Citroen C 3, ","Citroen C 3, ",1.5 Blue-HDi Feel,13.699 €,Diésel,11.2020,33.339 km,102 CV / 75 kW,5,Cambio tipo manual,Blanco
+"Dacia Sandero II, ","Dacia Sandero II, ",0.9 TCe Serie Limitada Aniversario ,12.899 €,Gasolina,06.2020,33.498 km,90 CV / 66 kW,5,Cambio tipo manual,Azul
+"Citroen C 3, ","Citroen C 3, ",1.2 PureTech Tonic,8.399 €,Gasolina,10.2015,33.564 km,82 CV / 60 kW,5,Cambio tipo manual,Plata
+"Kia Stonic, ","Kia Stonic, ",1.2 Concept,14.399 €,Gasolina,11.2019,33.643 km,85 CV / 62 kW,5,Cambio tipo manual,Rojo
+"Opel Corsa, ","Opel Corsa, ",1.4 Selective,10.399 €,Gasolina,08.2018,33.940 km,90 CV / 66 kW,5,Cambio tipo manual,Azul
+"Kia Picanto, ","Kia Picanto, ",1.0 Concept,9.999 €,Gasolina,03.2019,34.243 km,67 CV / 49 kW,5,Cambio tipo manual,Blanco
+"Citroen C4, ","Citroen C4, ",1.6 Blue-HDi Feel Edition,10.999 €,Diésel,04.2015,34.329 km,100 CV / 73 kW,5,Cambio tipo manual,Negro
+"Land Rover Evoque, ","Land Rover Evoque, ",D180 SE,36.299 €,Híbrido,02.2020,34.647 km,179 CV / 132 kW,5,Cambio tipo automático,Gris
+"Peugeot 5008, ","Peugeot 5008, ",1.5 Blue-HDi GT Line,25.399 €,Diésel,07.2019,35.603 km,130 CV / 96 kW,5,Cambio tipo manual,Gris
+"Dacia Duster II, ","Dacia Duster II, ",1.3 TCe Prestige,15.099 €,Gasolina,10.2019,35.713 km,131 CV / 96 kW,5,Cambio tipo manual,Gris
+"Renault Clio, ","Renault Clio, ",0.9 Energy Zen,11.299 €,Gasolina,03.2018,35.756 km,90 CV / 66 kW,5,Cambio tipo manual,Rojo
+"Mercedes-Benz Clase CLA, ","Mercedes-Benz Clase CLA, ",CLA 200 d,23.599 €,Diésel,01.2017,35.837 km,135 CV / 100 kW,4,Cambio tipo manual,Blanco
+"Volkswagen up!, ","Volkswagen up!, ",1.0 High up! BlueMotion,8.999 €,Gasolina,05.2017,36.605 km,60 CV / 44 kW,5,Cambio tipo manual,Blanco
+"Peugeot 208, ","Peugeot 208, ",1.2 PureTech Active,9.399 €,Gasolina,11.2015,36.620 km,82 CV / 60 kW,5,Cambio tipo manual,Gris
+"Hyundai Tucson, ","Hyundai Tucson, ",1.6 Essence,20.599 €,Gasolina,06.2020,36.795 km,132 CV / 97 kW,5,Cambio tipo manual,Gris
+"Nissan Qashqai, ","Nissan Qashqai, ",1.5 dCi N-Tec,20.599 €,Diésel,01.2020,36.970 km,116 CV / 85 kW,5,Cambio tipo manual,Gris
+"Peugeot 208, ","Peugeot 208, ",1.2 PureTech Style,9.299 €,Gasolina,08.2016,36.974 km,82 CV / 60 kW,5,Cambio tipo manual,Gris
+"Opel Astra, ","Opel Astra, ",1.4 Selective,14.899 €,Gasolina,07.2019,37.573 km,125 CV / 92 kW,5,Cambio tipo manual,Azul
+"Opel Corsa, ","Opel Corsa, ",1.3 Expression,6.899 €,Diésel,08.2012,37.647 km,75 CV / 55 kW,5,Cambio tipo manual,Gris
+"Suzuki Vitara, ","Suzuki Vitara, ",1.4 BoosterJet TURBO S 4x4,17.199 €,Gasolina,08.2018,37.707 km,140 CV / 103 kW,5,Cambio tipo automático,Gris
+"MINI MINI, ","MINI MINI, ",Cooper,17.899 €,Gasolina,04.2019,38.367 km,135 CV / 100 kW,5,Cambio tipo manual,Beige
+"Toyota Yaris, ","Toyota Yaris, ",1.5 Hybrid Active,14.599 €,Híbrido,05.2019,38.420 km,75 CV / 55 kW,5,Cambio tipo automático,Blanco
+"Seat Ibiza, ","Seat Ibiza, ",1.0 Style,11.299 €,Gasolina,04.2018,38.571 km,75 CV / 55 kW,5,Cambio tipo manual,Gris
+"Seat Mii, ","Seat Mii, ",1.0 Chic,7.499 €,Gasolina,10.2016,38.587 km,75 CV / 55 kW,5,Cambio tipo manual,Negro
+"Kia Rio, ","Kia Rio, ",1.2 Concept,11.599 €,Gasolina,12.2020,39.783 km,85 CV / 62 kW,5,Cambio tipo manual,Blanco
+"Volkswagen Golf VII, ","Volkswagen Golf VII, ",1.6 TDI Sport BMT,14.599 €,Diésel,09.2015,39.906 km,110 CV / 81 kW,5,Cambio tipo automático,Plata
+"Opel Adam, ","Opel Adam, ",1.4 XEL Jam,8.099 €,Gasolina,04.2014,40.245 km,87 CV / 64 kW,3,Cambio tipo manual,Amarillo
+"Alfa Romeo Giulietta, ","Alfa Romeo Giulietta, ",1.6 JTD Super,13.899 €,Diésel,08.2018,40.254 km,120 CV / 88 kW,5,Cambio tipo manual,Azul
+"Mazda CX 3, ","Mazda CX 3, ",2.0 Skyactiv-G Evolution,17.199 €,Gasolina,11.2018,40.627 km,121 CV / 89 kW,5,Cambio tipo manual,Blanco
+"Hyundai i10, ","Hyundai i10, ",1.0 Klass,8.999 €,Gasolina,03.2017,40.910 km,67 CV / 49 kW,5,Cambio tipo manual,Rojo
+"MINI Clubman, ","MINI Clubman, ",Cooper,18.299 €,Gasolina,07.2017,41.548 km,135 CV / 100 kW,5,Cambio tipo automático,Blanco
+"Ford Fiesta, ","Ford Fiesta, ",1.4 TDCi Trend,7.799 €,Diésel,06.2011,42.278 km,70 CV / 51 kW,5,Cambio tipo manual,Gris
+"Jeep Renegade, ","Jeep Renegade, ",2.0 M-Jet Limited ,16.399 €,Diésel,05.2015,42.326 km,140 CV / 103 kW,5,Cambio tipo manual,Azul
+"Toyota Corolla, ","Toyota Corolla, ",2.0 Hybrid Feel,22.199 €,Híbrido,06.2019,42.602 km,179 CV / 132 kW,5,Cambio tipo automático,Rojo
+"Volkswagen Golf VII, ","Volkswagen Golf VII, ",2.0 TDI Variant Advance,18.499 €,Diésel,10.2019,42.632 km,150 CV / 110 kW,5,Cambio tipo manual,Gris
+"Citroen C4 Spacetourer, ","Citroen C4 Spacetourer, ",1.5 Blue-HDi Feel,17.299 €,Diésel,01.2020,43.064 km,131 CV / 96 kW,5,Cambio tipo manual,Blanco
+"Toyota RAV 4, ","Toyota RAV 4, ",2.5 Hybrid 4x2 Advance,32.499 €,Híbrido,01.2021,43.389 km,218 CV / 160 kW,5,Cambio tipo automático,Negro
+"Renault Twingo, ","Renault Twingo, ",1.0 SCe Energy Zen ,8.599 €,Gasolina,08.2015,43.693 km,70 CV / 52 kW,5,Cambio tipo manual,Rojo
+"Peugeot 208, ","Peugeot 208, ",1.6 Blue-HDi Allure,11.399 €,Diésel,02.2016,43.916 km,100 CV / 73 kW,5,Cambio tipo manual,Gris
+"Opel Mokka, ","Opel Mokka, ",1.7 CDTI Excellence,12.699 €,Diésel,03.2014,44.408 km,130 CV / 96 kW,5,Cambio tipo automático,Gris
+"Nissan Qashqai, ","Nissan Qashqai, ",1.5 dCi N-Tec,20.599 €,Diésel,01.2020,36.970 km,116 CV / 85 kW,5,Cambio tipo manual,Gris
+"Peugeot 208, ","Peugeot 208, ",1.2 PureTech Style,9.299 €,Gasolina,08.2016,36.974 km,82 CV / 60 kW,5,Cambio tipo manual,Gris
+"Opel Astra, ","Opel Astra, ",1.4 Selective,14.899 €,Gasolina,07.2019,37.573 km,125 CV / 92 kW,5,Cambio tipo manual,Azul
+"Opel Corsa, ","Opel Corsa, ",1.3 Expression,6.899 €,Diésel,08.2012,37.647 km,75 CV / 55 kW,5,Cambio tipo manual,Gris
+"Suzuki Vitara, ","Suzuki Vitara, ",1.4 BoosterJet TURBO S 4x4,17.199 €,Gasolina,08.2018,37.707 km,140 CV / 103 kW,5,Cambio tipo automático,Gris
+"MINI MINI, ","MINI MINI, ",Cooper,17.899 €,Gasolina,04.2019,38.367 km,135 CV / 100 kW,5,Cambio tipo manual,Beige
+"Toyota Yaris, ","Toyota Yaris, ",1.5 Hybrid Active,14.599 €,Híbrido,05.2019,38.420 km,75 CV / 55 kW,5,Cambio tipo automático,Blanco
+"Seat Ibiza, ","Seat Ibiza, ",1.0 Style,11.299 €,Gasolina,04.2018,38.571 km,75 CV / 55 kW,5,Cambio tipo manual,Gris
+"Seat Mii, ","Seat Mii, ",1.0 Chic,7.499 €,Gasolina,10.2016,38.587 km,75 CV / 55 kW,5,Cambio tipo manual,Negro
+"Kia Rio, ","Kia Rio, ",1.2 Concept,11.599 €,Gasolina,12.2020,39.783 km,85 CV / 62 kW,5,Cambio tipo manual,Blanco
+"Volkswagen Golf VII, ","Volkswagen Golf VII, ",1.6 TDI Sport BMT,14.599 €,Diésel,09.2015,39.906 km,110 CV / 81 kW,5,Cambio tipo automático,Plata
+"Opel Adam, ","Opel Adam, ",1.4 XEL Jam,8.099 €,Gasolina,04.2014,40.245 km,87 CV / 64 kW,3,Cambio tipo manual,Amarillo
+"Alfa Romeo Giulietta, ","Alfa Romeo Giulietta, ",1.6 JTD Super,13.899 €,Diésel,08.2018,40.254 km,120 CV / 88 kW,5,Cambio tipo manual,Azul
+"Mazda CX 3, ","Mazda CX 3, ",2.0 Skyactiv-G Evolution,17.199 €,Gasolina,11.2018,40.627 km,121 CV / 89 kW,5,Cambio tipo manual,Blanco
+"Hyundai i10, ","Hyundai i10, ",1.0 Klass,8.999 €,Gasolina,03.2017,40.910 km,67 CV / 49 kW,5,Cambio tipo manual,Rojo
+"MINI Clubman, ","MINI Clubman, ",Cooper,18.299 €,Gasolina,07.2017,41.548 km,135 CV / 100 kW,5,Cambio tipo automático,Blanco
+"Ford Fiesta, ","Ford Fiesta, ",1.4 TDCi Trend,7.799 €,Diésel,06.2011,42.278 km,70 CV / 51 kW,5,Cambio tipo manual,Gris
+"Jeep Renegade, ","Jeep Renegade, ",2.0 M-Jet Limited ,16.399 €,Diésel,05.2015,42.326 km,140 CV / 103 kW,5,Cambio tipo manual,Azul
+"Toyota Corolla, ","Toyota Corolla, ",2.0 Hybrid Feel,22.199 €,Híbrido,06.2019,42.602 km,179 CV / 132 kW,5,Cambio tipo automático,Rojo
+"Volkswagen Golf VII, ","Volkswagen Golf VII, ",2.0 TDI Variant Advance,18.499 €,Diésel,10.2019,42.632 km,150 CV / 110 kW,5,Cambio tipo manual,Gris
+"Citroen C4 Spacetourer, ","Citroen C4 Spacetourer, ",1.5 Blue-HDi Feel,17.299 €,Diésel,01.2020,43.064 km,131 CV / 96 kW,5,Cambio tipo manual,Blanco
+"Toyota RAV 4, ","Toyota RAV 4, ",2.5 Hybrid 4x2 Advance,32.499 €,Híbrido,01.2021,43.389 km,218 CV / 160 kW,5,Cambio tipo automático,Negro
+"Renault Twingo, ","Renault Twingo, ",1.0 SCe Energy Zen ,8.599 €,Gasolina,08.2015,43.693 km,70 CV / 52 kW,5,Cambio tipo manual,Rojo
+"Peugeot 208, ","Peugeot 208, ",1.6 Blue-HDi Allure,11.399 €,Diésel,02.2016,43.916 km,100 CV / 73 kW,5,Cambio tipo manual,Gris
+"Opel Mokka, ","Opel Mokka, ",1.7 CDTI Excellence,12.699 €,Diésel,03.2014,44.408 km,130 CV / 96 kW,5,Cambio tipo automático,Gris
+"Fiat 500, ","Fiat 500, ",1.3 M-Jet Lounge,7.399 €,Diésel,02.2011,44.450 km,95 CV / 70 kW,3,Cambio tipo manual,Blanco
+"Mercedes-Benz Clase B, ","Mercedes-Benz Clase B, ",200d AMG Line,28.699 €,Diésel,06.2021,44.491 km,150 CV / 110 kW,5,Cambio tipo automático,Blanco
+"Toyota C-HR, ","Toyota C-HR, ",1.8 Hybrid Advance,20.899 €,Híbrido,01.2018,45.060 km,122 CV / 90 kW,5,Cambio tipo automático,Gris
+"Dacia Sandero II, ","Dacia Sandero II, ",1.2 Ambiance,6.799 €,Gasolina,03.2013,45.267 km,75 CV / 55 kW,5,Cambio tipo manual,Blanco
+"Renault Megane, ","Renault Megane, ",1.2 TCe Energy Dynamique,8.699 €,Gasolina,07.2012,45.534 km,115 CV / 85 kW,5,Cambio tipo manual,Blanco
+"Dacia Sandero II, ","Dacia Sandero II, ",0.9 TCe Stepway Comfort,10.399 €,Gasolina,10.2018,45.589 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"Fiat Panda, ","Fiat Panda, ",1.2 Lounge,,Gasolina,06.2017,45.811 km,70 CV / 51 kW,5,Cambio tipo manual,Blanco
+"Citroen C 3, ","Citroen C 3, ",1.2 PureTech Feel,14.099 €,Gasolina,03.2019,45.888 km,110 CV / 81 kW,5,Cambio tipo automático,Negro
+"Hyundai i30 Fastback, ","Hyundai i30 Fastback, ",1.4 T-GDI Fastback NLine,18.499 €,Gasolina,07.2019,46.244 km,140 CV / 103 kW,5,Cambio tipo manual,Rojo
+"Toyota Corolla, ","Toyota Corolla, ",1.8 Active,19.099 €,Híbrido,08.2021,46.555 km,122 CV / 90 kW,5,Cambio tipo automático,Blanco
+"Citroen Berlingo, ","Citroen Berlingo, ",1.2 PureTech 20 Aniversario,16.599 €,Gasolina,02.2018,47.501 km,110 CV / 81 kW,4,Cambio tipo manual,Negro
+"Hyundai Tucson, ","Hyundai Tucson, ",1.6 SLE 2WD,19.899 €,Gasolina,02.2020,47.541 km,132 CV / 97 kW,5,Cambio tipo manual,Gris
+"Peugeot 3008, ","Peugeot 3008, ",1.2 PureTech Allure,19.099 €,Gasolina,11.2017,47.572 km,130 CV / 96 kW,5,Cambio tipo manual,Marrón
+"Toyota C-HR, ","Toyota C-HR, ",2.0 Hybrid Advance,23.799 €,Híbrido,10.2020,47.642 km,152 CV / 112 kW,5,Cambio tipo automático,Rojo
+"Nissan Micra, ","Nissan Micra, ",1.0 IG-T Lifestyle,12.899 €,Gasolina,07.2019,48.440 km,101 CV / 74 kW,5,Cambio tipo manual,Blanco
+"Renault Megane, ","Renault Megane, ",1.6 Dynamique,8.199 €,Gasolina,10.2011,48.461 km,110 CV / 81 kW,5,Cambio tipo manual,Gris
+"Hyundai Tucson, ","Hyundai Tucson, ",1.6 Essence BlueDrive 2WD,16.699 €,Gasolina,08.2017,48.549 km,132 CV / 97 kW,5,Cambio tipo manual,Azul
+"Hyundai i20, ","Hyundai i20, ",1.2 MPI LINK,11.199 €,Gasolina,03.2018,48.848 km,85 CV / 62 kW,5,Cambio tipo manual,Gris
+"Audi A3, ","Audi A3, ",1.8 TFSI Ambition,12.499 €,Gasolina,06.2012,48.937 km,160 CV / 118 kW,5,Cambio tipo manual,Blanco
+"Volkswagen Golf, ","Volkswagen Golf, ",1.0 TSI Ready2Go,16.199 €,Gasolina,04.2019,49.077 km,116 CV / 85 kW,5,Cambio tipo manual,Gris
+"Dacia Sandero II, ","Dacia Sandero II, ",0.9 TCe SL Nomada,11.099 €,Gasolina,07.2018,49.447 km,90 CV / 66 kW,5,Cambio tipo manual,Negro
+"Citroen C4 Cactus, ","Citroen C4 Cactus, ",1.2 PureTech Shine,13.799 €,Gasolina,12.2019,49.593 km,110 CV / 81 kW,5,Cambio tipo manual,Blanco
+"Nissan Qashqai, ","Nissan Qashqai, ",1.5 Turbodiesel Acenta,16.999 €,Diésel,10.2017,49.691 km,110 CV / 81 kW,5,Cambio tipo manual,Negro
+"Audi A1, ","Audi A1, ",1.0 TFSI Adrenalin,13.199 €,Gasolina,06.2016,49.821 km,95 CV / 70 kW,3,Cambio tipo manual,Gris
+"Ford Ka, ","Ford Ka, ",1.2 Trend,6.899 €,Gasolina,06.2016,50.379 km,70 CV / 51 kW,3,Cambio tipo manual,Rojo
+"Audi A1, ","Audi A1, ",1.6 TDI Attraction,12.899 €,Diésel,01.2015,50.654 km,90 CV / 66 kW,5,Cambio tipo manual,Azul
+"Peugeot 508, ","Peugeot 508, ",2.0 Blue-HDi Allure,22.599 €,Diésel,09.2019,51.265 km,163 CV / 120 kW,5,Cambio tipo automático,Gris
+"Renault Kadjar, ","Renault Kadjar, ",1.5 BLUE dCi Intens,18.399 €,Diésel,11.2020,51.427 km,116 CV / 85 kW,5,Cambio tipo manual,Blanco
+"Cupra Ateca, ","Cupra Ateca, ",2.0 TSI 4Drive,,Gasolina,03.2019,52.563 km,300 CV / 221 kW,5,Cambio tipo automático,Gris
+"Lexus RC-Serie, ","Lexus RC-Serie, ",2.5 300h Executive,27.899 €,Híbrido,07.2016,53.016 km,223 CV / 133 kW,2,Cambio tipo automático,Negro
+"Ford Focus, ","Ford Focus, ",1.0 EcoBoost ST-Line ,15.199 €,Gasolina,06.2018,53.041 km,125 CV / 92 kW,5,Cambio tipo manual,Gris
+"Fiat 500, ","Fiat 500, ",1.2 Lounge,7.699 €,Gasolina,12.2012,53.048 km,70 CV / 51 kW,3,Cambio tipo manual,Blanco
+"Peugeot 208, ","Peugeot 208, ",1.6 Blue-HDi Style,10.399 €,Diésel,09.2016,53.370 km,75 CV / 55 kW,5,Cambio tipo manual,Plata
+"Volkswagen Polo, ","Volkswagen Polo, ",1.2 TSI Sport BlueMotion,11.499 €,Gasolina,12.2015,53.402 km,90 CV / 66 kW,5,Cambio tipo manual,Negro
+"Peugeot 2008, ","Peugeot 2008, ",1.6 Blue-HDi Allure,15.999 €,Diésel,02.2018,53.431 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Kia Rio, ","Kia Rio, ",1.2 Concept,7.399 €,Gasolina,03.2012,53.606 km,85 CV / 63 kW,3,Cambio tipo manual,Blanco
+"Honda CR-V, ","Honda CR-V, ",1.6 DTEC Executive 4WD,20.999 €,Diésel,09.2017,53.651 km,160 CV / 118 kW,5,Cambio tipo automático,Blanco
+"Opel Corsa, ","Opel Corsa, ",1.2 Edition,11.699 €,Gasolina,01.2020,53.705 km,75 CV / 55 kW,5,Cambio tipo manual,Blanco
+"Fiat 500, ","Fiat 500, ",1.2 S,10.699 €,Gasolina,06.2019,53.786 km,70 CV / 51 kW,3,Cambio tipo manual,Verde
+"Renault Clio, ","Renault Clio, ",1.5 dCi Energy Zen,13.199 €,Diésel,06.2017,53.814 km,90 CV / 66 kW,5,Cambio tipo automático,Rojo
+"BMW Serie 2, ","BMW Serie 2, ",225xe Active Tourer PHEV iPerformance,24.199 €,Híbrido,01.2019,53.919 km,136 CV / 100 kW,5,Cambio tipo automático,Gris
+"Volkswagen Polo, ","Volkswagen Polo, ",1.0 Edition,11.499 €,Gasolina,06.2018,54.061 km,75 CV / 55 kW,5,Cambio tipo manual,Gris
+"Audi A4, ","Audi A4, ",S Line 35 TDI S Troic,26.099 €,Diésel,07.2019,54.386 km,150 CV / 110 kW,4,Cambio tipo automático,Gris
+"Seat Altea XL, ","Seat Altea XL, ",1.2 TSI Reference Copa,8.499 €,Gasolina,06.2012,54.741 km,105 CV / 77 kW,5,Cambio tipo manual,Negro
+"Fiat Panda, ","Fiat Panda, ",1.2 Lounge,8.699 €,Gasolina,06.2019,54.946 km,70 CV / 51 kW,5,Cambio tipo manual,Naranja
+"Audi A3, ","Audi A3, ",35 TDI S tronic Sportback,24.499 €,Diésel,06.2019,55.387 km,150 CV / 110 kW,5,Cambio tipo automático,Rojo
+"Renault Captur, ","Renault Captur, ",Zen Energy  TCe,13.899 €,Gasolina,07.2018,55.914 km,118 CV / 87 kW,5,Cambio tipo manual,Negro
+"Toyota C-HR, ","Toyota C-HR, ",1.8 Hybrid Advance,20.199 €,Híbrido,05.2019,55.952 km,122 CV / 90 kW,5,Cambio tipo automático,Rojo
+"Volkswagen Golf VII, ","Volkswagen Golf VII, ",1.6 TDI Ready2Go,16.999 €,Diésel,05.2020,56.122 km,116 CV / 85 kW,5,Cambio tipo manual,Gris
+"Renault Megane, ","Renault Megane, ",1.3 TCe Limited,15.199 €,Gasolina,05.2019,56.433 km,140 CV / 103 kW,5,Cambio tipo manual,Gris
+"Dacia Sandero II, ","Dacia Sandero II, ",0.9 TCe SL Nomada,11.099 €,Gasolina,07.2018,49.447 km,90 CV / 66 kW,5,Cambio tipo manual,Negro
+"Citroen C4 Cactus, ","Citroen C4 Cactus, ",1.2 PureTech Shine,13.799 €,Gasolina,12.2019,49.593 km,110 CV / 81 kW,5,Cambio tipo manual,Blanco
+"Nissan Qashqai, ","Nissan Qashqai, ",1.5 Turbodiesel Acenta,16.999 €,Diésel,10.2017,49.691 km,110 CV / 81 kW,5,Cambio tipo manual,Negro
+"Audi A1, ","Audi A1, ",1.0 TFSI Adrenalin,13.199 €,Gasolina,06.2016,49.821 km,95 CV / 70 kW,3,Cambio tipo manual,Gris
+"Ford Ka, ","Ford Ka, ",1.2 Trend,6.899 €,Gasolina,06.2016,50.379 km,70 CV / 51 kW,3,Cambio tipo manual,Rojo
+"Audi A1, ","Audi A1, ",1.6 TDI Attraction,12.899 €,Diésel,01.2015,50.654 km,90 CV / 66 kW,5,Cambio tipo manual,Azul
+"Peugeot 508, ","Peugeot 508, ",2.0 Blue-HDi Allure,22.599 €,Diésel,09.2019,51.265 km,163 CV / 120 kW,5,Cambio tipo automático,Gris
+"Renault Kadjar, ","Renault Kadjar, ",1.5 BLUE dCi Intens,18.399 €,Diésel,11.2020,51.427 km,116 CV / 85 kW,5,Cambio tipo manual,Blanco
+"Cupra Ateca, ","Cupra Ateca, ",2.0 TSI 4Drive,,Gasolina,03.2019,52.563 km,300 CV / 221 kW,5,Cambio tipo automático,Gris
+"Lexus RC-Serie, ","Lexus RC-Serie, ",2.5 300h Executive,27.899 €,Híbrido,07.2016,53.016 km,223 CV / 133 kW,2,Cambio tipo automático,Negro
+"Ford Focus, ","Ford Focus, ",1.0 EcoBoost ST-Line ,15.199 €,Gasolina,06.2018,53.041 km,125 CV / 92 kW,5,Cambio tipo manual,Gris
+"Fiat 500, ","Fiat 500, ",1.2 Lounge,7.699 €,Gasolina,12.2012,53.048 km,70 CV / 51 kW,3,Cambio tipo manual,Blanco
+"Peugeot 208, ","Peugeot 208, ",1.6 Blue-HDi Style,10.399 €,Diésel,09.2016,53.370 km,75 CV / 55 kW,5,Cambio tipo manual,Plata
+"Volkswagen Polo, ","Volkswagen Polo, ",1.2 TSI Sport BlueMotion,11.499 €,Gasolina,12.2015,53.402 km,90 CV / 66 kW,5,Cambio tipo manual,Negro
+"Peugeot 2008, ","Peugeot 2008, ",1.6 Blue-HDi Allure,15.999 €,Diésel,02.2018,53.431 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Kia Rio, ","Kia Rio, ",1.2 Concept,7.399 €,Gasolina,03.2012,53.606 km,85 CV / 63 kW,3,Cambio tipo manual,Blanco
+"Honda CR-V, ","Honda CR-V, ",1.6 DTEC Executive 4WD,20.999 €,Diésel,09.2017,53.651 km,160 CV / 118 kW,5,Cambio tipo automático,Blanco
+"Opel Corsa, ","Opel Corsa, ",1.2 Edition,11.699 €,Gasolina,01.2020,53.705 km,75 CV / 55 kW,5,Cambio tipo manual,Blanco
+"Fiat 500, ","Fiat 500, ",1.2 S,10.699 €,Gasolina,06.2019,53.786 km,70 CV / 51 kW,3,Cambio tipo manual,Verde
+"Renault Clio, ","Renault Clio, ",1.5 dCi Energy Zen,13.199 €,Diésel,06.2017,53.814 km,90 CV / 66 kW,5,Cambio tipo automático,Rojo
+"BMW Serie 2, ","BMW Serie 2, ",225xe Active Tourer PHEV iPerformance,24.199 €,Híbrido,01.2019,53.919 km,136 CV / 100 kW,5,Cambio tipo automático,Gris
+"Volkswagen Polo, ","Volkswagen Polo, ",1.0 Edition,11.499 €,Gasolina,06.2018,54.061 km,75 CV / 55 kW,5,Cambio tipo manual,Gris
+"Audi A4, ","Audi A4, ",S Line 35 TDI S Troic,26.099 €,Diésel,07.2019,54.386 km,150 CV / 110 kW,4,Cambio tipo automático,Gris
+"Seat Altea XL, ","Seat Altea XL, ",1.2 TSI Reference Copa,8.499 €,Gasolina,06.2012,54.741 km,105 CV / 77 kW,5,Cambio tipo manual,Negro
+"Fiat Panda, ","Fiat Panda, ",1.2 Lounge,8.699 €,Gasolina,06.2019,54.946 km,70 CV / 51 kW,5,Cambio tipo manual,Naranja
+"Audi A3, ","Audi A3, ",35 TDI S tronic Sportback,24.499 €,Diésel,06.2019,55.387 km,150 CV / 110 kW,5,Cambio tipo automático,Rojo
+"Renault Captur, ","Renault Captur, ",Zen Energy  TCe,13.899 €,Gasolina,07.2018,55.914 km,118 CV / 87 kW,5,Cambio tipo manual,Negro
+"Toyota C-HR, ","Toyota C-HR, ",1.8 Hybrid Advance,20.199 €,Híbrido,05.2019,55.952 km,122 CV / 90 kW,5,Cambio tipo automático,Rojo
+"Volkswagen Golf VII, ","Volkswagen Golf VII, ",1.6 TDI Ready2Go,16.999 €,Diésel,05.2020,56.122 km,116 CV / 85 kW,5,Cambio tipo manual,Gris
+"Renault Megane, ","Renault Megane, ",1.3 TCe Limited,15.199 €,Gasolina,05.2019,56.433 km,140 CV / 103 kW,5,Cambio tipo manual,Gris
+"Renault Clio, ","Renault Clio, ",0.9 Energy Limited,10.999 €,Gasolina,10.2018,56.889 km,90 CV / 66 kW,5,Cambio tipo manual,Blanco
+"Kia pro_cee'd, ","Kia pro_cee'd, ",1.4 Concept,8.199 €,Gasolina,06.2013,57.161 km,100 CV / 73 kW,3,Cambio tipo manual,Blanco
+"Renault Captur, ","Renault Captur, ",1.3 TCe Zen,16.199 €,Gasolina,04.2019,57.419 km,150 CV / 110 kW,5,Cambio tipo automático,Rojo
+"Dacia Duster II, ","Dacia Duster II, ",1.6 Prestige,14.899 €,Gasolina,02.2019,57.598 km,114 CV / 84 kW,5,Cambio tipo manual,Dorado
+"Opel Meriva, ","Opel Meriva, ",1.4 Selective,9.799 €,Gasolina,09.2016,57.664 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Kia Rio, ","Kia Rio, ",1.2 Concept,9.199 €,Gasolina,08.2015,58.011 km,85 CV / 62 kW,5,Cambio tipo manual,Blanco
+"Renault Kadjar, ","Renault Kadjar, ",1.5 dCi Energy Tech Road,16.099 €,Diésel,03.2018,58.184 km,110 CV / 81 kW,5,Cambio tipo manual,Blanco
+"Peugeot 308, ","Peugeot 308, ",1.6 Blue-HDi Style,11.999 €,Diésel,11.2016,58.249 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Smart ForTwo, ","Smart ForTwo, ",0.9 Turbo Basis passion,11.399 €,Gasolina,04.2017,58.253 km,90 CV / 66 kW,3,Cambio tipo automático,Gris
+"Ford B-Max, ","Ford B-Max, ",1.0 EcoBoost Trend,10.699 €,Gasolina,06.2017,58.970 km,100 CV / 74 kW,5,Cambio tipo manual,Gris
+"Hyundai i20 Active, ","Hyundai i20 Active, ",1.0 TDGI Link BlueDrive,12.199 €,Gasolina,11.2017,59.105 km,101 CV / 74 kW,5,Cambio tipo manual,Blanco
+"Ford Focus, ","Ford Focus, ",1.0 EcoBoost Business,11.899 €,Gasolina,07.2016,59.424 km,125 CV / 92 kW,5,Cambio tipo manual,Gris
+"Renault Koleos, ","Renault Koleos, ",2.0 dCi Zen X-Tronic,21.899 €,Diésel,11.2017,59.527 km,177 CV / 130 kW,5,Cambio tipo automático,Negro
+"Kia cee'd, ","Kia cee'd, ",1.4 Tech,14.999 €,Gasolina,08.2019,59.596 km,100 CV / 73 kW,5,Cambio tipo manual,Gris
+"Volkswagen Golf VII Sportsvan, ","Volkswagen Golf VII Sportsvan, ",1.6 TDI Advance,18.199 €,Diésel,08.2018,59.724 km,115 CV / 85 kW,5,Cambio tipo manual,Gris
+"Alfa Romeo Stelvio, ","Alfa Romeo Stelvio, ",2.2 Executive RWD,30.499 €,Diésel,06.2020,59.740 km,190 CV / 140 kW,5,Cambio tipo automático,Negro
+"Seat León, ","Seat León, ",1.4 TSI FR,12.999 €,Gasolina,12.2013,59.931 km,140 CV / 103 kW,3,Cambio tipo manual,Blanco
+"Kia cee'd, ","Kia cee'd, ",1.0 TGDI Tech,14.799 €,Gasolina,10.2018,59.986 km,120 CV / 88 kW,5,Cambio tipo manual,Azul
+"Hyundai i10, ","Hyundai i10, ",1.2 Go Plus,9.899 €,Gasolina,09.2018,60.167 km,87 CV / 64 kW,5,Cambio tipo manual,Rojo
+"Alfa Romeo Giulietta, ","Alfa Romeo Giulietta, ",1.4 Turbo Sport,15.599 €,Gasolina,10.2019,60.360 km,120 CV / 88 kW,5,Cambio tipo manual,Blanco
+"Renault Megane, ","Renault Megane, ",1.2 TCe Energy Zen,12.799 €,Gasolina,01.2016,60.418 km,132 CV / 97 kW,5,Cambio tipo manual,Azul
+"Nissan Juke, ","Nissan Juke, ",DIGT NConnecta,13.799 €,Gasolina,06.2018,60.615 km,115 CV / 85 kW,5,Cambio tipo manual,Azul
+"Renault Grand Scenic, ","Renault Grand Scenic, ",1.6 dCi Energy Edition One,18.899 €,Diésel,12.2016,60.740 km,160 CV / 118 kW,5,Cambio tipo automático,Negro
+"Fiat 500, ","Fiat 500, ",1.2 S,12.999 €,Gasolina,05.2018,61.360 km,70 CV / 51 kW,3,Cambio tipo automático,Negro
+"Peugeot 208, ","Peugeot 208, ",1.2 PureTech Style,9.799 €,Gasolina,06.2017,61.384 km,82 CV / 60 kW,5,Cambio tipo manual,Gris
+"Renault Grand Scenic, ","Renault Grand Scenic, ",1.3 TCe Zen,18.499 €,Gasolina,10.2018,61.395 km,140 CV / 103 kW,5,Cambio tipo manual,Marrón
+"Kia Rio, ","Kia Rio, ",1.2 CVVT Eco-Dynamics X-Tech,8.599 €,Gasolina,12.2015,61.549 km,85 CV / 62 kW,5,Cambio tipo manual,Blanco
+"Nissan NV200 Evalia, ","Nissan NV200 Evalia, ",1.5 dCi Comfort,15.099 €,Diésel,10.2018,61.706 km,110 CV / 81 kW,4,Cambio tipo manual,Blanco
