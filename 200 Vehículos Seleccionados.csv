@@ -1,0 +1,201 @@
+Marca;Modelo;Version;Kms;Potencia;Antiguedad;Combustible;Cambio;Precio
+PEUGEOT;208;"PEUGEOT 208 5P Tech Edit. PureTech 81KW 110CV SS 5p.";14426;110;2019;Gasolina;Manual;12500
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW112 CV 5MT NCONNECTA 5p.";13850;112;2019;Gasolina;Manual;12500
+FORD;Fiesta;"FORD Fiesta 1.0 EcoBoost 92kW STLine SS 5p 5p.";18000;125;2018;Gasolina;Manual;12500
+DACIA;Duster;"DACIA Duster Comfort 1.6 85kW 115CV 4X2 5p.";5440;115;2019;Gasolina;Manual;12900
+FORD;Focus;"FORD Focus 1.0 Ecoboost SS 92kW 125CV STLine 5p.";9500;125;2018;Gasolina;Manual;12950
+NISSAN;JUKE;"NISSAN JUKE G 83kW 112CV CVT 4x2 Ultimate Edition 5p.";19000;112;2019;Gasolina;Automatico;12990
+OPEL;"Crossland X";"OPEL Crossland X 1.2 81kW 110CV Edition SS 5p.";9000;110;2019;Gasolina;Manual;12990
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS FEEL EAT6 5p.";14553;110;2019;Gasolina;Automatico;13000
+SEAT;Ibiza;"SEAT Ibiza 1.0 EcoTSI 85kW 115CV Style Plus 5p.";18168;115;2019;Gasolina;Manual;13399
+VOLKSWAGEN;Golf;"VOLKSWAGEN Golf Sport 1.0 TSI 85kW 115CV DSG 5p.";10000;115;2018;Gasolina;Automatico;13490
+TOYOTA;Corolla;"TOYOTA Corolla 1.8 125H ACTIVE ECVT 5p.";4000;122;2019;Hibrido;Manual;13490
+RENAULT;Megane;"RENAULT Megane Limited TCe GPF 85 kW 115CV 5p.";13933;115;2019;Gasolina;Manual;13490
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 81KW 110CV SS Feel 5p.";15111;110;2018;Gasolina;Manual;13490
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 81KW 110CV SS Feel 5p.";11074;110;2019;Gasolina;Manual;13490
+RENAULT;Megane;"RENAULT Megane Limited TCe 85 kW 115CV GPF SS 5p.";10500;115;2019;Gasolina;Manual;13500
+TOYOTA;Yaris;"TOYOTA Yaris 1.5 110 Active Tech 5p.";0;111;2019;Gasolina;Manual;13500
+SEAT;Ibiza;"SEAT Ibiza 1.0 EcoTSI 85kW 115CV FR Plus 5p.";16100;115;2018;Gasolina;Manual;13500
+TOYOTA;Yaris;"TOYOTA Yaris 1.5 110 Active Tech 5p.";12347;111;2019;Gasolina;Manual;13500
+SKODA;Fabia;"SKODA Fabia 1.0 TSI 81KW 110cv Style 5p.";12000;110;2018;Gasolina;Manual;13690
+HYUNDAI;ix20;"HYUNDAI ix20 1.6 MPI Tecno 5p.";7800;126;2019;Gasolina;Manual;13700
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW 112 CV 5MT ACENTA 5p.";18492;112;2018;Gasolina;Manual;13730
+PEUGEOT;208;"PEUGEOT 208 5P Signature PureTech 81KW 110CV EAT6 5p.";3334;110;2018;Gasolina;Automatico;13800
+SKODA;Fabia;"SKODA Fabia 1.0 TSI 81KW 110cv Ambition Plus 5p.";169;110;2020;Gasolina;Manual;13890
+SUZUKI;Swift;"SUZUKI Swift 1.0 GLE 5p.";2000;111;2019;Gasolina;Manual;13890
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW 112 CV 5MT ACENTA 5p.";19000;112;2018;Gasolina;Manual;13890
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW 112 CV 5MT ACENTA 5p.";17844;112;2019;Gasolina;Manual;13890
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW 112 CV 5MT ACENTA 5p.";9719;112;2019;Gasolina;Manual;13900
+VOLKSWAGEN;Polo;"VOLKSWAGEN Polo Sport 1.0 TSI 85kW 115CV 5p.";10955;115;2019;Gasolina;Manual;13900
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW 112 CV 5MT ACENTA 5p.";12898;112;2019;Gasolina;Manual;13900
+PEUGEOT;308;"PEUGEOT 308 SW Active 1.2 PureTech 96KW 130CV SS 5p.";14838;130;2018;Gasolina;Manual;13900
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW 112 CV 5MT ACENTA 5p.";11195;112;2020;Gasolina;Manual;13900
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW 112 CV 5MT ACENTA 5p.";9371;112;2019;Gasolina;Manual;13900
+SEAT;Ibiza;"SEAT Ibiza 1.0 EcoTSI 85kW 115CV Style 5p.";7000;115;2019;Gasolina;Manual;13900
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW 112 CV 5MT ACENTA 5p.";16714;112;2019;Gasolina;Manual;13900
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE 5p.";17600;110;2019;Gasolina;Manual;13900
+PEUGEOT;2008;"PEUGEOT 2008 Allure 1.2 PureTech 81KW 110CV SS 5p.";10075;110;2018;Gasolina;Manual;13950
+SKODA;Octavia;"SKODA Octavia 1.0 TSI 85KW 115CV Ambition 5p.";7591;115;2019;Gasolina;Manual;13990
+RENAULT;"Grand Kangoo Combi";"RENAULT Grand Kangoo Combi M1AF 7p Energy dCi 81kW 110CV Euro 6";6000;110;2019;Diesel;Manual;13990
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE 5p.";0;110;2020;Gasolina;Manual;13990
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW112 CV 5MT NCONNECTA 5p.";6800;112;2019;Gasolina;Manual;13995
+TOYOTA;Yaris;"1.5 Dual VVT-iE Active";15935;110;2019;Gasolina;Manual;13999
+PEUGEOT;208;"PEUGEOT 208 5P GTLine 1.2L PureTech 81KW 110CVSS 5p.";8039;110;2019;Gasolina;Automatico;14000
+PEUGEOT;208;"PEUGEOT 208 5P GTLine 1.2L PureTech 81KW 110CVSS 5p.";13957;110;2019;Gasolina;Automatico;14000
+PEUGEOT;208;"PEUGEOT 208 5P GTLine 1.2L PureTech 81KW 110CVSS 5p.";8848;110;2019;Gasolina;Automatico;14000
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Feel 5p.";11427;110;2020;Gasolina;Manual;14100
+SEAT;Leon;"SEAT Leon ST 1.6 TDI 85kW 115CV StSp Style 5p.";15323;115;2019;Diesel;Manual;14250
+SEAT;Leon;"SEAT Leon ST 1.6 TDI 85kW 115CV StSp Style 5p.";9699;115;2019;Diesel;Manual;14250
+SEAT;Leon;"SEAT Leon ST 1.6 TDI 85kW 115CV StSp Style 5p.";10064;115;2019;Diesel;Manual;14250
+SEAT;Leon;"SEAT Leon ST 1.6 TDI 85kW 115CV StSp Style 5p.";11212;115;2019;Diesel;Manual;14250
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Feel 5p.";0;110;2020;Gasolina;Manual;14290
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE 5p.";14921;110;2020;Gasolina;Manual;14300
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Feel 5p.";15587;110;2020;Gasolina;Manual;14300
+KIA;Venga;"KIA Venga 1.6 CRDi VGT 85kW 115CV Tech 5p.";16000;115;2018;Diesel;Manual;14350
+FIAT;"DoblÃ² Cargo";"FIAT Doblo Cargo Cargo Base 1.4 TJet 88kW Natu Power CNG";1;120;2019;"Gas natural";Manual;14390
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Feel 5p.";0;110;2020;Gasolina;Manual;14390
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE 5p.";4825;110;2020;Gasolina;Manual;14390
+RENAULT;Megane;"RENAULT Megane Limited Blue dCi 85 kW 115CV 5p.";0;115;2019;Diesel;Manual;14390
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Origins 5p.";14000;110;2020;Gasolina;Manual;14400
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW 112 CV 5MT ACENTA 5p.";18347;112;2019;Gasolina;Manual;14490
+RENAULT;Clio;"RENAULT Clio Zen Energy TCe 87kW 120CV EDC 5p.";14000;120;2018;Gasolina;Automatico;14490
+SSANGYONG;Tivoli;"SSANGYONG Tivoli G16 Limited 4x2 5p.";16100;128;2018;Gasolina;Manual;14500
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE EAT6 5p.";10333;110;2020;Gasolina;Automatico;14590
+FIAT;Tipo;"FIAT Tipo 1.4 TJet 16v 88kW 120CV SDesign 5p.";9000;120;2018;Gasolina;Manual;14590
+HYUNDAI;i30;"HYUNDAI i30 1.0 TGDI Klass 5p.";4700;120;2020;Gasolina;Manual;14599
+DACIA;Duster;"DACIA Duster Comfort 1.6 85kW 115CV 4X2 5p.";6719;115;2019;Gasolina;Manual;14690
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE EAT6 5p.";11333;110;2020;Gasolina;Automatico;14690
+FORD;Focus;"FORD Focus 1.0 Ecoboost 92kW STLine 5p.";18574;125;2018;Gasolina;Manual;14700
+DACIA;Duster;"DACIA Duster Prestige Bl. dCi 85kW115CV 4X4 5p.";12100;115;2019;Diesel;Manual;14700
+FORD;Fiesta;"FORD Fiesta 1.0 EcoBoost 92kW STLine SS 5p 5p.";16628;125;2019;Gasolina;Manual;14700
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Feel 5p.";12453;110;2019;Gasolina;Manual;14750
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE EAT6 5p.";0;110;2020;Gasolina;Automatico;14790
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE 5p.";16000;110;2019;Gasolina;Manual;14895
+SKODA;Fabia;"SKODA Fabia 1.0 TSI 81KW 110cv Monte Carlo 5p.";5791;110;2019;Gasolina;Automatico;14899
+CITROEN;"C3 Aircross";"CITROEN C3 Aircross PureTech 81kW 110CV SS FEEL 5p.";17841;110;2018;Gasolina;Manual;14900
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW112 CV 5MT NCONNECTA 5p.";12800;112;2019;Gasolina;Manual;14900
+PEUGEOT;308;"PEUGEOT 308 5p Allure 1.2 PureTech 96KW 130CV 5p.";8185;130;2018;Gasolina;Manual;14900
+SKODA;Octavia;"SKODA Octavia 1.0 TSI 85KW 115CV Ambition 5p.";8451;115;2019;Gasolina;Manual;14900
+KIA;"Ceed Tourer";"KIA Ceed Tourer Tourer 1.0 TGDi 88kW 120CV Concept 5p.";16200;120;2019;Gasolina;Manual;14900
+SEAT;Leon;"SEAT Leon 1.2 TSI 81kW 110CV StSp Style Visio 5p.";15074;110;2018;Gasolina;Manual;14900
+HYUNDAI;Kona;"HYUNDAI Kona 1.0 TGDi Essence 4x2 5p.";6667;120;2019;Gasolina;Manual;14900
+SEAT;Leon;"SEAT Leon 1.0 EcoTSI 85kW StSp Style Visio Edit 5p.";10719;115;2019;Gasolina;Manual;14900
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW112 CV 5MT NCONNECTA 5p.";18259;112;2019;Gasolina;Manual;14900
+SUZUKI;SCross;"SUZUKI SCross 1.0 DITC GLX 5p.";17000;111;2019;Gasolina;Manual;14980
+PEUGEOT;208;"PEUGEOT 208 5P GTLine 1.2L PT EAT6 81KW 110CV SS 5p.";18911;110;2019;Gasolina;Automatico;14985
+PEUGEOT;208;"PEUGEOT 208 5P GTLine 1.2L PT EAT6 81KW 110CV SS 5p.";18854;110;2019;Gasolina;Automatico;14985
+RENAULT;Megane;"RENAULT Megane Limited Blue dCi 85 kW 115CV 5p.";11689;115;2019;Diesel;Manual;14990
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Feel 5p.";16359;110;2019;Gasolina;Manual;14990
+SEAT;Arona;"SEAT Arona 1.0 TSI 85kW 115CV Style Ecomotive 5p.";17437;115;2019;Gasolina;Manual;14990
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE EAT6 5p.";0;110;2020;Gasolina;Automatico;14990
+CITROEN;"C3 Aircross";"CITROEN C3 Aircross PureTech 81kW 110CV SS FEEL 5p.";0;110;2020;Gasolina;Manual;14990
+SUZUKI;SCross;"SUZUKI SCross 1.0 DITC GLX 5p.";19000;111;2019;Gasolina;Manual;14990
+PEUGEOT;2008;"PEUGEOT 2008 Allure 1.2 PureTech 96KW 130CV 5p.";16244;130;2019;Gasolina;Manual;14990
+SUZUKI;SCross;"SUZUKI SCross 1.0 DITC GLX 5p.";19000;111;2019;Gasolina;Manual;14990
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Feel 5p.";10;110;2019;Gasolina;Manual;14990
+PEUGEOT;308;"PEUGEOT 308 5p Style 1.2 PureTech 81KW 110CV 5p.";0;110;2020;Gasolina;Manual;14990
+VOLKSWAGEN;Golf;"VOLKSWAGEN Golf Advance 1.0 TSI 85kW 115CV 5p.";19000;115;2018;Gasolina;Manual;14990
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Feel 5p.";15;110;2019;Gasolina;Manual;14990
+SUZUKI;SCross;"SUZUKI SCross 1.0 DITC GLX 5p.";19000;111;2019;Gasolina;Manual;14999
+CITROEN;"C 3";"1.2 e-THP Feel";12650;110;2019;Gasolina;Manual;14999
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 130 SS EAT6 Shine Pack 5p.";11000;130;2020;Gasolina;Automatico;15000
+PEUGEOT;2008;"PEUGEOT 2008 Allure 1.2 PureTech 81KW 110CVSS EAT6 5p.";12544;110;2018;Gasolina;Manual;15000
+PEUGEOT;Partner;"PEUGEOT Partner Premium Standard 600kg PureTech 81kW";5;110;2020;Gasolina;Manual;15000
+HYUNDAI;i30;"HYUNDAI i30 1.0 TGDI Essence IM 0 5p.";15;120;2020;Gasolina;Manual;15000
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Feel 5p.";3011;110;2020;Gasolina;Manual;15100
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE 5p.";15395;110;2019;Gasolina;Manual;15100
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Feel 5p.";8753;110;2020;Gasolina;Manual;15100
+CITROEN;"C3 Aircross";"CITROEN C3 Aircross PureTech 81kW 110CV SS FEEL 5p.";0;110;2020;Gasolina;Manual;15190
+TOYOTA;Yaris;"TOYOTA Yaris 1.5 125 SEdition 5p.";4;125;2020;Gasolina;Automatico;15200
+CITROEN;C3;"CITROEN C3 PureTech 60KW 83CV Feel Pack 5p.";0;110;2020;Gasolina;Manual;15250
+SEAT;Toledo;"SEAT Toledo 1.0 TSI 81kW SS XCELLENCE EDITION 5p.";15000;110;2018;Gasolina;Manual;15290
+PEUGEOT;308;"PEUGEOT 308 SW Active 1.5 BlueHDi 96KW 130CV 5p.";17551;130;2018;Diesel;Manual;15300
+KIA;Stonic;"KIA Stonic 1.0 TGDi 88kW 120CV Drive 5p.";13094;120;2018;Gasolina;Manual;15300
+SEAT;Leon;"SEAT Leon ST 1.0 TSI 85kW StSp Style 5p.";14476;115;2019;Gasolina;Manual;15300
+KIA;"ceed Sportswagon";"KIA ceed Sportswagon 1.6 CRDi VGT Business 5p.";11857;110;2018;Diesel;Manual;15330
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE EAT6 5p.";5732;110;2020;Gasolina;Automatico;15350
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE EAT6 5p.";8567;110;2020;Gasolina;Automatico;15350
+HYUNDAI;i30;"HYUNDAI i30 1.0 TGDI Tecno Fastback 5p.";16299;120;2019;Gasolina;Manual;15400
+FIAT;Tipo;"FIAT Tipo SW 1.4 TJet 88kW 120CV Mirror 5p.";0;120;2019;Gasolina;Manual;15400
+NISSAN;JUKE;"NISSAN JUKE dCi E6C 81 kW 110 CV 6MT NCONNECTA 5p.";17000;110;2019;Diesel;Manual;15400
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE 5p.";4000;110;2020;Gasolina;Manual;15450
+SEAT;Ibiza;"SEAT Ibiza 1.0 TSI 85kW 115CV FR Plus 5p.";1810;115;2020;Gasolina;Manual;15485
+KIA;Stonic;"KIA Stonic 1.0 TGDi 88kW 120CV Drive EcoDynam 5p.";13950;120;2018;Gasolina;Manual;15490
+KIA;"Ceed Tourer";"KIA Ceed Tourer Tourer 1.0 TGDi 88kW 120CV Concept 5p.";0;120;2019;Gasolina;Manual;15490
+KIA;"Ceed Tourer";"KIA Ceed Tourer Tourer 1.0 TGDi 88kW 120CV Concept 5p.";0;120;2019;Gasolina;Manual;15490
+PEUGEOT;308;"PEUGEOT 308 5p Style PureTech 110 SS 6 Vel. MAN 5p.";8633;110;2020;Gasolina;Manual;15495
+KIA;ceed;"KIA ceed 1.0 TGDi 88kW 120CV Tech 5p.";8552;120;2019;Gasolina;Manual;15499
+CITROEN;"C 3";"1.2 e-THP Shine";18880;110;2021;Gasolina;Manual;15499
+OPEL;"Crossland X";"OPEL Crossland X 1.2 81kW Design Line 120 Aniversario SS 5p.";15426;110;2019;Gasolina;Manual;15500
+OPEL;"Crossland X";"OPEL Crossland X 1.2 81kW Design Line 120 Aniversario SS 5p.";10653;110;2019;Gasolina;Manual;15500
+NISSAN;JUKE;"NISSAN JUKE DIGT EU6 85 kW 115 CV 6MT TEKNA 5p.";5853;115;2018;Gasolina;Automatico;15500
+FIAT;500X;"FIAT 500X City cross 1.6 Mjet 88KW 120 cv SS 5p.";17052;120;2018;Diesel;Manual;15500
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Feel 5p.";10194;110;2020;Gasolina;Manual;15500
+SEAT;Arona;"SEAT Arona 1.0 TSI 85kW 115CV Style Ecomotive 5p.";7168;115;2019;Gasolina;Manual;15550
+NISSAN;QASHQAI;"NISSAN QASHQAI DIGT 85 kW 115 CV ACENTA 5p.";11874;115;2018;Gasolina;Manual;15590
+FIAT;Tipo;"1.4 Turbo S-Design";8845;120;2019;Gasolina;Manual;15599
+OPEL;Astra;"OPEL Astra 1.2T SHL 81kW 110CV Astra ST 5p.";1;110;2019;Gasolina;Manual;15600
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE 5p.";3;110;2020;Gasolina;Manual;15600
+OPEL;Astra;"OPEL Astra 1.2T SHL 81kW 110CV Astra 5p.";2;110;2019;Gasolina;Manual;15650
+PEUGEOT;2008;"PEUGEOT 2008 Allure PureTech 110 SS 6 Vel. MAN 5p.";14900;110;2019;Gasolina;Manual;15690
+RENAULT;Megane;"RENAULT Megane Business Blue dCi 81 kW 115CV 5p.";12530;115;2019;Diesel;Manual;15699
+PEUGEOT;308;"PEUGEOT 308 5p Style PureTech 110 SS 6 Vel. MAN 5p.";0;110;2020;Gasolina;Manual;15700
+CITROEN;C3;"CITROEN C3 PureTech 60KW 83CV Feel Pack 5p.";1;110;2020;Gasolina;Manual;15700
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW112 CV 5MT NCONNECTA 5p.";13000;112;2019;Gasolina;Manual;15700
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW 112 CV CVT NCONNECTA 5p.";15212;112;2019;Gasolina;Automatico;15750
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS Feel Pack 5p.";1;110;2021;Gasolina;Manual;15780
+PEUGEOT;308;"PEUGEOT 308 5p Style PureTech 110 SS 6 Vel. MAN 5p.";3850;110;2020;Gasolina;Manual;15790
+KIA;ceed;"KIA ceed 1.0 TGDi 88kW 120CV Tech 5p.";14500;120;2019;Gasolina;Manual;15790
+KIA;ceed;"KIA ceed 1.0 TGDi 88kW 120CV Tech 5p.";10000;120;2019;Gasolina;Manual;15800
+CITROEN;"C3 Aircross";"CITROEN C3 Aircross PureTech 81kW 110CV SS FEEL 5p.";8265;110;2019;Gasolina;Manual;15800
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 81KW 110CV SS Shine 5p.";15000;110;2019;Gasolina;Manual;15800
+KIA;Stonic;"KIA Stonic 1.0 TGDi 88kW 120CV Drive 5p.";12000;120;2018;Gasolina;Manual;15800
+SSANGYONG;Tivoli;"SSANGYONG Tivoli G16 Premium 4x2 5p.";14667;128;2019;Gasolina;Manual;15800
+PEUGEOT;2008;"PEUGEOT 2008 Allure 1.2 PureTech 81KW 110CVSS EAT6 5p.";15077;110;2019;Gasolina;Automatico;15850
+FORD;EcoSport;"FORD EcoSport 1.0T EcoBoost 92kW 125CV SS ST Line 5p.";9750;125;2020;Gasolina;Manual;15850
+HYUNDAI;i30;"HYUNDAI i30 1.0 TGDI Klass 5p.";10000;120;2020;Gasolina;Manual;15890
+HYUNDAI;i30;"HYUNDAI i30 1.0 TGDI Klass 5p.";10000;120;2020;Gasolina;Manual;15890
+HYUNDAI;i30;"HYUNDAI i30 1.0 TGDI Klass 5p.";10000;120;2020;Gasolina;Manual;15890
+KIA;ceed;"KIA ceed 1.0 TGDi 88kW 120CV Tech 5p.";13754;120;2019;Gasolina;Manual;15899
+FORD;EcoSport;"FORD EcoSport 1.0T EcoBoost 92kW 125CV SS Titanium 5p.";8959;125;2019;Gasolina;Manual;15899
+NISSAN;JUKE;"NISSAN JUKE dCi E6C 81 kW 110 CV 6MT ACENTA 5p.";15000;110;2018;Diesel;Manual;15900
+HYUNDAI;i30;"HYUNDAI i30 1.0 TGDI Essence 5p.";12;120;2019;Gasolina;Manual;15900
+TOYOTA;Auris;"TOYOTA Auris 1.2 120T ACTIVE 5p.";6941;116;2018;Gasolina;Manual;15900
+SEAT;Arona;"SEAT Arona 1.6 TDI 85kW 115CV Style Ecomotive 5p.";9100;115;2019;Diesel;Manual;15900
+NISSAN;JUKE;"NISSAN JUKE G E6DTemp 83 kW 112 CV 5MT ACENTA 5p.";4500;112;2018;Gasolina;Manual;15900
+SEAT;Arona;"SEAT Arona 1.0 TSI 85kW 115CV Style Ecomotive 5p.";16797;115;2019;Gasolina;Manual;15900
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Feel 5p.";10000;110;2020;Gasolina;Manual;15900
+OPEL;"Crossland X";"OPEL Crossland X 1.2 96kW 130CV Innovation SS 5p.";14367;130;2019;Gasolina;Manual;15900
+CITROEN;C3;"CITROEN C3 PureTech 81KW 110CV SS SHINE 5p.";4000;110;2020;Gasolina;Manual;15900
+PEUGEOT;308;"PEUGEOT 308 5p Style 1.2 PureTech 96KW 130CV 5p.";14374;130;2018;Gasolina;Manual;15900
+PEUGEOT;Partner;"PEUGEOT Partner Furgon Confort PackL1 BlueHDI 88KW 120";100;120;2019;Diesel;Manual;15900
+SEAT;Arona;"SEAT Arona 1.0 TSI 85kW 115CV Style Ecomotive 5p.";6500;115;2019;Gasolina;Manual;15900
+FIAT;500X;"FIAT 500X City cross 1.6 Mjet 88KW 120 cv SS 5p.";13552;120;2019;Diesel;Manual;15900
+PEUGEOT;2008;"PEUGEOT 2008 Allure PureTech 110 SS 6 Vel. MAN 5p.";15900;110;2019;Gasolina;Manual;15900
+FIAT;Tipo;"FIAT Tipo 1.6 Mirror 88kW diesel Multijet DDCT 5P 5p.";18936;120;2019;Diesel;Automatico;15900
+RENAULT;Megane;"RENAULT Megane Limited TCe GPF 85 kW 115CV 5p.";5417;115;2020;Gasolina;Manual;15900
+NISSAN;JUKE;"NISSAN JUKE dCi E6C 81 kW 110 CV 6MT ACENTA 5p.";15000;110;2018;Diesel;Manual;15900
+FIAT;Tipo;"FIAT Tipo 1.6 Lounge 88kW 120CV diesel Multijet 4p.";9100;120;2018;Diesel;Manual;15900
+OPEL;"Crossland X";"OPEL Crossland X 1.2 81kW Design Line 120 Aniversario SS 5p.";10413;110;2019;Gasolina;Manual;15950
+CITROEN;"C3 Aircross";"CITROEN C3 Aircross PureTech 81kW 110CV SS FEEL 5p.";2;110;2020;Gasolina;Manual;15970
+CITROEN;"C3 Aircross";"CITROEN C3 Aircross PureTech 81kW 110CV SS FEEL 5p.";2;110;2020;Gasolina;Manual;15979
+CITROEN;"C3 Aircross";"CITROEN C3 Aircross PureTech 81kW 110CV SS FEEL 5p.";2;110;2020;Gasolina;Manual;15979
+CITROEN;"C3 Aircross";"CITROEN C3 Aircross PureTech 81kW 110CV SS FEEL 5p.";4;110;2020;Gasolina;Manual;15979
+DACIA;Duster;"DACIA Duster Comfort 1.6 85kW 115CV 4X2  18 MY 5p.";150;115;2019;Gasolina;Manual;15990
+FIAT;Tipo;"FIAT Tipo 5P 1.6 88kW 120CV Multijet II Lounge 5p.";1107;120;2019;Diesel;Manual;15990
+SEAT;Arona;"SEAT Arona 1.0 TSI 85kW 115CV FR Edition Eco 5p.";17000;115;2019;Gasolina;Manual;15990
+SEAT;Arona;"SEAT Arona 1.0 TSI 85kW 115CV FR Edition Eco 5p.";13000;115;2020;Gasolina;Manual;15990
+OPEL;"Crossland X";"OPEL Crossland X 1.2 81kW Design Line 120 Aniversario SS 5p.";4950;110;2019;Gasolina;Manual;15990
+CITROEN;"C3 Aircross";"CITROEN C3 Aircross PureTech 81kW 110CV SS FEEL 5p.";1164;110;2020;Gasolina;Manual;15990
+PEUGEOT;308;"PEUGEOT 308 5p Style 1.2 PureTech 81KW 110CV 5p.";15015;110;2019;Gasolina;Manual;15990
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Origins 5p.";13200;110;2020;Gasolina;Manual;15990
+PEUGEOT;208;"PEUGEOT 208 5P GTLine 1.2L PT EAT6 81KW 110CV SS 5p.";8358;110;2019;Gasolina;Automatico;15990
+OPEL;"Crossland X";"OPEL Crossland X 1.2 96kW 130CV Innovation SS 5p.";9999;130;2019;Gasolina;Manual;15990
+CITROEN;"C4 Cactus";"CITROEN C4 Cactus PureTech 110 SS Shine 5p.";17545;110;2019;Gasolina;Manual;15990
+FORD;Focus;"FORD Focus 1.0 Ecoboost 92kW Trend 5p.";11774;125;2019;Gasolina;Manual;15990
+FORD;EcoSport;"FORD EcoSport 1.0T EcoBoost 92kW 125CV SS ST Line 5p.";4000;125;2019;Gasolina;Manual;15990
+FORD;EcoSport;"FORD EcoSport 1.0T EcoBoost 92kW 125CV SS ST Line 5p.";14995;125;2019;Gasolina;Manual;15995
+FORD;EcoSport;"FORD EcoSport 1.0T EcoBoost 92kW 125CV SS ST Line 5p.";14200;125;2019;Gasolina;Manual;15995
+FORD;EcoSport;"FORD EcoSport 1.0T EcoBoost 92kW 125CV SS ST Line 5p.";14995;125;2019;Gasolina;Manual;15995
+FORD;EcoSport;"FORD EcoSport 1.0T EcoBoost 92kW 125CV SS ST Line 5p.";16400;125;2019;Gasolina;Manual;15995
+SEAT;Arona;"SEAT Arona 1.0 TSI 85kW 115CV Style Edition Eco 5p.";16000;115;2019;Gasolina;Manual;15995

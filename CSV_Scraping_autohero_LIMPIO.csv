@@ -1,0 +1,1418 @@
+Marca,Modelo,Version,Precio,Combustible,Año,Kms,Potencia,Puertas,Cambio,Color,Distribuidor
+Seat,Ateca,1.5 TSI Style,28399,Gasolina,2021-01-01,330.0,150,5,Automático,Gris,Autohero.com
+Citroen,C3 Aircross,1.2 PureTech C-Series,17099,Gasolina,2020-01-01,1695.0,110,5,Manual,Gris,Autohero.com
+Seat,Arona,1.0 TSI Xperience,21599,Gasolina,2023-01-01,1771.0,110,3,Manual,Rojo,Autohero.com
+Fiat,Panda,1.0 Mild-Hybrid City Life,13599,Gasolina,2022-01-01,2019.0,70,5,Manual,Gris,Autohero.com
+Hyundai,Bayon,1.2 Essence 2WD,17199,Gasolina,2022-01-01,2794.0,84,5,Manual,Blanco,Autohero.com
+Opel,Corsa,1.2 GS Line,15499,Gasolina,2020-01-01,3449.0,101,5,Manual,Blanco,Autohero.com
+Peugeot,208,1.2 PureTech Signature,11799,Gasolina,2019-01-01,3235.0,82,5,Manual,Blanco,Autohero.com
+Hyundai,i20,1.0 TGDI Klass,16399,Gasolina,2022-01-01,4507.0,101,3,Manual,Blanco,Autohero.com
+Hyundai,Kona,1.6 Hybrid TGDI Maxx,23499,Híbrido,2022-01-01,4708.0,105,5,Automático,Gris,Autohero.com
+Volkswagen,T-Roc,1.0 TSI Advance,22499,Gasolina,2019-01-01,4836.0,115,5,Manual,Rojo,Autohero.com
+Kia,Picanto,1.0 DPi Concept,11099,Gasolina,2021-01-01,5529.0,67,5,Manual,Rojo,Autohero.com
+MINI,MINI,Cooper,21799,Gasolina,2020-01-01,5489.0,136,5,Automático,Rojo,Autohero.com
+Seat,León,1.5 TSI FR Go,25699,Híbrido,2021-01-01,7328.0,150,5,Automático,Gris,Autohero.com
+Dacia,Sandero II,0.9 TCe Comfort,10599,Gasolina,2019-01-01,7355.0,90,5,Manual,Blanco,Autohero.com
+Fiat,Panda,1.0 Gse Mild-Hybrid Urban,12199,Gasolina,2021-01-01,7590.0,70,5,Manual,Plata,Autohero.com
+Kia,XCeed,1.0 TGDI Emotion,19999,Gasolina,2021-01-01,7485.0,120,5,Manual,Azul,Autohero.com
+Citroen,C4,1.5 Blue-HDi Feel,21499,Diésel,2022-01-01,7769.0,110,5,Manual,Naranja,Autohero.com
+Renault,Clio,1.3 TCe RS Line GPF EDC,19399,Gasolina,2020-01-01,7861.0,131,5,Automático,Azul,Autohero.com
+Mazda,2,1.5 Hybrid Select,22599,Híbrido,2022-01-01,8498.0,116,5,Automático,Plata,Autohero.com
+Fiat,Panda,1.0 Mild-Hybrid City Life,12699,Gasolina,2022-01-01,8588.0,70,5,Manual,Gris,Autohero.com
+Fiat,Punto,1.2 Gasolina,10499,Gasolina,2018-01-01,8697.0,70,5,Manual,Gris,Autohero.com
+Fiat,Tipo,1.4 Turbo S-Design,15599,Gasolina,2019-01-01,8845.0,120,5,Manual,Negro,Autohero.com
+Nissan,Micra,1.0 IG-T N-Tec,13899,Gasolina,2020-01-01,9293.0,101,5,Manual,Blanco,Autohero.com
+Renault,Arkana,1.3 TCe EDC Intens Mild Hybrid,25399,Gasolina,2021-01-01,9494.0,140,5,Automático,Rojo,Autohero.com
+Kia,Stonic,1.0 TGDI Mild-Hybrid iMT Drive,19499,Gasolina,2021-01-01,9363.0,120,5,Semi-automático,Rojo,Autohero.com
+Renault,Twingo,0.9 Energy Zen,13199,Gasolina,2019-01-01,9768.0,90,5,Automático,Azul,Autohero.com
+Toyota,Yaris,1.5 Hybrid Style,20799,Híbrido,2021-01-01,10093.0,116,5,Automático,Gris,Autohero.com
+Abarth,595,1.4 T- Jet Turismo,19799,Gasolina,2021-01-01,10172.0,165,3,Manual,Gris,Autohero.com
+Fiat,500C,1.2 Lounge,12299,Gasolina,2018-01-01,10255.0,70,3,Manual,Blanco,Autohero.com
+Ford,Transit Connect,1.5 EcoBlue TDCi Kombi Trend L1,19299,Diésel,2019-01-01,10280.0,101,5,Manual,Blanco,Autohero.com
+Jeep,Renegade,1.3 T4 4xe Plug-In-Hybrid Limited,27199,Híbrido,2021-01-01,10479.0,190,5,Automático,Negro,Autohero.com
+Seat,Ibiza,1.5 TSI ACT FR,23499,Gasolina,2021-01-01,10594.0,150,5,Automático,Rojo,Autohero.com
+Peugeot,208,1.2 PureTech Active,15099,Gasolina,2020-01-01,10708.0,75,5,Manual,Blanco,Autohero.com
+Hyundai,Kona,1.6 Hybrid Klass,22599,Híbrido,2021-01-01,10659.0,105,5,Automático,Gris,Autohero.com
+Hyundai,Tucson,1.6 CRDi Klass ,23999,Diésel,2021-01-01,10874.0,116,5,Manual,Blanco,Autohero.com
+Kia,cee'd,1.6 TGDI GT,26999,Gasolina,2021-01-01,10958.0,204,5,Automático,Blanco,Autohero.com
+Nissan,Micra,0.9 Turbo Business,13599,Gasolina,2018-01-01,10978.0,90,5,Manual,Gris,Autohero.com
+Mazda,2,1.5 Mild-Hybrid Black Tech Edition,16499,Gasolina,2020-01-01,11371.0,90,5,Manual,Gris,Autohero.com
+Volvo,XC 40,1.5 T3 Momentum Pro 2WD,33099,Gasolina,2020-01-01,11494.0,163,5,Automático,Blanco,Autohero.com
+Renault,Clio,1.0 TCe Zen,16099,Gasolina,2020-01-01,11665.0,101,5,Manual,Gris,Autohero.com
+Ford,Transit Connect,1.5 Kombi Trend,20099,Diésel,2020-01-01,12040.0,101,5,Manual,Blanco,Autohero.com
+Seat,León,1.2 TSI Reference,13499,Gasolina,2017-01-01,11942.0,110,5,Manual,Azul,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway,10499,Gasolina,2017-01-01,12444.0,90,5,Manual,Blanco,Autohero.com
+Ford,Ecosport,1.0 EcoBoost Titanium,18099,Gasolina,2021-01-01,12566.0,125,5,Manual,Negro,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway Essential,12399,Gasolina,2019-01-01,13023.0,90,5,Manual,Azul,Autohero.com
+Hyundai,Tucson,1.6 SLE 2WD,21799,Gasolina,2020-01-01,13126.0,132,5,Manual,Azul,Autohero.com
+Dacia,Sandero III,1.0 TCe Stepway Comfort,16999,Gasolina,2022-01-01,13175.0,91,5,Automático,Naranja,Autohero.com
+Skoda,Kodiaq,1.5 TSI ACT Style,32799,Gasolina,2021-01-01,13613.0,150,5,Automático,Beige,Autohero.com
+Dacia,Sandero II,1.0 SCe Stepway Essential,10899,Gasolina,2018-01-01,14113.0,73,5,Manual,Blanco,Autohero.com
+Toyota,Corolla,2.0 Hybrid Feel!,23599,Híbrido,2019-01-01,13851.0,152,5,Automático,Blanco,Autohero.com
+Subaru,Trezia,1.4 Diesel Limited ,9199,Diésel,2012-01-01,14432.0,90,5,Manual,Plata,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway,10299,Gasolina,2017-01-01,14281.0,90,5,Manual,Blanco,Autohero.com
+Volkswagen,Polo,1.0 TSI Advance,15299,Gasolina,2019-01-01,14521.0,95,5,Manual,Blanco,Autohero.com
+Citroen,C 3,PureTech Shine,15999,Gasolina,2021-01-01,14858.0,110,5,Manual,Negro,Autohero.com
+Peugeot,208,1.2 PureTech Active Pack,15199,Gasolina,2021-01-01,14859.0,75,5,Manual,Amarillo,Autohero.com
+BMW,Serie 1,118i,23399,Gasolina,2019-01-01,14914.0,135,5,Automático,Blanco,Autohero.com
+Toyota,Corolla,1.8 Hybrid Active Plus,23599,Híbrido,2022-01-01,15526.0,122,5,Automático,Azul,Autohero.com
+Citroen,C-Elysée,1.2 PureTech Shine,11799,Gasolina,2019-01-01,15082.0,82,5,Manual,Negro,Autohero.com
+Mercedes-Benz,Clase CLA,CLA 200,25099,Gasolina,2017-01-01,15702.0,155,5,Manual,Blanco,Autohero.com
+Dacia,Duster,1.2 TCe Laureate 4x2,13899,Gasolina,2017-01-01,15774.0,125,5,Manual,Azul,Autohero.com
+Hyundai,Tucson,1.6 T-GDI Hybrid Tekno Sky,34099,Híbrido,2021-01-01,15794.0,179,5,Automático,Negro,Autohero.com
+Peugeot,208,1.2 PureTech Active,14599,Gasolina,2021-01-01,15856.0,75,5,Manual,Blanco,Autohero.com
+Fiat,500X,1.3 Firefly Sport,24599,Gasolina,2022-01-01,16497.0,151,5,Automático,Gris,Autohero.com
+Seat,Arona,1.6 TDI Style Edition,18599,Diésel,2019-01-01,16767.0,116,5,Manual,Blanco,Autohero.com
+Fiat,Panda,1.0 Mild-Hybrid Sport,12899,Gasolina,2021-01-01,16974.0,70,5,Manual,Gris,Autohero.com
+Citroen,C4 Cactus,1.2 PureTech Origins,15999,Gasolina,2020-01-01,17327.0,110,5,Manual,Blanco,Autohero.com
+Renault,Twingo,0.9 TCe Energy Zen,12199,Gasolina,2019-01-01,17413.0,90,5,Manual,Blanco,Autohero.com
+Kia,Sportage,1.6 GDI Drive 2WD,16099,Gasolina,2017-01-01,17497.0,132,5,Manual,Blanco,Autohero.com
+Hyundai,i30,1.5 T-GDI Mild-Hybrid N Line,20199,Gasolina,2020-01-01,17557.0,159,5,Manual,Rojo,Autohero.com
+Ford,Puma,1.0 EcoBoost Mild-Hybrid Titanium Design,21999,Híbrido,2022-01-01,17566.0,125,5,Manual,Blanco,Autohero.com
+Kia,cee'd,1.6 CRDi Mild-Hybrid diesel GT Line,23899,Híbrido,2021-01-01,17858.0,136,5,Automático,Negro,Autohero.com
+Fiat,Tipo,1.4 Lounge,11899,Gasolina,2018-01-01,17864.0,95,5,Manual,Gris,Autohero.com
+Hyundai,Tucson,1.6 CRDi Klass,21999,Diésel,2020-01-01,18049.0,116,5,Manual,Blanco,Autohero.com
+Kia,Picanto,1.0 CVVT Eco-Dynamics Concept,10099,Gasolina,2019-01-01,17867.0,67,5,Manual,Blanco,Autohero.com
+Ford,Focus,1.0 EcoBoost ST-Line,14899,Gasolina,2017-01-01,18181.0,125,5,Manual,Rojo,Autohero.com
+Seat,Ibiza,1.0 TSI Reference,13299,Gasolina,2019-01-01,18318.0,95,5,Manual,Blanco,Autohero.com
+Seat,Arona,1.0 TSI Ecomotive Reference,14699,Gasolina,2019-01-01,18331.0,95,5,Manual,Rojo,Autohero.com
+Dacia,Sandero II,0.9 TCe Laureate,6999,Gasolina,2013-01-01,18390.0,90,5,Manual,Blanco,Autohero.com
+Hyundai,i30,2.0 T-GDI N,30999,Gasolina,2022-01-01,18413.0,250,5,Manual,Azul,Autohero.com
+Fiat,500C,1.0 Mild-Hybrid Connect,16299,Gasolina,2021-01-01,18499.0,70,3,Manual,Blanco,Autohero.com
+Fiat,Panda,1.2 Lounge,10599,Gasolina,2019-01-01,18520.0,70,5,Manual,Gris,Autohero.com
+Ford,Focus,1.0 EcoBoost ST-Line,19899,Gasolina,2019-01-01,18607.0,125,5,Manual,Azul,Autohero.com
+Renault,Megane,1.5 Blue dCi Zen,19199,Diésel,2020-01-01,18975.0,116,5,Automático,Gris,Autohero.com
+Toyota,Yaris,1.5 Active,12199,Gasolina,2017-01-01,18866.0,110,5,Manual,Gris,Autohero.com
+Renault,Clio,1.0 TCe Zen,15399,Gasolina,2020-01-01,19516.0,101,5,Manual,Naranja,Autohero.com
+Hyundai,i30,2.0 T-GDI N Performance,33999,Gasolina,2021-01-01,19619.0,280,5,Manual,Negro,Autohero.com
+Opel,Corsa,1.4 Selective,9999,Gasolina,2016-01-01,19714.0,90,5,Manual,Blanco,Autohero.com
+Peugeot,108,1.0 VTi TOP Allure,11799,Gasolina,2018-01-01,19930.0,72,5,Automático,Blanco,Autohero.com
+Ford,Tourneo Courier,1.0 Trend,14699,Gasolina,2017-01-01,20042.0,100,5,Manual,Azul,Autohero.com
+Seat,Arona,1.0 TSI Reference,15499,Gasolina,2020-01-01,20079.0,95,5,Manual,Blanco,Autohero.com
+Toyota,Yaris,1.5 Hybrid Active,16299,Híbrido,2020-01-01,20122.0,75,5,Automático,Rojo,Autohero.com
+Toyota,Yaris,1.5 Dual VVT-iE Active,13099,Gasolina,2018-01-01,20274.0,110,5,Manual,Plata,Autohero.com
+Nissan,Qashqai,1.7 dCi N-Connecta,22299,Diésel,2019-01-01,20356.0,150,5,Manual,Rojo,Autohero.com
+Renault,Arkana,1.3 TCe Intens Microhíbrido,24599,Gasolina,2021-01-01,20398.0,140,5,Automático,Blanco,Autohero.com
+Kia,Sportage,1.7 CRDi Drive 2WD,20999,Diésel,2017-01-01,20435.0,140,5,Automático,Blanco,Autohero.com
+Peugeot,2008,1.6 Blue-HDi Style,15899,Diésel,2018-01-01,20578.0,100,5,Manual,Gris,Autohero.com
+Mercedes-Benz,Clase B,B 180 d Urban,20599,Diésel,2018-01-01,20820.0,110,5,Automático,Negro,Autohero.com
+Citroen,C4 Cactus,1.6 e-HDi ETG Feel,12099,Diésel,2014-01-01,20843.0,92,5,Automático,Marrón,Autohero.com
+Ford,Focus,1.0 EcoBoost Active,18999,Gasolina,2020-01-01,20882.0,125,5,Manual,Plata,Autohero.com
+Nissan,Micra,1.5 dCi Acenta,14199,Diésel,2017-01-01,21005.0,90,5,Manual,Azul,Autohero.com
+Renault,Clio,1.6 Hybrid E-Tech Zen,21999,Híbrido,2022-01-01,21119.0,91,5,Automático,Rojo,Autohero.com
+Ford,Focus,1.0 EcoBoost Mild-Hybrid ST-Line,20699,Gasolina,2020-01-01,21269.0,125,5,Manual,Azul,Autohero.com
+Ford,Ecosport,1.0 EcoBoost Trend,14599,Gasolina,2017-01-01,21207.0,125,5,Manual,Blanco,Autohero.com
+Peugeot,208,1.2 PureTech Allure,15999,Gasolina,2020-01-01,21387.0,101,5,Manual,Blanco,Autohero.com
+Seat,Ibiza,1.0 MPI Style,12999,Gasolina,2018-01-01,21397.0,80,5,Manual,Blanco,Autohero.com
+Jeep,Renegade,1.0 TGDi Limited 4x2,19099,Gasolina,2020-01-01,21610.0,120,5,Manual,Azul,Autohero.com
+Seat,Ibiza,1.0 TSI Reference,12799,Gasolina,2018-01-01,21947.0,95,5,Manual,Azul,Autohero.com
+Fiat,500,1.2 Lounge,8599,Gasolina,2012-01-01,21713.0,70,3,Manual,Blanco,Autohero.com
+Mazda,CX 3,2.0 Skyactiv-G Zenith,20799,Gasolina,2019-01-01,22237.0,121,5,Automático,Rojo,Autohero.com
+Skoda,Superb,1.5 TSI Style,26999,Gasolina,2020-01-01,22875.0,150,5,Automático,Marrón,Autohero.com
+Dacia,Duster II,1.6 SCe Essential,13899,Gasolina,2018-01-01,22841.0,114,5,Manual,Plata,Autohero.com
+Toyota,C-HR,2.0 Hybrid Advance,27599,Híbrido,2022-01-01,23446.0,184,5,Automático,Azul,Autohero.com
+Cupra,Formentor,1.5 TSI,28099,Gasolina,2021-01-01,23558.0,150,5,Automático,Blanco,Autohero.com
+Kia,Sportage,1.6 CRDi Mild-Hybrid Business 4WD,22699,Diésel,2021-01-01,23612.0,136,5,Manual,Blanco,Autohero.com
+Chevrolet,Aveo,1.4 LS,6199,Gasolina,2012-01-01,23614.0,100,5,Manual,Gris,Autohero.com
+Suzuki,SX4 S-Cross,1.0 DITC GLX,17599,Gasolina,2019-01-01,23704.0,110,5,Manual,Blanco,Autohero.com
+Peugeot,2008,1.2 PureTech Allure,16899,Gasolina,2019-01-01,23743.0,130,5,Manual,Negro,Autohero.com
+Renault,Arkana,1.3 TCe Intens EDC Mild Hybrid,23899,Gasolina,2021-01-01,24086.0,140,5,Automático,Blanco,Autohero.com
+Seat,Ibiza,1.0 MPI Style,12999,Gasolina,2018-01-01,21397.0,80,3,Manual,Blanco,Autohero.com
+Seat,León,1.5 TSI Xcellence Edition,19699,Gasolina,2018-01-01,24366.0,150,5,Manual,Azul,Autohero.com
+Renault,Captur,0.9 Energy Zen,12699,Gasolina,2015-01-01,24462.0,90,5,Manual,Naranja,Autohero.com
+Jeep,Compass,1.4 Sport ,18799,Gasolina,2018-01-01,24330.0,140,5,Manual,Negro,Autohero.com
+Dacia,Sandero II,1.5 Blue dCi SL Xplore,13499,Diésel,2019-01-01,24538.0,95,5,Manual,Rojo,Autohero.com
+Fiat,500,1.2 Lounge,9099,Gasolina,2015-01-01,24619.0,70,3,Manual,Verde,Autohero.com
+Kia,Sportage,1.6 CRDi Mild-Hybrid Drive 2WD,25699,Diésel,2021-01-01,24643.0,136,5,Manual,Rojo,Autohero.com
+Seat,Tarraco,2.0 TDI Xcellence ,30999,Diésel,2019-01-01,24645.0,150,5,Automático,Gris,Autohero.com
+Mitsubishi,ASX,1.6 Motion 160 MPI,16699,Gasolina,2019-01-01,24787.0,117,5,Manual,Blanco,Autohero.com
+Kia,Sportage,1.6 TGDI GT Line Essential 2WD,25399,Gasolina,2021-01-01,25354.0,177,5,Manual,Blanco,Autohero.com
+Kia,XCeed,1.5 TGDI Mild-Hybrid Drive,23499,Gasolina,2022-01-01,24959.0,160,5,Automático,Gris,Autohero.com
+Renault,Clio,1.0 TCe Zen,15699,Gasolina,2020-01-01,25597.0,101,5,Manual,Naranja,Autohero.com
+Peugeot,108,1.0 VTi Allure,11999,Gasolina,2019-01-01,25467.0,72,5,Automático,Rojo,Autohero.com
+BMW,X1,sDrive 18d M,28399,Diésel,2019-01-01,25751.0,150,5,Automático,Blanco,Autohero.com
+Land,Rover Evoque,D150 AWD,35399,Diésel,2019-01-01,26090.0,150,5,Automático,Rojo,Autohero.com
+Fiat,500,1.2 Lounge,13499,Gasolina,2019-01-01,25835.0,70,3,Automático,Blanco,Autohero.com
+Skoda,Octavia,2.0 TDI Scout 4x4,19799,Diésel,2015-01-01,26130.0,185,5,Automático,Plata,Autohero.com
+Mercedes-Benz,Clase A,A 200,27999,Gasolina,2018-01-01,26345.0,163,5,Automático,Rojo,Autohero.com
+Citroen,C-Elysée,1.2 PureTech Shine,11999,Gasolina,2019-01-01,26453.0,82,5,Manual,Marrón,Autohero.com
+Seat,Ateca,2.0 TDI Xcellence Edition,24799,Diésel,2019-01-01,26466.0,150,5,Manual,Blanco,Autohero.com
+Volvo,XC 40,1.5 Business Plus 2WD,31899,Gasolina,2019-01-01,26517.0,163,5,Automático,Blanco,Autohero.com
+Opel,Corsa,1.4 Selective,10199,Gasolina,2015-01-01,26590.0,90,5,Manual,Blanco,Autohero.com
+Ford,B-Max,1.0 EcoBoost Trend,9499,Gasolina,2013-01-01,26782.0,100,5,Manual,Rojo,Autohero.com
+BMW,Serie 3,320d M Sport Mild-Hybrid,37499,Diésel,2021-01-01,26905.0,190,5,Automático,Blanco,Autohero.com
+Skoda,Kamiq,1.0 TSI Active,17499,Gasolina,2020-01-01,27170.0,95,5,Manual,Blanco,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway,8799,Gasolina,2013-01-01,27717.0,90,5,Manual,Gris,Autohero.com
+Seat,León,1.5 TSI FR Edition,19399,Gasolina,2019-01-01,27893.0,150,5,Automático,Blanco,Autohero.com
+Kia,cee'd,1.0 TGDI Tech,17499,Gasolina,2021-01-01,27898.0,120,5,Manual,Blanco,Autohero.com
+Toyota,Yaris,1.6 GR 192kW High Performance,34499,Gasolina,2020-01-01,27928.0,261,3,Manual,Blanco,Autohero.com
+Mazda,CX-30,2.0 Skyactiv-X Mild-Hybrid Evolution 2WD,24099,Gasolina,2020-01-01,27988.0,179,5,Manual,Rojo,Autohero.com
+Toyota,Yaris,1.5 Hybrid Active,16599,Híbrido,2019-01-01,27993.0,75,5,Automático,Blanco,Autohero.com
+Volkswagen,Polo,1.2 TSI Advance BlueMotion,12399,Gasolina,2017-01-01,28009.0,90,3,Manual,Negro,Autohero.com
+Opel,Corsa,1.2 Selective,8399,Gasolina,2013-01-01,28061.0,85,5,Manual,Azul,Autohero.com
+Peugeot,208,1.2 PureTech Style,11099,Gasolina,2017-01-01,28068.0,82,5,Manual,Blanco,Autohero.com
+Citroen,Berlingo,1.2 PureTech Shine Talla XL,23099,Gasolina,2019-01-01,28114.0,110,5,Manual,Gris,Autohero.com
+Opel,Corsa,1.4 Selective,11399,Gasolina,2018-01-01,28217.0,90,5,Manual,Rojo,Autohero.com
+Peugeot,2008,1.2 PureTech Signature,14199,Gasolina,2019-01-01,28624.0,82,5,Manual,Negro,Autohero.com
+Dacia,Sandero II,1.5 dCi SL Nomada 2018,12799,Diésel,2018-01-01,28938.0,90,5,Manual,Blanco,Autohero.com
+MINI,Countryman,Cooper,21399,Gasolina,2018-01-01,29033.0,135,5,Automático,Gris,Autohero.com
+Ford,C-Max,1.0 EcoBoost Trend,12899,Gasolina,2016-01-01,29378.0,125,5,Manual,Negro,Autohero.com
+Seat,Ibiza,1.6 TDI Xcellence Plus,15299,Diésel,2019-01-01,29454.0,95,5,Manual,Marrón,Autohero.com
+Ford,Focus,1.0 EcoBoost ST-Line,19399,Gasolina,2020-01-01,29590.0,125,5,Manual,Azul,Autohero.com
+Skoda,Superb,1.4 PHEV Sportline iV,31699,Híbrido,2020-01-01,29686.0,218,5,Automático,Azul,Autohero.com
+Dacia,Duster II, TCE GPF SL Xplore  4x2,17399,Gasolina,2019-01-01,29695.0,150,5,Manual,Blanco,Autohero.com
+Ford,Ka+,1.2 Ti-VCT Ultimate,11299,Gasolina,2019-01-01,29831.0,86,5,Manual,Gris,Autohero.com
+Volvo,XC 40,1.5 T3,26299,Gasolina,2019-01-01,30040.0,155,5,Manual,Blanco,Autohero.com
+BMW,Serie 4,420d Sport Line,29299,Diésel,2019-01-01,30051.0,190,3,Automático,Blanco,Autohero.com
+Dacia,Sandero II,1.0 Ambiance,8499,Gasolina,2017-01-01,30135.0,75,5,Manual,Blanco,Autohero.com
+Citroen,C 3,1.2 PureTech Feel,11699,Gasolina,2019-01-01,30305.0,82,5,Manual,Naranja,Autohero.com
+Fiat,500X,1.6 Pop Star,12299,Gasolina,2015-01-01,30251.0,110,5,Manual,Blanco,Autohero.com
+Honda,HR-V,1.5 Executive,17899,Gasolina,2016-01-01,30410.0,130,5,Manual,Azul,Autohero.com
+Peugeot,2008,1.2 PureTech Allure,16399,Gasolina,2019-01-01,30815.0,130,5,Manual,Gris,Autohero.com
+Smart,ForFour,0.9 Passion,13799,Gasolina,2018-01-01,30984.0,90,5,Automático,Rojo,Autohero.com
+Audi,A1,35 TFSI Sportback ,23199,Gasolina,2020-01-01,31224.0,150,5,Automático,Blanco,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway Essential,10999,Gasolina,2019-01-01,31236.0,90,5,Manual,Blanco,Autohero.com
+Skoda,Rapid,1.0 TSI Like,12599,Gasolina,2018-01-01,31266.0,95,5,Manual,Azul,Autohero.com
+Renault,Kadjar,1.5 BLUE dCi Zen,22799,Diésel,2020-01-01,31358.0,116,5,Automático,Azul,Autohero.com
+Audi,A3 Limousine,35 TDI S line,34099,Diésel,2021-01-01,31455.0,150,5,Automático,Negro,Autohero.com
+Opel,Corsa,1.4 120 Aniversario,11299,Gasolina,2019-01-01,31488.0,90,3,Manual,Azul,Autohero.com
+Citroen,C 3,1.2 PureTech Origins,12499,Gasolina,2019-01-01,31526.0,82,5,Manual,Gris,Autohero.com
+Kia,Sportage,1.6 Hybrid Tech,33399,Híbrido,2022-01-01,31527.0,179,5,Automático,Gris,Autohero.com
+Ford,Fiesta,1.2 Trend,8799,Gasolina,2013-01-01,31528.0,82,3,Manual,Plata,Autohero.com
+Toyota,Auris Touring Sports,1.8 Hybrid Feel!,17399,Híbrido,2018-01-01,31727.0,100,5,Automático,Blanco,Autohero.com
+Skoda,Fabia,1.0 MPI Ambition,10499,Gasolina,2017-01-01,31738.0,75,5,Manual,Gris,Autohero.com
+Volvo,V40,2.0 T2 Momentum,17799,Gasolina,2017-01-01,31963.0,122,5,Manual,Rojo,Autohero.com
+Seat,Ibiza,1.0 TSI Style,15399,Gasolina,2020-01-01,31984.0,95,5,Manual,Azul,Autohero.com
+Mazda,CX-30,2.0 Mild-Hybrid Skyactiv-G Origin 2WD,22999,Gasolina,2020-01-01,32055.0,122,5,Manual,Rojo,Autohero.com
+Seat,Ibiza,1.0 MPI Reference,12999,Gasolina,2020-01-01,32121.0,80,5,Manual,Blanco,Autohero.com
+Skoda,Kamiq,1.5 TSI ACT Ambition,23799,Gasolina,2020-01-01,32209.0,150,5,Automático,Azul,Autohero.com
+Ford,Focus,1.0 EcoBoost ST-Line,18399,Gasolina,2019-01-01,32293.0,125,5,Manual,Plata,Autohero.com
+Kia,Sportage,1.6 Basic 2WD,16899,Gasolina,2017-01-01,32259.0,132,5,Manual,Blanco,Autohero.com
+Peugeot,Rifter,1.5 Blue-HDi Allure Standard,22499,Diésel,2020-01-01,32315.0,102,5,Manual,Gris,Autohero.com
+Seat,Ibiza,1.5 TSI FR,22999,Gasolina,2021-01-01,32390.0,150,5,Automático,Azul,Autohero.com
+Citroen,C 3,1.0 PureTech Live Edition,7999,Gasolina,2016-01-01,32514.0,68,5,Manual,Negro,Autohero.com
+Volkswagen,Tiguan,1.5 TSI Sport DSG,31399,Gasolina,2019-01-01,32724.0,150,5,Automático,Gris,Autohero.com
+Hyundai,Tucson,1.6 CRDi Mild-Hybrid N Line ,26399,Diésel,2021-01-01,32580.0,136,5,Manual,Rojo,Autohero.com
+Renault,Scenic,1.2 TCe Energy BOSE Edition,13599,Gasolina,2015-01-01,32940.0,132,5,Manual,Dorado,Autohero.com
+Skoda,Karoq,1.5 TSI ACT Ambition,21499,Gasolina,2019-01-01,32745.0,150,5,Manual,Rojo,Autohero.com
+Renault,Clio,1.2 Collection,7599,Gasolina,2013-01-01,33049.0,75,5,Manual,Gris,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway,10499,Gasolina,2016-01-01,33046.0,90,5,Manual,Plata,Autohero.com
+Skoda,Fabia,1.0 TSI Like,12999,Gasolina,2019-01-01,33191.0,95,5,Manual,Blanco,Autohero.com
+Volkswagen,Polo,2.0 TSI GTI,24999,Gasolina,2020-01-01,33242.0,200,5,Automático,Blanco,Autohero.com
+Ford,Transit,Custom 2.0 TDCI 290 L2 Trend,22299,Diésel,2018-01-01,33313.0,130,5,Manual,Blanco,Autohero.com
+Citroen,C 3,1.2 PureTech Shine,14899,Gasolina,2021-01-01,33315.0,110,3,Manual,Gris,Autohero.com
+Opel,Corsa,1.4 120 Aniversario,11299,Gasolina,2019-01-01,31488.0,90,5,Manual,Azul,Autohero.com
+Ford,Fiesta,1.2 Trend,8799,Gasolina,2013-01-01,31528.0,82,5,Manual,Plata,Autohero.com
+Skoda,Fabia,1.0 TSI Like,12999,Gasolina,2019-01-01,33191.0,95,3,Manual,Blanco,Autohero.com
+Citroen,C 3,1.2 PureTech Shine,14899,Gasolina,2021-01-01,33315.0,110,5,Manual,Gris,Autohero.com
+Peugeot,5008,1.5 Blue-HDi GT Line,25999,Diésel,2019-01-01,33500.0,130,5,Automático,Blanco,Autohero.com
+Skoda,Kodiaq,1.5 TSI ACT Ambition,27899,Gasolina,2021-01-01,33625.0,150,5,Manual,Blanco,Autohero.com
+Renault,Clio,1.0 SCe Life,13699,Gasolina,2020-01-01,33590.0,72,5,Manual,Rojo,Autohero.com
+Mercedes-Benz,Clase CLA,CLA 180,30299,Gasolina,2020-01-01,33653.0,136,5,Automático,Negro,Autohero.com
+Toyota,ProAce Verso,1.5 City Family Active L1,23499,Diésel,2021-01-01,33822.0,102,5,Manual,Blanco,Autohero.com
+Citroen,C3 Aircross,1.2 PureTech Rip Curl,15099,Gasolina,2019-01-01,33849.0,110,5,Manual,Blanco,Autohero.com
+Ford,Kuga,2.0 TDCi Trend 4x2,14499,Diésel,2014-01-01,33989.0,140,5,Manual,Blanco,Autohero.com
+Fiat,Tipo,1.0 Life,14999,Gasolina,2021-01-01,34037.0,101,5,Manual,Blanco,Autohero.com
+Seat,Ateca,2.0 TDI Style Edition,23999,Diésel,2020-01-01,34115.0,150,5,Manual,Negro,Autohero.com
+Ford,Kuga,2.5 Plug-In Hybrid ST-Line X,30499,Híbrido,2020-01-01,34228.0,224,5,Automático,Rojo,Autohero.com
+Peugeot,308,1.2 PureTech Style,17999,Gasolina,2019-01-01,34431.0,131,5,Automático,Gris,Autohero.com
+Citroen,C4 Grand Picasso,1.2 PureTech Feel,17699,Gasolina,2017-01-01,34486.0,130,5,Manual,Gris,Autohero.com
+Fiat,500,1.2 Lounge,10899,Gasolina,2018-01-01,34905.0,70,3,Manual,Gris,Autohero.com
+BMW,Serie 5,520d Luxury Line,34999,Diésel,2019-01-01,35041.0,190,5,Automático,Gris,Autohero.com
+Ford,Focus,1.0 EcoBoost Edition,9799,Gasolina,2013-01-01,35163.0,125,5,Manual,Negro,Autohero.com
+BMW,Serie 3,318d Mild-Hybrid,34999,Diésel,2021-01-01,35170.0,150,5,Automático,Blanco,Autohero.com
+Peugeot,2008,1.2 PureTech Allure,19699,Gasolina,2020-01-01,35239.0,101,5,Manual,Blanco,Autohero.com
+Dacia,Duster II,1.6 Essential 4x2,15599,Gasolina,2019-01-01,35571.0,115,5,Manual,Naranja,Autohero.com
+Skoda,Kamiq,1.0 TSI Ambition,18999,Gasolina,2021-01-01,35614.0,110,5,Manual,Blanco,Autohero.com
+Kia,pro_cee'd,1.0 TGDI GT Line,21799,Gasolina,2019-01-01,35672.0,140,5,Manual,Gris,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway,10499,Gasolina,2016-01-01,35706.0,90,5,Manual,Blanco,Autohero.com
+Toyota,Yaris,1.5 Hybrid Active ,17999,Híbrido,2020-01-01,36032.0,75,5,Automático,Rojo,Autohero.com
+Opel,Combo Life,1.2 Turbo Selective L,18999,Gasolina,2019-01-01,36035.0,110,5,Manual,Gris,Autohero.com
+Fiat,Doblò,1.3 M-Jet Base,12099,Diésel,2018-01-01,36107.0,95,3,Manual,Blanco,Autohero.com
+Audi,Q3 Sportback,35 TDI advanced,36499,Diésel,2021-01-01,36336.0,150,5,Automático,Negro,Autohero.com
+Toyota,AYGO,1.0 City,8099,Gasolina,2013-01-01,36622.0,68,5,Manual,Blanco,Autohero.com
+Mazda,CX 5,2.0 Evolution 2WD,23899,Gasolina,2018-01-01,36677.0,165,5,Automático,Gris,Autohero.com
+Seat,León,1.5 TSI FR Edition,20299,Gasolina,2019-01-01,37000.0,150,5,Automático,Rojo,Autohero.com
+Ford,Ka+,1.2 Ti-VCT Ultimate,10399,Gasolina,2017-01-01,37025.0,85,5,Manual,Plata,Autohero.com
+Audi,A1,30 TFSI Sportback,18099,Gasolina,2019-01-01,37215.0,116,5,Manual,Rojo,Autohero.com
+Ford,Kuga,2.0 TDCi Titanium,16999,Diésel,2016-01-01,37398.0,120,5,Manual,Gris,Autohero.com
+Peugeot,308,1.2 PureTech Style,15699,Gasolina,2019-01-01,37466.0,130,5,Manual,Blanco,Autohero.com
+Nissan,Juke,DIGT N-Connecta,19699,Gasolina,2020-01-01,37487.0,117,5,Automático,Gris,Autohero.com
+Peugeot,208,1.2 PureTech Active,15799,Gasolina,2020-01-01,37553.0,101,5,Manual,Amarillo,Autohero.com
+Seat,Ibiza,1.0 TSI Style Connect,11499,Gasolina,2017-01-01,37771.0,95,5,Manual,Plata,Autohero.com
+Volkswagen,T-Cross,1.0 TSI Edition,18799,Gasolina,2020-01-01,37710.0,95,5,Manual,Blanco,Autohero.com
+Seat,Ibiza,1.0 Reference Plus,10099,Gasolina,2016-01-01,37797.0,75,5,Manual,Rojo,Autohero.com
+Dacia,Duster II,1.3 TCe SL Xplore 4x4,19199,Gasolina,2019-01-01,38032.0,150,3,Manual,Gris,Autohero.com
+Opel,Combo Life,1.2 Turbo Selective L,18999,Gasolina,2019-01-01,36035.0,110,3,Manual,Gris,Autohero.com
+Ford,Kuga,2.0 TDCi Titanium,16999,Diésel,2016-01-01,37398.0,120,3,Manual,Gris,Autohero.com
+Seat,Ibiza,1.0 TSI FR,16199,Gasolina,2019-01-01,38153.0,116,5,Manual,Blanco,Autohero.com
+Toyota,RAV 4,2.5 Hybrid Advance ,30499,Híbrido,2019-01-01,38051.0,197,5,Automático,Rojo,Autohero.com
+Skoda,Fabia,1.0 TSI Ambition,12799,Gasolina,2020-01-01,38472.0,95,5,Manual,Rojo,Autohero.com
+Mitsubishi,Space Star,1.2 Motion,9299,Gasolina,2015-01-01,38550.0,80,5,Manual,Blanco,Autohero.com
+Toyota,Yaris,1.5 Hybrid GR Sport,17899,Híbrido,2019-01-01,38605.0,101,5,Automático,Blanco,Autohero.com
+Volvo,XC 40,1.5 T3 Momentum 2WD,28199,Gasolina,2019-01-01,38803.0,163,5,Manual,Negro,Autohero.com
+Citroen,C4 Cactus,1.2 PureTech Feel,14099,Gasolina,2019-01-01,39060.0,110,5,Manual,Gris,Autohero.com
+Kia,Stonic,1.0 TGDI Drive,15099,Gasolina,2018-01-01,39052.0,101,5,Manual,Blanco,Autohero.com
+Ford,Ka+,1.2 Ti-VCT Active,11699,Gasolina,2019-01-01,39076.0,86,5,Manual,Negro,Autohero.com
+Toyota,Yaris,1.33 Dual VVT-i Active,11599,Gasolina,2016-01-01,39446.0,100,3,Manual,Rojo,Autohero.com
+Dacia,Duster,1.5 dCi Laureate 4x2,10899,Diésel,2014-01-01,39611.0,110,5,Manual,Gris,Autohero.com
+Toyota,Yaris,1.5 Hybrid Feel,15299,Híbrido,2019-01-01,40035.0,75,5,Automático,Blanco,Autohero.com
+Peugeot,508,1.6 PureTech Allure,23499,Gasolina,2019-01-01,40036.0,181,5,Automático,Rojo,Autohero.com
+Seat,Ibiza,1.0 TSI Style,12399,Gasolina,2018-01-01,40100.0,95,5,Manual,Rojo,Autohero.com
+Hyundai,i10,1.2 Tecno Edition,11299,Gasolina,2019-01-01,40132.0,87,5,Manual,Rojo,Autohero.com
+Ssangyong,Tivoli,1.6 Limited 4x2,14699,Gasolina,2018-01-01,40154.0,128,5,Manual,Blanco,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway,9599,Gasolina,2016-01-01,40171.0,90,5,Manual,Blanco,Autohero.com
+Dacia,Sandero II,0.9 TCe SL Nomada,11699,Gasolina,2018-01-01,40172.0,90,5,Manual,Blanco,Autohero.com
+BMW,Serie 1,116d,18299,Diésel,2018-01-01,40307.0,115,5,Manual,Azul,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Feel M,20099,Diésel,2020-01-01,40343.0,102,5,Manual,Negro,Autohero.com
+Volvo,V40,2.0 T3 R-Design Momentum,21199,Gasolina,2019-01-01,40548.0,152,5,Manual,Azul,Autohero.com
+Toyota,Auris Touring Sports,1.8 Hybrid Active,16899,Híbrido,2018-01-01,40576.0,100,5,Automático,Blanco,Autohero.com
+Hyundai,i20,1.2 Essence,11399,Gasolina,2019-01-01,40724.0,75,5,Manual,Azul,Autohero.com
+Nissan,Micra,1.0 IG-T Moonlight,13699,Gasolina,2020-01-01,40733.0,101,5,Manual,Rojo,Autohero.com
+Mercedes-Benz,Clase B,B 200 AMG Line,28899,Gasolina,2019-01-01,40896.0,163,5,Automático,Azul,Autohero.com
+Volkswagen,Polo,1.0 TSI Advance,14999,Gasolina,2019-01-01,40921.0,95,5,Manual,Negro,Autohero.com
+Renault,Clio,0.9 Energy Zen,12899,Gasolina,2019-01-01,40939.0,90,5,Manual,Rojo,Autohero.com
+Toyota,Yaris,1.5 Hybrid Advance,15499,Híbrido,2018-01-01,41059.0,101,3,Automático,Gris,Autohero.com
+Ford,Ecosport,1.5 Ti-VCT Titanium,12999,Gasolina,2017-01-01,41115.0,110,3,Manual,Gris,Autohero.com
+Dacia,Dokker,1.6 Essential,13999,Gasolina,2019-01-01,41250.0,102,5,Manual,Azul,Autohero.com
+Audi,Q3,35 TFSI S Line,33699,Gasolina,2019-01-01,41278.0,150,5,Automático,Gris,Autohero.com
+Peugeot,3008,1.5 Blue-HDi Active,20799,Diésel,2019-01-01,41327.0,130,5,Manual,Blanco,Autohero.com
+Toyota,Yaris,1.5 Hybrid Active,15199,Híbrido,2019-01-01,41461.0,75,5,Automático,Blanco,Autohero.com
+Toyota,Yaris,1.5 Hybrid GR Sport,17399,Híbrido,2020-01-01,41492.0,101,5,Automático,Rojo,Autohero.com
+Ford,Ka,1.2 Titanium,7399,Gasolina,2015-01-01,41515.0,70,5,Manual,Rojo,Autohero.com
+Ford,B-Max,1.5 TDCi Trend,11399,Diésel,2017-01-01,41653.0,95,5,Manual,Blanco,Autohero.com
+Seat,Ibiza,1.0 MPI Style,11699,Gasolina,2018-01-01,41714.0,80,5,Manual,Blanco,Autohero.com
+Ford,Ecosport,1.5 Ti-VCT Titanium,12999,Gasolina,2017-01-01,41115.0,110,5,Manual,Gris,Autohero.com
+Ford,Ka,1.2 Titanium,7399,Gasolina,2015-01-01,41515.0,70,3,Manual,Rojo,Autohero.com
+Citroen,C4 Cactus,1.6 Blue-HDi Shine,14899,Diésel,2019-01-01,41849.0,100,5,Manual,Rojo,Autohero.com
+Kia,Stonic,1.0 TGDI Drive,14999,Gasolina,2017-01-01,41874.0,120,5,Manual,Azul,Autohero.com
+Lexus,CT-Serie,CT 200h Eco,20199,Híbrido,2019-01-01,41879.0,100,5,Automático,Rojo,Autohero.com
+Renault,Kadjar,1.2 TCe S-Edition,17999,Gasolina,2018-01-01,41901.0,131,5,Manual,Blanco,Autohero.com
+Toyota,AYGO,1.0 X-Cite,9699,Gasolina,2016-01-01,41929.0,70,5,Manual,Azul,Autohero.com
+Opel,Mokka X,1.4 Selective,15999,Gasolina,2019-01-01,42110.0,140,5,Manual,Blanco,Autohero.com
+Skoda,Fabia,1.0 TSI Ambition,11799,Gasolina,2018-01-01,42127.0,95,5,Manual,Blanco,Autohero.com
+Nissan,Micra,1.0 IG-T Energy Touch,13699,Gasolina,2019-01-01,42132.0,101,5,Manual,Blanco,Autohero.com
+Renault,Grand Scenic,1.3 TCe Zen Energy,17999,Gasolina,2018-01-01,42171.0,140,5,Manual,Gris,Autohero.com
+Jeep,Compass,1.4 M-Air Night Eagle 4x2,21799,Gasolina,2019-01-01,42337.0,140,5,Manual,Blanco,Autohero.com
+Subaru,XV,1.6 Sport Plus AWD,20699,Gasolina,2020-01-01,42359.0,115,5,Automático,Azul,Autohero.com
+Dacia,Duster II,1.6 SCe Access,12799,Gasolina,2018-01-01,42410.0,115,5,Manual,Azul,Autohero.com
+BMW,Serie 1,118d,22099,Diésel,2018-01-01,42567.0,150,5,Automático,Negro,Autohero.com
+Audi,Q3,35 TFSI Advanced Mild-Hybrid,33699,Gasolina,2021-01-01,42581.0,150,5,Automático,Gris,Autohero.com
+Kia,Rio,1.2 Concept,11899,Gasolina,2018-01-01,42615.0,85,5,Manual,Negro,Autohero.com
+Volkswagen,Polo,1.0 Edition,13299,Gasolina,2019-01-01,42687.0,80,5,Manual,Azul,Autohero.com
+Peugeot,2008,1.2 PureTech Allure,16199,Gasolina,2019-01-01,42849.0,110,5,Automático,Blanco,Autohero.com
+Dacia,Sandero II,1.0 SCe Essential,9799,Gasolina,2019-01-01,42890.0,73,5,Manual,Blanco,Autohero.com
+Skoda,Fabia,1.0 MPI Ambition,11799,Gasolina,2019-01-01,42918.0,75,5,Manual,Gris,Autohero.com
+Citroen,C 3,1.2 PureTech Feel,12999,Gasolina,2019-01-01,43050.0,82,5,Manual,Blanco,Autohero.com
+Land,Rover Evoque,2.2 Sd4 Dynamic,21399,Diésel,2013-01-01,43152.0,190,5,Automático,Blanco,Autohero.com
+Toyota,Yaris,1.5 Dual VVT-iE Active,12999,Gasolina,2019-01-01,43235.0,111,5,Manual,Gris,Autohero.com
+Renault,Captur,1.5 dCi Energy Intens,14299,Diésel,2018-01-01,43318.0,90,5,Manual,Beige,Autohero.com
+Skoda,Fabia,1.0 MPI Like,11799,Gasolina,2019-01-01,43326.0,75,5,Manual,Blanco,Autohero.com
+Renault,Captur,0.9 Energy Intens,11799,Gasolina,2014-01-01,43488.0,90,5,Manual,Naranja,Autohero.com
+Citroen,C4 Grand Spacetourer,1.6 PureTech Shine,23799,Gasolina,2019-01-01,43492.0,181,5,Automático,Negro,Autohero.com
+DS,Automobiles DS7 Crossback,1.6 PureTech Performance Line,28499,Gasolina,2019-01-01,43493.0,181,5,Automático,Blanco,Autohero.com
+Hyundai,Bayon,1.0 T-GDI Mild-Hybrid Maxx 2WD,17499,Gasolina,2021-01-01,43549.0,101,5,Manual,Blanco,Autohero.com
+Opel,Crossland X,1.6 CDTI DPF Excellence,15499,Diésel,2018-01-01,43637.0,120,5,Manual,Blanco,Autohero.com
+Kia,Picanto,1.0 X-Tech,8999,Gasolina,2015-01-01,43688.0,65,5,Manual,Blanco,Autohero.com
+Hyundai,ix20,1.4 Klass Bluedrive,9899,Gasolina,2016-01-01,43724.0,90,5,Manual,Blanco,Autohero.com
+BMW,Serie 1,120d xDrive M Sport,33699,Diésel,2020-01-01,44021.0,190,5,Automático,Rojo,Autohero.com
+Peugeot,208,1.2 PureTech Style,10399,Gasolina,2016-01-01,44203.0,82,5,Manual,Gris,Autohero.com
+Peugeot,5008,1.2 PureTech Allure,22599,Gasolina,2018-01-01,44241.0,130,5,Manual,Blanco,Autohero.com
+BMW,Serie 1,116d,20999,Diésel,2019-01-01,44333.0,115,5,Automático,Blanco,Autohero.com
+Mitsubishi,ASX,1.6 Motion 2WD,15999,Gasolina,2019-01-01,44456.0,117,5,Manual,Azul,Autohero.com
+Citroen,C 3,1.2 PureTech Feel,13399,Gasolina,2019-01-01,44461.0,110,5,Manual,Blanco,Autohero.com
+Seat,Ibiza,1.2 TSI FR Crono,11699,Gasolina,2016-01-01,44485.0,90,5,Manual,Azul,Autohero.com
+Renault,Clio,0.9 TCe Zen Energy,11599,Gasolina,2017-01-01,44683.0,90,5,Manual,Blanco,Autohero.com
+Citroen,C 3,1.6 Blue-HDi Feel,12699,Diésel,2018-01-01,44690.0,75,5,Manual,Azul,Autohero.com
+Seat,Tarraco,2.0 TDI Xcellence Plus 4Drive,32999,Diésel,2019-01-01,44929.0,190,5,Automático,Azul,Autohero.com
+Peugeot,3008,1.2 PureTech Allure,19999,Gasolina,2017-01-01,45020.0,130,5,Manual,Blanco,Autohero.com
+Toyota,AYGO,1.0 X-Play,9299,Gasolina,2017-01-01,45155.0,70,5,Manual,Blanco,Autohero.com
+Skoda,Fabia,1.2 TSI Ambition,12499,Gasolina,2017-01-01,45380.0,110,5,Automático,Blanco,Autohero.com
+Kia,pro_cee'd,1.4 Concept,10099,Gasolina,2015-01-01,45416.0,100,3,Manual,Negro,Autohero.com
+Seat,Arona,1.6 TDI CR Xcellence,16799,Diésel,2018-01-01,45419.0,115,5,Manual,Blanco,Autohero.com
+Lancia,Ypsilon,1.2 Gold,6999,Gasolina,2013-01-01,45567.0,70,5,Manual,Blanco,Autohero.com
+Peugeot,508,2.0 Blue-HDi First Edition,25799,Diésel,2018-01-01,45633.0,177,5,Automático,Rojo,Autohero.com
+Mercedes-Benz,Clase C,220d AMG Line,32399,Diésel,2019-01-01,45765.0,194,3,Automático,Blanco,Autohero.com
+Smart,ForTwo,1.0 Micro Hybrid Drive passion,7999,Gasolina,2012-01-01,45788.0,70,3,Automático,Azul,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Shine M,23199,Diésel,2020-01-01,45872.0,102,5,Manual,Gris,Autohero.com
+Peugeot,3008,1.2 PureTech Allure,21699,Gasolina,2019-01-01,45881.0,130,5,Manual,Rojo,Autohero.com
+Citroen,C 3,1.2 VTi Shine,12799,Gasolina,2018-01-01,45913.0,82,5,Manual,Verde,Autohero.com
+Skoda,Fabia,1.0 TSI Like,11199,Gasolina,2018-01-01,45963.0,95,5,Manual,Blanco,Autohero.com
+Lexus,CT-Serie,CT 200h Business,19699,Híbrido,2019-01-01,45983.0,100,5,Automático,Azul,Autohero.com
+Audi,Q3,35 TDI,31199,Diésel,2019-01-01,46099.0,150,5,Automático,Negro,Autohero.com
+Mazda,CX 5,2.0 Evolution 2WD,23699,Gasolina,2018-01-01,46244.0,165,5,Automático,Rojo,Autohero.com
+Renault,Clio,0.9 Energy Limited,10999,Gasolina,2016-01-01,46251.0,90,5,Manual,Gris,Autohero.com
+Renault,Captur,1.5 dCi Energy Intens,13999,Diésel,2018-01-01,46305.0,90,5,Manual,Gris,Autohero.com
+Mercedes-Benz,Clase C,C 200 Mild-Hybrid,28099,Gasolina,2019-01-01,46362.0,184,5,Automático,Blanco,Autohero.com
+Skoda,Karoq,2.0 TDI Sportline,28399,Diésel,2021-01-01,46488.0,150,5,Manual,Negro,Autohero.com
+Opel,Mokka X,1.4 Edition,15699,Gasolina,2019-01-01,46687.0,140,5,Manual,Gris,Autohero.com
+Seat,Mii,1.0 Style,6499,Gasolina,2012-01-01,46958.0,75,3,Manual,Rojo,Autohero.com
+Kia,Stonic,1.0 TGDI Concept,15999,Gasolina,2019-01-01,47127.0,101,5,Manual,Negro,Autohero.com
+Hyundai,Tucson,1.6 SLE 2WD,18999,Gasolina,2019-01-01,47134.0,132,5,Manual,Rojo,Autohero.com
+Renault,Captur,1.5 dCi Energy Zen,16299,Diésel,2019-01-01,47263.0,90,5,Automático,Beige,Autohero.com
+Citroen,Berlingo,Talla XL PureTech Shine ,22299,Gasolina,2019-01-01,47368.0,110,5,Manual,Negro,Autohero.com
+Peugeot,208,1.2 PureTech Style,10599,Gasolina,2018-01-01,47451.0,82,5,Manual,Gris,Autohero.com
+Volkswagen,Polo,1.2 TSI Sport BMT,11799,Gasolina,2014-01-01,47579.0,90,5,Manual,Azul,Autohero.com
+Citroen,C4 Spacetourer,1.2 PureTech Feel,16399,Gasolina,2018-01-01,47638.0,131,5,Manual,Blanco,Autohero.com
+Suzuki,Swift,1.0 GLX SHVS Mild-Hybrid,14799,Gasolina,2018-01-01,47708.0,110,5,Manual,Azul,Autohero.com
+Opel,Corsa,1.4 120 Aniversario,11699,Gasolina,2019-01-01,47831.0,90,5,Manual,Gris,Autohero.com
+Kia,Stonic,1.0 TGDI Drive,16199,Gasolina,2020-01-01,47848.0,101,5,Manual,Amarillo,Autohero.com
+Opel,Mokka X,1.4 Turbo Color Edition Start/Stop 4x2,14499,Gasolina,2018-01-01,47867.0,140,5,Manual,Blanco,Autohero.com
+Smart,ForTwo,0.9 Turbo Passion,12199,Gasolina,2016-01-01,47898.0,90,3,Automático,Blanco,Autohero.com
+Seat,León,1.0 EcoTSI Style,17399,Gasolina,2020-01-01,47954.0,115,5,Manual,Azul,Autohero.com
+Mercedes-Benz,Clase GLA,GLA 180,24799,Gasolina,2019-01-01,48078.0,122,5,Automático,Negro,Autohero.com
+Ford,Fiesta,1.1 Ti-VCT Limited Edition,12899,Gasolina,2020-01-01,48128.0,75,5,Manual,Blanco,Autohero.com
+Skoda,Karoq,1.0 TSI Ambition,18399,Gasolina,2018-01-01,48321.0,115,5,Manual,Gris,Autohero.com
+Peugeot,5008,1.6 THP GT Line,26999,Gasolina,2018-01-01,48507.0,165,5,Automático,Azul,Autohero.com
+Volkswagen,Polo,1.0 TSI Sport,19099,Gasolina,2019-01-01,48608.0,115,5,Automático,Negro,Autohero.com
+Citroen,DS3,1.6 HDi Graphic Art,9299,Diésel,2012-01-01,48616.0,92,3,Manual,Gris,Autohero.com
+Audi,A3,1.8 TFSI Ambition,12499,Gasolina,2012-01-01,48937.0,160,5,Manual,Blanco,Autohero.com
+Renault,Megane,1.5 dCi Energy Limited,11199,Diésel,2015-01-01,48999.0,110,5,Manual,Gris,Autohero.com
+Seat,Ibiza,1.0 TSI Reference,12299,Gasolina,2019-01-01,49093.0,95,5,Manual,Azul,Autohero.com
+Seat,Ibiza,1.0 TSI Reference,12399,Gasolina,2019-01-01,39274.0,95,5,Manual,Blanco,Autohero.com
+Kia,Sportage,1.6 Drive,17899,Gasolina,2019-01-01,49152.0,132,5,Manual,Blanco,Autohero.com
+Smart,ForTwo,1.0 52 mhd Passion,7799,Gasolina,2014-01-01,49291.0,70,3,Automático,Negro,Autohero.com
+Renault,Clio,1.2 Authentique,9399,Gasolina,2015-01-01,49407.0,73,5,Manual,Rojo,Autohero.com
+Kia,Sportage,1.6 Emotion 2WD,18099,Gasolina,2019-01-01,49445.0,132,5,Manual,Rojo,Autohero.com
+Hyundai,i30,1.6 CRDi Klass,16599,Diésel,2019-01-01,49503.0,116,5,Manual,Rojo,Autohero.com
+Peugeot,208,1.2 PureTech Allure,15999,Gasolina,2020-01-01,49563.0,101,5,Manual,Amarillo,Autohero.com
+Ford,Focus,1.5 EcoBlue ST-Line,20199,Diésel,2020-01-01,49741.0,120,5,Manual,Blanco,Autohero.com
+Hyundai,i20,1.2 Klass,10799,Gasolina,2018-01-01,49805.0,85,5,Manual,Gris,Autohero.com
+Seat,Ibiza,1.2 TSI Reference Plus,10899,Gasolina,2017-01-01,50131.0,90,5,Manual,Rojo,Autohero.com
+Audi,Q3,2.0 TDI Sport,24899,Diésel,2018-01-01,50204.0,150,5,Manual,Blanco,Autohero.com
+Mazda,CX 5,2.5 Zenith Safety White,27199,Gasolina,2020-01-01,50208.0,194,5,Automático,Gris,Autohero.com
+BMW,Serie 1,116d,23699,Diésel,2020-01-01,50339.0,116,5,Manual,Rojo,Autohero.com
+Volkswagen,Polo,1.2 TSI Advance BlueMotion,11999,Gasolina,2016-01-01,50459.0,90,5,Manual,Rojo,Autohero.com
+Opel,Astra,1.6 CDTI 120 Aniversario,15799,Diésel,2019-01-01,50516.0,110,5,Manual,Negro,Autohero.com
+Mercedes-Benz,Clase GLA,GLA 200 d Urban,25799,Diésel,2019-01-01,50655.0,135,5,Automático,Rojo,Autohero.com
+Citroen,C 3,1.2 PureTech Tonic,8999,Gasolina,2017-01-01,50664.0,82,5,Manual,Blanco,Autohero.com
+Toyota,RAV 4,2.5 Hybrid 4x2 Business Edition,29999,Híbrido,2019-01-01,50820.0,177,5,Automático,Blanco,Autohero.com
+Kia,cee'd,1.0 TGDI Tech,15499,Gasolina,2019-01-01,50995.0,120,5,Manual,Blanco,Autohero.com
+Ford,Tourneo Courier,1.0 Titanium,13299,Gasolina,2017-01-01,51088.0,100,5,Manual,Blanco,Autohero.com
+Renault,Kadjar,1.6 dCi Energy Zen,15799,Diésel,2016-01-01,51230.0,130,5,Manual,Rojo,Autohero.com
+Ford,Fiesta,1.1 Trend,11399,Gasolina,2018-01-01,51324.0,85,5,Manual,Gris,Autohero.com
+Volkswagen,Polo,1.0 TSI Advance,16599,Gasolina,2020-01-01,51474.0,95,5,Automático,Naranja,Autohero.com
+Mitsubishi,ASX,1.6 DI-D Motion 2WD,16899,Diésel,2018-01-01,51485.0,115,5,Manual,Blanco,Autohero.com
+Subaru,Outback,2.5 Executive Plus,21199,Gasolina,2017-01-01,51727.0,175,5,Automático,Gris,Autohero.com
+Peugeot,2008,1.2 PureTech Allure,12099,Gasolina,2015-01-01,51829.0,110,5,Manual,Naranja,Autohero.com
+Nissan,Qashqai,1.6 dCi N-Connecta 4x2,16799,Diésel,2016-01-01,51851.0,130,5,Automático,Blanco,Autohero.com
+Toyota,Auris,1.8 Hybrid Advance,15999,Híbrido,2018-01-01,51925.0,100,5,Automático,Blanco,Autohero.com
+Ford,Ka+,1.2 Ti-VCT White Edition,10999,Gasolina,2019-01-01,52455.0,86,5,Manual,Gris,Autohero.com
+Dacia,Sandero II,1.0 TCe Stepway,13499,Gasolina,2020-01-01,52851.0,101,5,Manual,Blanco,Autohero.com
+Peugeot,3008,2.0 Blue-HDi GT Line,23799,Diésel,2018-01-01,52948.0,150,5,Manual,Rojo,Autohero.com
+Mercedes-Benz,Clase GLA,GLA 200 d,27999,Diésel,2019-01-01,52959.0,135,5,Automático,Blanco,Autohero.com
+Mercedes-Benz,Clase C,C 200 d,32799,Diésel,2020-01-01,53078.0,160,5,Automático,Plata,Autohero.com
+Abarth,595C,1.4 Turismo,20399,Gasolina,2019-01-01,53087.0,160,3,Manual,Blanco,Autohero.com
+Hyundai,Kona,1.0 T-GDI Maxx 2WD,16499,Gasolina,2020-01-01,53186.0,120,5,Manual,Blanco,Autohero.com
+Toyota,C-HR,1.8 Hybrid Advance,20999,Híbrido,2019-01-01,53198.0,98,5,Automático,Blanco,Autohero.com
+Fiat,500X,1.0 City Cross,15599,Gasolina,2018-01-01,53271.0,120,5,Manual,Blanco,Autohero.com
+Suzuki,Jimny,1.3 JLX,13599,Gasolina,2012-01-01,53278.0,85,3,Manual,Rojo,Autohero.com
+Volkswagen,Golf VII,1.0 TSI Ready2Go,15899,Gasolina,2018-01-01,53279.0,116,5,Manual,Blanco,Autohero.com
+Dacia,Sandero II,1.5 dCi Ambiance,6899,Diésel,2013-01-01,53391.0,75,5,Manual,Blanco,Autohero.com
+Honda,Jazz,1.3 i-VTEC Comfort,14399,Gasolina,2018-01-01,53414.0,102,5,Automático,Rojo,Autohero.com
+Renault,Clio,1.5 dCi Energy Zen,12899,Diésel,2018-01-01,54069.0,90,5,Manual,Negro,Autohero.com
+Peugeot,Rifter,PureTech Allure Standard ,24099,Gasolina,2019-01-01,54660.0,131,5,Automático,Gris,Autohero.com
+Opel,Mokka X,1.4 Turbo Innovation,17499,Gasolina,2019-01-01,54733.0,140,5,Automático,Blanco,Autohero.com
+Volkswagen,Arteon,1.5 TSI R-Line,27699,Gasolina,2019-01-01,54741.0,150,5,Automático,Blanco,Autohero.com
+Mitsubishi,Outlander,2.0 Motion 2WD,21899,Gasolina,2019-01-01,54886.0,150,5,Automático,Negro,Autohero.com
+Renault,Kadjar,1.5 dCi Energy Tech Road,16899,Diésel,2017-01-01,54971.0,110,5,Manual,Negro,Autohero.com
+Renault,Kadjar,1.2 TCe Energy Zen,17299,Gasolina,2017-01-01,55002.0,130,5,Automático,Blanco,Autohero.com
+Seat,León,1.5 ST EcoTSI FR,19399,Gasolina,2019-01-01,55164.0,150,5,Automático,Morado,Autohero.com
+Mercedes-Benz,Clase A,A 180 CDI AMG,19399,Diésel,2015-01-01,55212.0,110,5,Automático,Blanco,Autohero.com
+Dacia,Dokker,1.6 Essential,12699,Gasolina,2019-01-01,55246.0,102,5,Manual,Blanco,Autohero.com
+Renault,Clio,0.9 Energy Limited,10999,Gasolina,2017-01-01,55252.0,90,5,Manual,Plata,Autohero.com
+Fiat,500L,1.4 Pop Star,10799,Gasolina,2016-01-01,55416.0,95,5,Manual,Rojo,Autohero.com
+Dacia,Duster II,1.5 dCi Prestige,14899,Diésel,2018-01-01,55533.0,110,5,Manual,Naranja,Autohero.com
+Peugeot,2008,1.2 PureTech Allure,15999,Gasolina,2018-01-01,55576.0,130,5,Manual,Blanco,Autohero.com
+Seat,León,1.5 TSI ACT Style Visio Edition,17199,Gasolina,2020-01-01,55653.0,131,5,Manual,Rojo,Autohero.com
+Skoda,Fabia,1.0 MPI Ambition,9799,Gasolina,2016-01-01,55700.0,75,5,Manual,Azul,Autohero.com
+Peugeot,3008,1.5 Blue-HDi Allure,21499,Diésel,2018-01-01,55872.0,130,5,Manual,Gris,Autohero.com
+Citroen,C4 Cactus,1.6 Blue-HDi Feel,12599,Diésel,2017-01-01,56056.0,100,5,Manual,Rojo,Autohero.com
+Seat,Ibiza,1.0 TSI Style Plus,13599,Gasolina,2019-01-01,56147.0,95,5,Manual,Blanco,Autohero.com
+Fiat,500,1.2 Lounge,8499,Gasolina,2015-01-01,56253.0,70,3,Manual,Blanco,Autohero.com
+Peugeot,Partner,1.6 Blue-HDi Active TEPEE,16199,Diésel,2017-01-01,56372.0,100,5,Manual,Gris,Autohero.com
+Jeep,Renegade,1.6 Sport FWD,13099,Gasolina,2017-01-01,56535.0,110,5,Manual,Rojo,Autohero.com
+Hyundai,i10,1.0 Tecno,9499,Gasolina,2019-01-01,56685.0,67,5,Manual,Blanco,Autohero.com
+Toyota,Auris,1.8 Hybrid Business Plus,16199,Híbrido,2017-01-01,56745.0,99,5,Automático,Rojo,Autohero.com
+Seat,Alhambra,2.0 TDI Style ,22499,Diésel,2017-01-01,56896.0,150,5,Manual,Negro,Autohero.com
+Citroen,C 3,1.2 VTi Collection,8299,Gasolina,2013-01-01,56966.0,82,5,Manual,Blanco,Autohero.com
+Mercedes-Benz,Clase CLA,CLA 200 AMG Line,33999,Gasolina,2019-01-01,57407.0,163,5,Automático,Blanco,Autohero.com
+Citroen,DS3,1.2 VTi Urban Shot,9199,Gasolina,2014-01-01,57425.0,82,3,Manual,Rojo,Autohero.com
+Mazda,3,1.8 D Evolution,19299,Diésel,2019-01-01,57546.0,116,5,Manual,Blanco,Autohero.com
+Peugeot,208,1.6 Blue-HDi Style,10299,Diésel,2017-01-01,57579.0,75,5,Manual,Rojo,Autohero.com
+Nissan,Juke,1.5 dCi Acenta,10199,Diésel,2012-01-01,57591.0,110,5,Manual,Blanco,Autohero.com
+Land,Rover Evoque,2.0 ed4 4x2 SE,23199,Diésel,2018-01-01,57671.0,150,5,Manual,Plata,Autohero.com
+Opel,Corsa,1.2 Expression,7799,Gasolina,2014-01-01,57681.0,85,5,Manual,Negro,Autohero.com
+Seat,Ibiza,1.2 Reference,7899,Gasolina,2012-01-01,57771.0,70,3,Manual,Blanco,Autohero.com
+Toyota,Yaris,1.0 Business,11599,Gasolina,2019-01-01,57789.0,69,5,Manual,Rojo,Autohero.com
+Peugeot,508,1.6 Hybrid GT Pack PHEV,31399,Híbrido,2021-01-01,57875.0,224,5,Automático,Azul,Autohero.com
+Opel,Corsa,1.4 Turbo Selective ecoFlex,12099,Gasolina,2019-01-01,57881.0,100,5,Manual,Plata,Autohero.com
+Renault,Clio,0.9 Energy Dynamique,9799,Gasolina,2013-01-01,58028.0,90,5,Manual,Rojo,Autohero.com
+Peugeot,308,2.0 Blue-HDi GT Line,15899,Diésel,2017-01-01,58183.0,150,5,Manual,Azul,Autohero.com
+Smart,ForTwo,0.9 Turbo Basis passion,11399,Gasolina,2017-01-01,58253.0,90,3,Automático,Gris,Autohero.com
+Hyundai,i20,1.4 CRDi Essence,11299,Diésel,2017-01-01,58422.0,90,5,Manual,Marrón,Autohero.com
+Kia,Rio,1.2 Concept,9999,Gasolina,2017-01-01,58434.0,85,5,Manual,Blanco,Autohero.com
+Volkswagen,Polo,1.4 Advance,7799,Gasolina,2011-01-01,58596.0,86,5,Manual,Negro,Autohero.com
+Renault,Clio,1.5 dCi Dynamique eco2,7399,Diésel,2012-01-01,58633.0,88,5,Manual,Gris,Autohero.com
+Peugeot,5008,1.2 PureTech Allure,23999,Gasolina,2018-01-01,58662.0,130,5,Manual,Blanco,Autohero.com
+Land,Rover Discovery Sport,2.0 Td4 SE,22599,Diésel,2017-01-01,58748.0,150,5,Automático,Blanco,Autohero.com
+Citroen,C4 Cactus,1.2 PureTech Shine,14699,Gasolina,2018-01-01,58764.0,110,5,Manual,Azul,Autohero.com
+Smart,ForTwo,0.9 Passion,11399,Gasolina,2016-01-01,58931.0,90,3,Automático,Negro,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway,9599,Gasolina,2017-01-01,58952.0,90,5,Manual,Blanco,Autohero.com
+Kia,Sportage,1.6 MHEV Drive 2WD,21999,Diésel,2021-01-01,59017.0,116,5,Manual,Blanco,Autohero.com
+Volkswagen,Caddy,1.4 TSI Trendline BlueMotion,21799,Gasolina,2018-01-01,59180.0,125,5,Manual,Plata,Autohero.com
+Toyota,RAV 4,2.5 Hybrid Advance 4WD,23999,Híbrido,2017-01-01,59294.0,155,5,Automático,Gris,Autohero.com
+Mercedes-Benz,Clase A,A 220,29199,Gasolina,2019-01-01,59394.0,190,5,Automático,Negro,Autohero.com
+Jeep,Renegade,1.0 TGDi Sport 4x2,17199,Gasolina,2019-01-01,59469.0,120,5,Manual,Naranja,Autohero.com
+Opel,Meriva,1.7 CDTI Selective,8499,Diésel,2014-01-01,59478.0,110,5,Manual,Blanco,Autohero.com
+Kia,Picanto,1.2 GT Line,11899,Gasolina,2018-01-01,59746.0,85,5,Manual,Blanco,Autohero.com
+Toyota,RAV 4,2.5 Hybrid Advance,21799,Híbrido,2016-01-01,60014.0,155,5,Automático,Gris,Autohero.com
+Volkswagen,Golf VII,2.0 TSI GTI,28999,Gasolina,2019-01-01,60083.0,245,3,Automático,Gris,Autohero.com
+Peugeot,3008,1.6 THP GT Line,21799,Gasolina,2017-01-01,60160.0,165,5,Automático,Negro,Autohero.com
+Seat,León,1.4 TSI Style,15099,Gasolina,2018-01-01,60378.0,125,5,Manual,Plata,Autohero.com
+Citroen,C3 Aircross,1.2 PureTech Feel,15699,Gasolina,2020-01-01,60456.0,110,5,Manual,Gris,Autohero.com
+MINI,MINI,One,9199,Gasolina,2011-01-01,60484.0,98,3,Manual,Verde,Autohero.com
+Hyundai,i30,1.4 Essence,14399,Gasolina,2020-01-01,60671.0,101,5,Manual,Blanco,Autohero.com
+Citroen,C 3,1.2 PureTech Shine,11899,Gasolina,2018-01-01,60704.0,82,5,Manual,Negro,Autohero.com
+Ford,Tourneo,1.0 EcoBoost Trend,14299,Gasolina,2018-01-01,60815.0,100,5,Manual,Plata,Autohero.com
+Hyundai,i20,1.2 Essence,11299,Gasolina,2019-01-01,60906.0,75,5,Manual,Blanco,Autohero.com
+Peugeot,508,1.6 PureTech Active,22699,Gasolina,2018-01-01,61007.0,181,5,Automático,Azul,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Shine Talla M,21499,Diésel,2020-01-01,61020.0,102,5,Manual,Beige,Autohero.com
+Peugeot,5008,2.0 Blue-HDi GT Line,24999,Diésel,2017-01-01,61585.0,150,5,Manual,Negro,Autohero.com
+Kia,Rio,1.0 TGDI Drive,12299,Gasolina,2018-01-01,62344.0,100,5,Manual,Blanco,Autohero.com
+Jeep,Compass,1.4 M-Air Limited 4WD,22899,Gasolina,2019-01-01,62566.0,170,5,Automático,Gris,Autohero.com
+Nissan,Micra,1.2 Acenta,8199,Gasolina,2016-01-01,62568.0,80,5,Manual,Rojo,Autohero.com
+Renault,Megane,1.2 TCe Energy Zen,15199,Gasolina,2017-01-01,62584.0,132,5,Manual,Blanco,Autohero.com
+Ford,C-Max,1.0 EcoBoost Trend,9699,Gasolina,2013-01-01,62615.0,125,5,Manual,Marrón,Autohero.com
+Suzuki,Vitara,1.4 GLE,15799,Gasolina,2018-01-01,62831.0,140,5,Manual,Rojo,Autohero.com
+Renault,Clio,1.2 Authentique,8999,Gasolina,2015-01-01,62879.0,73,5,Manual,Blanco,Autohero.com
+Seat,Ibiza,1.2 SC Reference,7899,Gasolina,2013-01-01,63098.0,70,3,Manual,Blanco,Autohero.com
+Mazda,6,2.0 Style,18899,Gasolina,2018-01-01,63123.0,145,5,Manual,Gris,Autohero.com
+Peugeot,2008,1.2 PureTech Allure,14999,Gasolina,2018-01-01,63202.0,110,5,Automático,Blanco,Autohero.com
+Citroen,C4 Cactus,1.6 Blue-HDi Feel,11599,Diésel,2017-01-01,63225.0,100,5,Manual,Rojo,Autohero.com
+Ford,Focus,1.0 EcoBoost Trend ,11999,Gasolina,2016-01-01,63270.0,125,5,Manual,Negro,Autohero.com
+Skoda,Fabia,1.2 Ambition,7799,Gasolina,2014-01-01,63383.0,70,5,Manual,Rojo,Autohero.com
+Toyota,Verso,1.6 Comfort,11299,Gasolina,2013-01-01,63537.0,132,5,Manual,Gris,Autohero.com
+Hyundai,Tucson,1.6 25 Aniversario 4x2,17099,Gasolina,2017-01-01,63580.0,132,5,Manual,Azul,Autohero.com
+Fiat,500,1.2 Lounge,10399,Gasolina,2018-01-01,63806.0,70,3,Manual,Rojo,Autohero.com
+Volkswagen,Golf VII,1.4 TSI Advance,18099,Gasolina,2018-01-01,63925.0,125,5,Automático,Blanco,Autohero.com
+Hyundai,Tucson,2.0 CRDi Tecno BlueDrive 2WD,21099,Diésel,2018-01-01,64069.0,135,5,Manual,Negro,Autohero.com
+Citroen,C 3,1.2 PureTech Live Edition,8899,Gasolina,2016-01-01,64492.0,82,5,Manual,Blanco,Autohero.com
+Audi,A4,2.0 TDI Sport,21899,Diésel,2017-01-01,64573.0,150,5,Manual,Blanco,Autohero.com
+Citroen,C4 Picasso,1.2 PureTech Live Edition,12399,Gasolina,2016-01-01,64623.0,130,5,Manual,Blanco,Autohero.com
+Dacia,Lodgy,1.6 SL Nomada,13999,Gasolina,2018-01-01,64677.0,102,5,Manual,Plata,Autohero.com
+Peugeot,5008,1.2 PureTech Allure,22999,Gasolina,2019-01-01,64890.0,130,5,Manual,Gris,Autohero.com
+Ford,Ecosport,1.5 Ti-VCT Trend,12199,Gasolina,2017-01-01,64968.0,110,5,Manual,Azul,Autohero.com
+Dacia,Lodgy,1.6 SCe SL Nomada,13799,Gasolina,2018-01-01,64974.0,102,5,Manual,Azul,Autohero.com
+Citroen,C-Elysée,1.6 HDi Exclusive,8099,Diésel,2014-01-01,64995.0,92,5,Manual,Blanco,Autohero.com
+Toyota,Yaris,1.33 Dual VVT-i Feel!,11299,Gasolina,2016-01-01,65014.0,100,5,Manual,Gris,Autohero.com
+MINI,Cabrio,Cooper D,13099,Diésel,2013-01-01,65059.0,110,3,Manual,Negro,Autohero.com
+Peugeot,308,1.6 HDi Access,8199,Diésel,2012-01-01,65066.0,92,5,Manual,Negro,Autohero.com
+Volkswagen,Polo,1.4 TDI Edition BlueMotion,9899,Diésel,2014-01-01,65427.0,75,5,Manual,Blanco,Autohero.com
+Land,Rover Evoque,2.0 Si4 SE Dynamic,29099,Gasolina,2017-01-01,65644.0,241,5,Automático,Gris,Autohero.com
+Dacia,Duster II,1.2 TCe Comfort,13999,Gasolina,2018-01-01,65706.0,125,5,Manual,Dorado,Autohero.com
+Citroen,C 3,1.2 PureTech Shine,12199,Gasolina,2016-01-01,65833.0,110,5,Manual,Blanco,Autohero.com
+Volkswagen,Golf VII,1.0 TSI Edition,14999,Gasolina,2018-01-01,66158.0,110,5,Manual,Gris,Autohero.com
+Ford,Focus,1.0 EcoBoost Titanium,8999,Gasolina,2012-01-01,66181.0,125,5,Manual,Blanco,Autohero.com
+Mercedes-Benz,Clase C,C 200 d,29399,Diésel,2019-01-01,66479.0,150,5,Automático,Negro,Autohero.com
+Renault,Megane,1.2 TCe Energy Zen Sport Tourer,15299,Gasolina,2018-01-01,66619.0,132,5,Manual,Azul,Autohero.com
+Mercedes-Benz,Vito Tourer,114 CDI Larga,29999,Diésel,2019-01-01,66732.0,135,5,Automático,Azul,Autohero.com
+Seat,Arona,1.0 TSI FR Edition,17899,Gasolina,2019-01-01,66748.0,116,5,Automático,Naranja,Autohero.com
+Citroen,C4 Cactus,PureTech Shine,11399,Gasolina,2017-01-01,67315.0,82,5,Manual,Amarillo,Autohero.com
+Renault,Captur,1.5 BLUE dCi Zen,20799,Diésel,2020-01-01,67317.0,116,5,Automático,Naranja,Autohero.com
+Mazda,CX-30,2.0 Skyactiv-X Mild-Hybrid Zenith 2WD,24299,Gasolina,2020-01-01,67369.0,132,5,Automático,Gris,Autohero.com
+Citroen,C4 Grand Picasso,PureTech Feel,17199,Gasolina,2017-01-01,67476.0,130,5,Manual,Beige,Autohero.com
+Ford,Ka,1.2 Titanium,6399,Gasolina,2015-01-01,67487.0,70,3,Manual,Blanco,Autohero.com
+Renault,Clio,0.9 Energy Dynamique,9099,Gasolina,2013-01-01,67632.0,90,5,Manual,Blanco,Autohero.com
+Skoda,Fabia,1.0 TSI Like,10899,Gasolina,2018-01-01,67650.0,95,5,Manual,Blanco,Autohero.com
+BMW,Serie 1,120i M Sport,23899,Gasolina,2018-01-01,67656.0,185,3,Automático,Negro,Autohero.com
+Citroen,C 3,1.2 PureTech Shine,12899,Gasolina,2018-01-01,67708.0,110,5,Manual,Rojo,Autohero.com
+Citroen,C4 Grand Picasso,1.6 Blue-HDi Feel,16299,Diésel,2017-01-01,67889.0,120,5,Manual,Azul,Autohero.com
+Peugeot,308,1.2 PureTech Allure,13099,Gasolina,2017-01-01,68334.0,130,5,Manual,Gris,Autohero.com
+Subaru,Outback,2.0 Diesel Executive Plus,20799,Diésel,2016-01-01,68438.0,150,5,Automático,Gris,Autohero.com
+Opel,Adam,1.4 XER Glam,9699,Gasolina,2014-01-01,68471.0,100,3,Manual,Blanco,Autohero.com
+Seat,Ibiza,1.0 Style Plus,11699,Gasolina,2019-01-01,68490.0,80,5,Manual,Blanco,Autohero.com
+Seat,Ibiza,1.2 TSI ST Reference,9999,Gasolina,2016-01-01,68506.0,90,5,Manual,Negro,Autohero.com
+BMW,Serie 2,220i Active Tourer Advantage,18699,Gasolina,2016-01-01,69163.0,192,5,Automático,Blanco,Autohero.com
+Volkswagen,Polo,1.4 TDI Sport BlueMotion,10899,Diésel,2014-01-01,69205.0,90,5,Manual,Gris,Autohero.com
+Kia,Rio,1.4 CRDi Concept,8999,Diésel,2014-01-01,69290.0,90,5,Manual,Blanco,Autohero.com
+Skoda,Fabia,1.2 TSI Ambition,10799,Gasolina,2017-01-01,69362.0,90,5,Manual,Azul,Autohero.com
+Land,Rover Evoque,D150 Mild-Hybrid,35799,Diésel,2020-01-01,69797.0,150,5,Automático,Marrón,Autohero.com
+Dacia,Duster II,1.2 TCe Comfort,14399,Gasolina,2018-01-01,69810.0,125,5,Manual,Gris,Autohero.com
+Dacia,Sandero II,1.2 Ambiance,7199,Gasolina,2015-01-01,70363.0,75,5,Manual,Blanco,Autohero.com
+Chevrolet,Cruze,1.6 LS,6999,Gasolina,2011-01-01,70379.0,113,5,Manual,Gris,Autohero.com
+Seat,Ibiza,1.0 TSI Style,11199,Gasolina,2017-01-01,70743.0,95,5,Manual,Blanco,Autohero.com
+Nissan,Qashqai,1.6 N-Connecta,17399,Gasolina,2017-01-01,70841.0,163,5,Manual,Blanco,Autohero.com
+Fiat,500C,1.2 Lounge,10599,Gasolina,2017-01-01,70914.0,70,3,Manual,Blanco,Autohero.com
+Volkswagen,up!,1.0 TSI High up! BlueMotion,10899,Gasolina,2018-01-01,71079.0,90,5,Manual,Negro,Autohero.com
+Volvo,XC 40,2.0 D3 2WD,26399,Diésel,2018-01-01,71181.0,150,5,Automático,Blanco,Autohero.com
+Honda,Civic,1.0 VTEC Elegance,17399,Gasolina,2017-01-01,71228.0,130,5,Manual,Gris,Autohero.com
+Hyundai,i20,1.2 City S,7399,Gasolina,2013-01-01,71285.0,85,5,Manual,Negro,Autohero.com
+Toyota,RAV 4,2.5 Hybrid Business,30999,Híbrido,2019-01-01,71389.0,218,3,Automático,Azul,Autohero.com
+Peugeot,308,1.2 PureTech Allure,12099,Gasolina,2016-01-01,71555.0,110,5,Manual,Gris,Autohero.com
+Toyota,C-HR,1.8 Hybrid Active,19999,Híbrido,2019-01-01,71652.0,98,5,Automático,Gris,Autohero.com
+Smart,ForTwo,0.9 Turbo Passion,13699,Gasolina,2018-01-01,71667.0,90,3,Automático,Gris,Autohero.com
+Peugeot,308,1.6 Blue-HDi Style,11799,Diésel,2016-01-01,71724.0,100,5,Manual,Negro,Autohero.com
+Chevrolet,Cruze,1.6 LT,7199,Gasolina,2012-01-01,71797.0,125,5,Manual,Gris,Autohero.com
+Dacia,Duster,1.5 dCi Ambiance,12899,Diésel,2016-01-01,71922.0,110,5,Manual,Blanco,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Feel M,21199,Diésel,2019-01-01,71974.0,102,5,Manual,Negro,Autohero.com
+Alfa,Romeo Giulietta,1.4 Turbo Sport,15299,Gasolina,2018-01-01,72064.0,120,5,Manual,Blanco,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Feel M,20399,Diésel,2019-01-01,72135.0,131,5,Manual,Gris,Autohero.com
+Nissan,Juke,1.6 Visia,11799,Gasolina,2017-01-01,72148.0,95,5,Manual,Blanco,Autohero.com
+Renault,Clio,0.9 TCe Energy Zen,11599,Gasolina,2018-01-01,72150.0,90,5,Manual,Rojo,Autohero.com
+Citroen,C4,1.4 VTi Tonic,9599,Gasolina,2015-01-01,72209.0,95,5,Manual,Blanco,Autohero.com
+Kia,Venga,1.4 Concept,9499,Gasolina,2016-01-01,72347.0,90,5,Manual,Blanco,Autohero.com
+Lexus,NX-Serie,NX 300h Eco,24199,Híbrido,2016-01-01,72432.0,155,5,Automático,Gris,Autohero.com
+Renault,Megane,1.5 dCi Energy Intens,13499,Diésel,2016-01-01,72504.0,110,5,Manual,Blanco,Autohero.com
+Mercedes-Benz,Clase C,C 220 d Estate,21499,Diésel,2015-01-01,72517.0,170,5,Manual,Blanco,Autohero.com
+Toyota,Auris,1.6 Active,10699,Gasolina,2013-01-01,72601.0,132,5,Manual,Gris,Autohero.com
+Seat,Ibiza,1.2 TSI Style,9999,Gasolina,2016-01-01,72661.0,90,5,Manual,Blanco,Autohero.com
+Skoda,Octavia,1.6 TDI Ambition,11399,Diésel,2015-01-01,72942.0,105,5,Manual,Plata,Autohero.com
+Ford,Tourneo,1.0 EcoBoost Courier Trend,13499,Gasolina,2018-01-01,73423.0,100,3,Manual,Blanco,Autohero.com
+Ford,Mondeo,1.6 TDCi Business,10299,Diésel,2014-01-01,73837.0,115,5,Manual,Azul,Autohero.com
+Dacia,Sandero,1.5 dCi Ambiance,6999,Diésel,2013-01-01,73940.0,75,5,Manual,Blanco,Autohero.com
+Peugeot,3008,1.2 PureTech GT Line,20799,Gasolina,2018-01-01,73970.0,130,5,Manual,Blanco,Autohero.com
+Hyundai,Kona,1.0 TGDI Klass 2WD,14599,Gasolina,2017-01-01,74204.0,120,5,Manual,Gris,Autohero.com
+Toyota,Auris,1.8 Hybrid Active,14799,Híbrido,2016-01-01,74304.0,100,5,Automático,Azul,Autohero.com
+Toyota,Yaris,1.5 Hybrid Active,10999,Híbrido,2013-01-01,74468.0,75,5,Automático,Blanco,Autohero.com
+Hyundai,Tucson,1.6 TGDI Style 2WD,17799,Gasolina,2017-01-01,74482.0,177,5,Manual,Marrón,Autohero.com
+Peugeot,308,1.2 PureTech Style,12299,Gasolina,2017-01-01,74594.0,130,5,Manual,Negro,Autohero.com
+Seat,León,1.2 TSI Style,11799,Gasolina,2015-01-01,74850.0,110,5,Manual,Gris,Autohero.com
+Opel,Mokka X,1.6 CDTI Selective,15099,Diésel,2018-01-01,75005.0,135,5,Manual,Gris,Autohero.com
+Toyota,Yaris,1.33 Dual VVT-i Active,9999,Gasolina,2014-01-01,75255.0,100,5,Manual,Blanco,Autohero.com
+Hyundai,i20,1.1 CRDi Go,7799,Diésel,2014-01-01,75375.0,75,5,Manual,Blanco,Autohero.com
+Volkswagen,Tiguan,2.0 TDI T1 BlueMotion,13799,Diésel,2012-01-01,75383.0,110,5,Manual,Negro,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway Essential,10699,Gasolina,2019-01-01,75416.0,90,5,Manual,Blanco,Autohero.com
+Toyota,RAV 4,2.0 Active,17099,Diésel,2015-01-01,75429.0,125,5,Manual,Negro,Autohero.com
+Seat,Ibiza,1.0 TSI Style,11699,Gasolina,2017-01-01,75477.0,95,5,Manual,Blanco,Autohero.com
+Opel,Corsa,1.4 Selective,9799,Gasolina,2017-01-01,75561.0,90,5,Manual,Blanco,Autohero.com
+Seat,León,1.2 TSI Style,13899,Gasolina,2018-01-01,75814.0,110,5,Manual,Gris,Autohero.com
+Seat,Ibiza,1.0 Reference Full Connect,12199,Gasolina,2019-01-01,75974.0,80,5,Manual,Blanco,Autohero.com
+Peugeot,Rifter,Active Standard  PureTech,18699,Gasolina,2019-01-01,76019.0,110,5,Manual,Gris,Autohero.com
+Fiat,Qubo,1.3 M-Jet Trekking,9499,Diésel,2014-01-01,76261.0,95,5,Manual,Plata,Autohero.com
+Citroen,C4 Grand Picasso,2.0 Blue-HDi Airdream Intensive,14599,Diésel,2014-01-01,76327.0,150,5,Automático,Gris,Autohero.com
+Ford,Tourneo,1.0 EcoBoost Courier Trend,13499,Gasolina,2018-01-01,73423.0,100,5,Manual,Blanco,Autohero.com
+Jeep,Compass,1.4 M-Air Limited 4x2,19999,Gasolina,2018-01-01,76504.0,140,5,Manual,Negro,Autohero.com
+Peugeot,208,1.2 VTi Active,8799,Gasolina,2013-01-01,76572.0,82,5,Manual,Negro,Autohero.com
+Citroen,Berlingo,1.6 Blue-HDi 20 Aniversario Edition,14699,Diésel,2017-01-01,76825.0,99,5,Manual,Negro,Autohero.com
+Ford,Fiesta,1.25 Trend,7899,Gasolina,2013-01-01,76847.0,82,5,Manual,Gris,Autohero.com
+Fiat,Tipo,1.3 M-Jet Easy,10199,Diésel,2017-01-01,76969.0,95,5,Manual,Negro,Autohero.com
+Kia,cee'd,1.4 CRDi Drive,9699,Diésel,2013-01-01,76991.0,90,5,Manual,Blanco,Autohero.com
+Opel,Corsa,1.4 Business,8699,Gasolina,2017-01-01,77167.0,90,5,Manual,Blanco,Autohero.com
+Toyota,Auris,1.2 Turbo Active,13399,Gasolina,2016-01-01,77489.0,115,5,Manual,Blanco,Autohero.com
+Peugeot,3008,1.5 Blue-HDi Allure,21699,Diésel,2018-01-01,77926.0,130,5,Automático,Azul,Autohero.com
+Peugeot,2008,1.6 Blue-HDi Allure,13499,Diésel,2017-01-01,78018.0,100,5,Manual,Gris,Autohero.com
+Mitsubishi,ASX,1.6 MPI Motion,14099,Gasolina,2016-01-01,78149.0,117,5,Manual,Gris,Autohero.com
+Seat,Ibiza,1.2 TSI Reference,8299,Gasolina,2014-01-01,78282.0,85,5,Manual,Azul,Autohero.com
+Mitsubishi,ASX,1.6 Motion 2WD,14899,Gasolina,2018-01-01,78302.0,117,5,Manual,Rojo,Autohero.com
+Subaru,XV,2.0 Sport Plus,20599,Gasolina,2018-01-01,78396.0,155,5,Automático,Gris,Autohero.com
+Citroen,Spacetourer,2.0 Blue-HDi Business XL,26999,Diésel,2018-01-01,78416.0,115,5,Manual,Gris,Autohero.com
+Seat,Ibiza,1.0 Full Connect,9999,Gasolina,2017-01-01,78479.0,75,5,Manual,Gris,Autohero.com
+Opel,Astra K,1.6 CDTI Dynamic ,13599,Diésel,2017-01-01,78883.0,135,5,Manual,Azul,Autohero.com
+Peugeot,208,1.2 PureTech Allure,9699,Gasolina,2016-01-01,79014.0,82,5,Manual,Azul,Autohero.com
+Renault,Clio,0.9 Energy Limited,10899,Gasolina,2018-01-01,79018.0,90,5,Manual,Gris,Autohero.com
+Jeep,Renegade,1.0 TGDi Longitude 4x2,15999,Gasolina,2019-01-01,79075.0,120,5,Manual,Negro,Autohero.com
+Skoda,Fabia,1.0 TSI Like,11099,Gasolina,2018-01-01,79225.0,95,5,Manual,Blanco,Autohero.com
+Jeep,Renegade,1.4 M-Air Limited 4x2,17899,Gasolina,2016-01-01,79567.0,140,5,Manual,Negro,Autohero.com
+Citroen,C4 Picasso,1.2 PureTech Feel,12599,Gasolina,2016-01-01,79735.0,130,3,Manual,Gris,Autohero.com
+Seat,Ibiza,1.2 TSI Style I-Tech 30 Aniversario,9399,Gasolina,2014-01-01,79766.0,85,5,Manual,Rojo,Autohero.com
+Renault,Captur,1.2 TCe Zen Energy,13299,Gasolina,2015-01-01,79782.0,120,5,Automático,Azul,Autohero.com
+Renault,Megane,1.6 dCi Energy GT-Line,16299,Diésel,2017-01-01,79993.0,130,5,Manual,Azul,Autohero.com
+Volkswagen,Golf VII,1.6 TDI Business BlueMotion Tech,14299,Diésel,2017-01-01,80238.0,110,5,Manual,Plata,Autohero.com
+Kia,Sportage,1.6 Emotion 2WD,15799,Gasolina,2017-01-01,80264.0,132,5,Manual,Negro,Autohero.com
+Kia,Rio,1.2 Drive,8499,Gasolina,2014-01-01,80317.0,85,5,Manual,Marrón,Autohero.com
+Fiat,500,1.2 Lounge,7799,Gasolina,2014-01-01,80424.0,70,3,Manual,Blanco,Autohero.com
+Peugeot,5008,1.2 PureTech Active,19999,Gasolina,2018-01-01,80604.0,130,5,Automático,Blanco,Autohero.com
+Peugeot,3008,1.5 BlueHDi Allure,18499,Diésel,2019-01-01,80656.0,130,5,Manual,Gris,Autohero.com
+Fiat,Doblò,1.3 M-Jet Panorama Active N1,9999,Diésel,2015-01-01,80658.0,90,5,Manual,Blanco,Autohero.com
+Nissan,Micra,1.0 Visia,10699,Gasolina,2019-01-01,80907.0,71,5,Manual,Blanco,Autohero.com
+Toyota,AYGO,1.0 City,7499,Gasolina,2013-01-01,81097.0,68,5,Automático,Rojo,Autohero.com
+Hyundai,IONIQ,1.6 Hybrid Tecno,16799,Híbrido,2017-01-01,81370.0,105,5,Automático,Azul,Autohero.com
+Citroen,Berlingo,1.6 Blue-HDi 20 Aniversario Edition,14899,Diésel,2017-01-01,81508.0,99,5,Manual,Blanco,Autohero.com
+Toyota,Auris,1.8 Hybrid Feel!,15799,Híbrido,2019-01-01,81540.0,100,5,Automático,Gris,Autohero.com
+Mercedes-Benz,Clase C,C 220 d Avantgarde,24299,Diésel,2017-01-01,81748.0,170,5,Automático,Blanco,Autohero.com
+Citroen,C4 Picasso,1.2 PureTech Feel,12599,Gasolina,2016-01-01,79735.0,130,5,Manual,Gris,Autohero.com
+Jeep,Compass,1.4 M-Air Longitude 4x2,18399,Gasolina,2018-01-01,82110.0,140,5,Manual,Azul,Autohero.com
+Volkswagen,Polo,1.2 TSI Sport,9999,Gasolina,2012-01-01,82164.0,90,3,Automático,Rojo,Autohero.com
+Toyota,AYGO,1.0 City,6899,Gasolina,2013-01-01,82167.0,68,5,Manual,Blanco,Autohero.com
+Mercedes-Benz,Clase C,C 220 Diesel AMG Line,28399,Diésel,2019-01-01,82259.0,194,5,Automático,Gris,Autohero.com
+Nissan,Juke,1.5 Acenta,10299,Diésel,2013-01-01,82505.0,110,5,Manual,Gris,Autohero.com
+Toyota,AYGO,1.0 X-Play,8599,Gasolina,2016-01-01,82566.0,70,5,Manual,Rojo,Autohero.com
+Fiat,500,1.2 Lounge,9599,Gasolina,2018-01-01,82576.0,70,3,Manual,Blanco,Autohero.com
+Opel,Insignia Grand Sport,2.0 CDTI Excellence,15199,Diésel,2017-01-01,82816.0,170,5,Manual,Gris,Autohero.com
+BMW,Serie 2,218d M Sport,23699,Diésel,2018-01-01,82821.0,150,3,Automático,Negro,Autohero.com
+Seat,Ibiza,1.2 Reference,8599,Gasolina,2015-01-01,82997.0,70,3,Manual,Blanco,Autohero.com
+Fiat,Tipo,1.4 Easy,9799,Gasolina,2017-01-01,83327.0,95,5,Manual,Marrón,Autohero.com
+Peugeot,308,1.6 Blue-HDi Style,11099,Diésel,2016-01-01,83390.0,100,5,Manual,Negro,Autohero.com
+Ford,Fiesta,1.25 Trend,7999,Gasolina,2013-01-01,83497.0,82,5,Manual,Rojo,Autohero.com
+Dacia,Sandero II,0.9 Stepway,8099,Gasolina,2014-01-01,83659.0,90,5,Manual,Blanco,Autohero.com
+Dacia,Logan MCV II,0.9 TCe Laureate,8799,Gasolina,2015-01-01,83721.0,90,5,Manual,Marrón,Autohero.com
+Toyota,Auris Touring Sports,1.8 Hybrid Feel! Edition,17499,Híbrido,2019-01-01,83757.0,99,5,Automático,Blanco,Autohero.com
+Opel,Combo,1.3 CDTI L1H1,10399,Diésel,2015-01-01,84219.0,90,5,Manual,Blanco,Autohero.com
+Skoda,Fabia,1.2 Spirit,6099,Gasolina,2011-01-01,84241.0,60,5,Manual,Blanco,Autohero.com
+Renault,Megane,1.2 TCe Sport Tourer Zen Energy,14499,Gasolina,2018-01-01,84394.0,130,5,Manual,Azul,Autohero.com
+Mercedes-Benz,Clase E,E 220 d AMG,24499,Diésel,2016-01-01,84406.0,170,5,Automático,Azul,Autohero.com
+Citroen,C 3,1.2 PureTech Tonic,7899,Gasolina,2015-01-01,84756.0,82,5,Manual,Blanco,Autohero.com
+Jeep,Renegade,1.6 Sport FWD,15099,Gasolina,2017-01-01,84816.0,110,5,Manual,Negro,Autohero.com
+Renault,Grand Scenic,1.2 TCe Intens,15499,Gasolina,2017-01-01,84933.0,132,5,Manual,Azul,Autohero.com
+Hyundai,i20,1.0 TGDI Tecno,12699,Gasolina,2019-01-01,84990.0,100,5,Automático,Negro,Autohero.com
+Seat,León,1.5 TSI FR Edition,18899,Gasolina,2019-01-01,85152.0,150,5,Manual,Gris,Autohero.com
+Ford,Tourneo Courier,1.0 Ecoboost Titanium,12799,Gasolina,2018-01-01,85412.0,100,5,Manual,Blanco,Autohero.com
+Volkswagen,Polo,1.2 TSI Advance BlueMotion,10799,Gasolina,2014-01-01,85457.0,90,3,Automático,Rojo,Autohero.com
+Citroen,C 3,1.2 PureTech Feel,10299,Gasolina,2017-01-01,85515.0,82,5,Manual,Rojo,Autohero.com
+Volkswagen,Polo,1.2 Advance BlueMotion,7799,Gasolina,2012-01-01,85985.0,70,3,Manual,Blanco,Autohero.com
+Renault,Scenic,1.5 dCi BOSE EDC ,13099,Diésel,2016-01-01,86101.0,110,5,Automático,Negro,Autohero.com
+Citroen,C4 Picasso,1.2 PureTech First,11599,Gasolina,2016-01-01,86131.0,110,5,Manual,Negro,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Feel M,19799,Diésel,2019-01-01,86633.0,102,5,Manual,Gris,Autohero.com
+Seat,León,1.2 TSI Style Connect Plus,11999,Gasolina,2016-01-01,86640.0,110,5,Manual,Rojo,Autohero.com
+Nissan,Qashqai,1.6 dCi Acenta,16599,Diésel,2016-01-01,86683.0,130,5,Automático,Negro,Autohero.com
+Volkswagen,Tiguan,2.0 TDI Sport 4Motion,29799,Diésel,2018-01-01,86974.0,240,5,Automático,Gris,Autohero.com
+Peugeot,3008,1.2 PureTech Allure,18399,Gasolina,2017-01-01,87230.0,130,5,Manual,Gris,Autohero.com
+Audi,A1,1.6 TDI Attraction,14699,Diésel,2015-01-01,87448.0,115,5,Manual,Rojo,Autohero.com
+Land,Rover Discovery Sport,2.0 Td4 HSE,25399,Diésel,2018-01-01,87851.0,150,5,Automático,Blanco,Autohero.com
+Ford,Grand C-Max,1.5 EcoBoost Titanium,13999,Gasolina,2015-01-01,87901.0,150,5,Manual,Rojo,Autohero.com
+Ssangyong,Korando,2.0 TD Limited Plus 4x2,9999,Diésel,2012-01-01,87954.0,175,5,Manual,Gris,Autohero.com
+Mitsubishi,ASX,1.6 Motion 2WD,14699,Gasolina,2018-01-01,87984.0,117,5,Manual,Rojo,Autohero.com
+Seat,Ibiza,1.2 Reference I-Tech 30 Aniversario,7999,Gasolina,2014-01-01,88147.0,70,5,Manual,Blanco,Autohero.com
+Nissan,Qashqai,1.5 dCi N-Connecta,17699,Diésel,2018-01-01,88279.0,116,5,Manual,Gris,Autohero.com
+Citroen,DS4 Crossback,1.2 PureTech Connected Chic,15099,Gasolina,2018-01-01,88555.0,130,5,Manual,Rojo,Autohero.com
+Renault,Megane,1.2 TCe Energy Zen,12199,Gasolina,2016-01-01,88601.0,132,5,Manual,Gris,Autohero.com
+Seat,Ibiza,1.0 TSI Style,11699,Gasolina,2017-01-01,88825.0,95,5,Manual,Azul,Autohero.com
+Renault,Grand Scenic,1.2 TCe  Zen,15999,Gasolina,2017-01-01,89082.0,132,5,Manual,Negro,Autohero.com
+Toyota,Yaris,1.3 100 Active,10799,Gasolina,2016-01-01,89602.0,100,5,Manual,Gris,Autohero.com
+Renault,Megane,1.5 dCi S.T GT-Style,10899,Diésel,2015-01-01,89642.0,110,5,Manual,Azul,Autohero.com
+Peugeot,Traveller,2.0 Blue-HDi Business Standard,26999,Diésel,2018-01-01,89713.0,150,5,Manual,Plata,Autohero.com
+Mitsubishi,Eclipse Cross,1.5 T-MIVEC Spirit 4WD,22499,Gasolina,2020-01-01,89964.0,163,5,Automático,Gris,Autohero.com
+Renault,Talisman,1.6 TCe Energy Intens,15799,Gasolina,2016-01-01,90031.0,150,5,Automático,Gris,Autohero.com
+Opel,Combo,1.3 CDTI Expression L1H1,10899,Diésel,2016-01-01,90045.0,90,5,Manual,Blanco,Autohero.com
+Kia,cee'd,1.6 CRDi VGT X-Tech,13999,Diésel,2016-01-01,90117.0,135,5,Manual,Negro,Autohero.com
+BMW,X4,xDrive 20d,25399,Diésel,2015-01-01,90296.0,190,5,Automático,Azul,Autohero.com
+BMW,Serie 2,218d Gran Coupe,18299,Diésel,2015-01-01,90357.0,150,5,Automático,Dorado,Autohero.com
+Peugeot,208,1.0 PureTech Access,7699,Gasolina,2016-01-01,90362.0,68,5,Manual,Blanco,Autohero.com
+Volkswagen,Golf VII,1.6 TDI Variant Edition,14499,Diésel,2018-01-01,90590.0,115,5,Manual,Gris,Autohero.com
+Peugeot,208,1.2 PureTech Signature,12999,Gasolina,2019-01-01,90624.0,110,5,Automático,Blanco,Autohero.com
+Peugeot,3008,1.6 Blue-HDi Active,18799,Diésel,2017-01-01,90845.0,120,5,Manual,Gris,Autohero.com
+Opel,Astra,1.7 CDTI Sportive,8599,Diésel,2011-01-01,90895.0,110,5,Manual,Blanco,Autohero.com
+Opel,Corsa,1.2 CMon,6099,Gasolina,2011-01-01,91084.0,85,5,Manual,Gris,Autohero.com
+Peugeot,5008,1.6 Blue-HDi GT Line,22899,Diésel,2017-01-01,91178.0,120,5,Automático,Gris,Autohero.com
+Audi,Q5,2.0 TDI Ultra Advanced edition,22999,Diésel,2016-01-01,91246.0,150,5,Manual,Plata,Autohero.com
+Opel,Zafira Tourer,2.0 CDTI Excellence,10299,Diésel,2012-01-01,91286.0,165,5,Manual,Gris,Autohero.com
+Audi,A6,2.0 TDI Ultra,19599,Diésel,2015-01-01,91412.0,190,5,Manual,Negro,Autohero.com
+Hyundai,i30,1.0 TGDI Klass,12999,Gasolina,2017-01-01,91505.0,120,5,Manual,Blanco,Autohero.com
+Audi,A5 Sportback,2.0 TDI S Line Edition,22299,Diésel,2016-01-01,91892.0,190,5,Manual,Negro,Autohero.com
+Toyota,Yaris,1.33 Dual VVT-i Active,9099,Gasolina,2014-01-01,91905.0,100,5,Manual,Blanco,Autohero.com
+Mercedes-Benz,Clase A,A 200,25899,Gasolina,2018-01-01,91921.0,163,3,Automático,Blanco,Autohero.com
+Peugeot,308,2.0 Blue-HDi Allure,13699,Diésel,2016-01-01,92315.0,150,5,Manual,Negro,Autohero.com
+Citroen,C4 Grand Picasso,1.6 Blue-HDi Feel,15399,Diésel,2017-01-01,92427.0,120,5,Manual,Rojo,Autohero.com
+Mercedes-Benz,Clase A,A 180 Urban,17399,Gasolina,2016-01-01,92591.0,122,5,Manual,Negro,Autohero.com
+Citroen,Berlingo,1.6 Blue-HDi Live Talla M,13999,Diésel,2019-01-01,92879.0,100,5,Manual,Blanco,Autohero.com
+Alfa,Romeo Giulietta,1.6 JTDM Distinctive,10999,Diésel,2015-01-01,92884.0,105,5,Manual,Blanco,Autohero.com
+Seat,León,2.0 TDI FR,17299,Diésel,2017-01-01,93113.0,150,3,Manual,Azul,Autohero.com
+BMW,Serie 2,220i Active Tourer Advantage,17899,Gasolina,2016-01-01,93254.0,192,5,Automático,Azul,Autohero.com
+Peugeot,2008,1.2 PureTech Style,12999,Gasolina,2018-01-01,93324.0,82,5,Manual,Gris,Autohero.com
+Audi,A1,1.6 TDI Adrenalin,14499,Diésel,2017-01-01,93333.0,115,5,Manual,Azul,Autohero.com
+Citroen,C-Elysée,1.6 HDi Seduction,7299,Diésel,2015-01-01,93453.0,92,5,Manual,Gris,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Feel XL,20099,Diésel,2019-01-01,93754.0,102,5,Manual,Gris,Autohero.com
+BMW,Serie 4,420d Gran Coupé Luxury Line,22299,Diésel,2016-01-01,94030.0,190,5,Automático,Azul,Autohero.com
+Jeep,Renegade,2.0 M-Jet Longitude 4WD,15599,Diésel,2015-01-01,94428.0,120,5,Manual,Rojo,Autohero.com
+Nissan,Note,1.2 Naru Edition,8899,Gasolina,2016-01-01,94459.0,80,5,Manual,Negro,Autohero.com
+Seat,Ibiza,1.2 TSI Style,9999,Gasolina,2017-01-01,94645.0,90,3,Manual,Gris,Autohero.com
+Peugeot,2008,1.6 Blue-HDi Allure,15599,Diésel,2018-01-01,94674.0,120,5,Manual,Rojo,Autohero.com
+Peugeot,Partner,1.6 Blue-HDi Tepee Style,14199,Diésel,2017-01-01,95002.0,100,3,Manual,Blanco,Autohero.com
+Peugeot,Partner,1.6 Blue-HDi Tepee Style,14199,Diésel,2017-01-01,95002.0,100,5,Manual,Blanco,Autohero.com
+Hyundai,Tucson,2.0 CRDi Go Sky 4x2,19199,Diésel,2018-01-01,95015.0,135,5,Manual,Blanco,Autohero.com
+Dacia,Duster II,1.5 dCi Ambiance,13999,Diésel,2018-01-01,95163.0,110,5,Manual,Gris,Autohero.com
+Kia,Stonic,1.2 Drive,13199,Gasolina,2019-01-01,95214.0,85,5,Manual,Gris,Autohero.com
+Volkswagen,Polo,1.6 TDI Advance,8999,Diésel,2013-01-01,95805.0,90,5,Manual,Gris,Autohero.com
+Kia,cee'd,1.4 X-Tech,12599,Gasolina,2018-01-01,95860.0,100,5,Manual,Blanco,Autohero.com
+Volkswagen,Polo,1.2 TSI Advance BlueMotion,11999,Gasolina,2016-01-01,96003.0,90,5,Manual,Gris,Autohero.com
+BMW,Serie 3,318d,18199,Diésel,2017-01-01,96108.0,150,5,Manual,Gris,Autohero.com
+Fiat,500,1.2 Lounge,9099,Gasolina,2017-01-01,96350.0,70,3,Manual,Blanco,Autohero.com
+Toyota,Auris Touring Sports,1.6 Active,11699,Gasolina,2015-01-01,96436.0,132,5,Manual,Blanco,Autohero.com
+Mercedes-Benz,Clase A,A 200 CDI BlueEfficiency Urban,16299,Diésel,2013-01-01,96636.0,135,5,Automático,Gris,Autohero.com
+Nissan,Qashqai,1.2 Acenta,12699,Gasolina,2014-01-01,97139.0,115,5,Manual,Blanco,Autohero.com
+Peugeot,308,1.6 Blue-HDi Style,11499,Diésel,2016-01-01,97201.0,120,5,Manual,Blanco,Autohero.com
+Peugeot,5008,1.5 Blue-HDi GT Line,23299,Diésel,2018-01-01,97280.0,131,5,Automático,Azul,Autohero.com
+Peugeot,208,1.2 PureTech Active,8899,Gasolina,2016-01-01,97321.0,82,5,Manual,Plata,Autohero.com
+Seat,Ibiza,1.2 TSI Style,9999,Gasolina,2017-01-01,94645.0,90,5,Manual,Gris,Autohero.com
+Fiat,500,1.2 Lounge,6499,Gasolina,2011-01-01,97324.0,70,3,Manual,Blanco,Autohero.com
+Ford,Fiesta,1.1 Trend,10799,Gasolina,2018-01-01,97827.0,85,5,Manual,Gris,Autohero.com
+Renault,Kangoo,1.5 dCi Extrem,11599,Diésel,2015-01-01,97952.0,90,5,Manual,Rojo,Autohero.com
+Toyota,Auris,1.2 Turbo Active,12499,Gasolina,2016-01-01,97977.0,115,5,Manual,Blanco,Autohero.com
+Toyota,Yaris,1.0 VVT-i City,9799,Gasolina,2017-01-01,98139.0,70,5,Manual,Blanco,Autohero.com
+Citroen,C 3,1.4 Collection,6899,Gasolina,2012-01-01,98198.0,73,5,Manual,Blanco,Autohero.com
+Mitsubishi,Outlander,PHEV Motion 4WD,24399,Híbrido,2018-01-01,98257.0,135,5,Automático,Blanco,Autohero.com
+Opel,Insignia,1.6 CDTI DPF Excellence,13999,Diésel,2017-01-01,98563.0,136,5,Manual,Marrón,Autohero.com
+Volvo,XC 70,2.0 D4 Momentum 2WD,21999,Diésel,2016-01-01,98594.0,180,5,Automático,Azul,Autohero.com
+Mercedes-Benz,Clase GLC,GLC 220,33499,Diésel,2018-01-01,98795.0,170,5,Automático,Negro,Autohero.com
+Opel,Insignia Sports Tourer,1.6 CDTI Selective,16399,Diésel,2019-01-01,98879.0,110,5,Manual,Blanco,Autohero.com
+Renault,Captur,Zen Energy TCe ,14599,Gasolina,2018-01-01,98907.0,120,5,Automático,Blanco,Autohero.com
+Audi,Q5,2.0 TDI Ambiente quattro,21499,Diésel,2014-01-01,99020.0,177,5,Automático,Gris,Autohero.com
+Renault,Megane,1.2 GT-Style,9099,Gasolina,2013-01-01,99054.0,115,5,Manual,Negro,Autohero.com
+Nissan,Micra,1.2 Acenta,7799,Gasolina,2017-01-01,99125.0,80,5,Manual,Gris,Autohero.com
+Renault,Scenic,1.2 Limited,10599,Gasolina,2016-01-01,99248.0,115,5,Manual,Azul,Autohero.com
+Audi,Q2,30 TDI Design,20599,Diésel,2018-01-01,99518.0,116,5,Manual,Blanco,Autohero.com
+Kia,Stonic,1.0 TGDI Drive,13399,Gasolina,2018-01-01,99950.0,101,5,Manual,Negro,Autohero.com
+Lexus,NX-Serie,NX 300h Business,25799,Híbrido,2018-01-01,100174.0,155,5,Automático,Blanco,Autohero.com
+Seat,Altea XL,1.6 TDI Style,8799,Diésel,2013-01-01,100327.0,105,5,Manual,Negro,Autohero.com
+Hyundai,Elantra,1.6 MPI Tecno,12499,Gasolina,2017-01-01,100346.0,128,5,Manual,Azul,Autohero.com
+Citroen,C4 Cactus,1.2 PureTech Feel,9599,Gasolina,2015-01-01,100375.0,82,5,Manual,Blanco,Autohero.com
+Ford,Ka,1.2 Trend,7599,Gasolina,2016-01-01,100542.0,70,3,Manual,Rojo,Autohero.com
+Peugeot,Partner,1.6 Blue-HDi Style ,14899,Diésel,2017-01-01,100550.0,120,5,Manual,Blanco,Autohero.com
+Audi,A3,1.4 TFSI Ambition ultra,17099,Gasolina,2015-01-01,100670.0,150,3,Manual,Blanco,Autohero.com
+Volkswagen,Golf VII,1.8 TSI 4Motion BlueMotion,18999,Gasolina,2016-01-01,100771.0,180,5,Automático,Gris,Autohero.com
+Renault,Clio,1.2 Authentique,7499,Gasolina,2015-01-01,100792.0,73,5,Manual,Blanco,Autohero.com
+Ford,C-Max,1.0 EcoBoost Trend,8899,Gasolina,2013-01-01,100875.0,125,5,Manual,Rojo,Autohero.com
+Toyota,RAV 4,2.5 Hybrid Advance 4x2,27199,Híbrido,2019-01-01,101038.0,218,5,Automático,Gris,Autohero.com
+Mitsubishi,Outlander,2.0 Kaiteki PHEV,17899,Híbrido,2015-01-01,101120.0,150,5,Automático,Blanco,Autohero.com
+Peugeot,208,1.6 Blue-HDi Allure,10499,Diésel,2016-01-01,101337.0,100,5,Manual,Gris,Autohero.com
+Ford,Tourneo Connect,1.5 TDCi Titanium,18599,Diésel,2017-01-01,101354.0,120,5,Automático,Gris,Autohero.com
+Peugeot,207,1.6 CC VTi,7299,Gasolina,2012-01-01,101592.0,120,3,Manual,Blanco,Autohero.com
+Toyota,AYGO,1.0 X-Cite,9199,Gasolina,2017-01-01,101623.0,70,5,Manual,Rojo,Autohero.com
+Toyota,Auris,1.6 Active,10199,Gasolina,2015-01-01,101995.0,132,5,Manual,Blanco,Autohero.com
+Citroen,C 3,1.2 PureTech Feel,9799,Gasolina,2017-01-01,102100.0,82,5,Manual,Rojo,Autohero.com
+BMW,Serie 1,118i,19399,Gasolina,2019-01-01,102203.0,135,5,Automático,Blanco,Autohero.com
+Toyota,RAV 4,2.5 Hybrid Advance Hybrid 2WD,21299,Híbrido,2016-01-01,102299.0,152,5,Automático,Negro,Autohero.com
+Land,Rover Evoque,2.2 Sd4 Pure,22599,Diésel,2014-01-01,102744.0,190,5,Automático,Negro,Autohero.com
+Kia,Sportage,2.0 CRDi Drive 4x4,14799,Diésel,2015-01-01,103304.0,135,5,Manual,Blanco,Autohero.com
+Hyundai,Elantra,1.6 MPI Tecno,12499,Gasolina,2017-01-01,100346.0,128,3,Manual,Azul,Autohero.com
+Audi,A3,1.4 TFSI Ambition ultra,17099,Gasolina,2015-01-01,100670.0,150,5,Manual,Blanco,Autohero.com
+Mitsubishi,Outlander,2.0 Kaiteki PHEV,17899,Híbrido,2015-01-01,101120.0,150,3,Automático,Blanco,Autohero.com
+Citroen,C 3,1.2 PureTech Feel,9799,Gasolina,2017-01-01,102100.0,82,3,Manual,Rojo,Autohero.com
+Citroen,C4 Cactus,1.6 Blue-HDi Shine,10099,Diésel,2014-01-01,103738.0,100,5,Manual,Marrón,Autohero.com
+Volkswagen,Tiguan,2.0 TDI T1 Sport BlueMotion 4x2,13899,Diésel,2012-01-01,103744.0,140,5,Manual,Blanco,Autohero.com
+Ford,Kuga,1.5 EcoBoost ST-Line Limited Edition,19699,Gasolina,2019-01-01,103780.0,150,5,Manual,Gris,Autohero.com
+Audi,A3,1.6 TDI Attraction,14299,Diésel,2016-01-01,103803.0,110,5,Manual,Negro,Autohero.com
+Seat,Ibiza,1.4 Good Stuff,7299,Gasolina,2011-01-01,104055.0,85,5,Manual,Plata,Autohero.com
+Chevrolet,Orlando,1.8 LT +,9299,Gasolina,2011-01-01,104122.0,140,5,Manual,Gris,Autohero.com
+Citroen,C 3,1.2 PureTech Feel,10599,Gasolina,2019-01-01,104160.0,82,5,Manual,Gris,Autohero.com
+Volkswagen,Tiguan,2.0 TDI BlueMotion T1 4x2,14699,Diésel,2014-01-01,104240.0,110,5,Manual,Beige,Autohero.com
+Opel,Mokka X,1.4 Turbo Innovation 4x2,14699,Gasolina,2019-01-01,104667.0,140,5,Manual,Negro,Autohero.com
+Peugeot,208,1.2 VTi Active,7699,Gasolina,2013-01-01,105343.0,82,5,Manual,Beige,Autohero.com
+MINI,Cabrio,Cooper D,16599,Diésel,2016-01-01,105498.0,115,3,Manual,Verde,Autohero.com
+Peugeot,508,2.0 HDi Allure,9799,Diésel,2013-01-01,105696.0,140,3,Manual,Negro,Autohero.com
+Toyota,Yaris,1.5 Active,12399,Gasolina,2019-01-01,105976.0,110,3,Manual,Blanco,Autohero.com
+Toyota,Auris Touring Sports,1.2 Active,12799,Gasolina,2017-01-01,106368.0,115,5,Manual,Blanco,Autohero.com
+Opel,Insignia,1.4 Turbo Selective,10299,Gasolina,2014-01-01,106472.0,140,5,Manual,Verde,Autohero.com
+Renault,Clio,1.5 dCi Energy Limited,10799,Diésel,2016-01-01,106541.0,90,5,Manual,Blanco,Autohero.com
+Peugeot,2008,1.2 PureTech Allure,13399,Gasolina,2017-01-01,106643.0,110,5,Manual,Gris,Autohero.com
+Seat,León,1.4 TSI Style Copa,8299,Gasolina,2011-01-01,106731.0,125,5,Manual,Gris,Autohero.com
+Peugeot,3008,2.0 Blue-HDi GT Line,22099,Diésel,2018-01-01,106910.0,150,5,Manual,Rojo,Autohero.com
+Hyundai,Tucson,1.6 GDI BlueDrive Essence 2WD,16899,Gasolina,2019-01-01,106944.0,132,5,Manual,Azul,Autohero.com
+Peugeot,308,1.6 Blue-HDi Style,10099,Diésel,2015-01-01,107151.0,100,5,Manual,Gris,Autohero.com
+Seat,León,2.0 TDI FR Edition,17299,Diésel,2019-01-01,107645.0,150,5,Automático,Naranja,Autohero.com
+Nissan,Qashqai,1.3 DIG-T Acenta,17199,Gasolina,2018-01-01,107677.0,140,5,Manual,Blanco,Autohero.com
+Citroen,C4 Cactus,1.2 PureTech Feel,10499,Gasolina,2017-01-01,107704.0,82,5,Manual,Blanco,Autohero.com
+Volkswagen,Jetta,1.6 TDI Sport,9899,Diésel,2011-01-01,108427.0,105,5,Automático,Gris,Autohero.com
+Peugeot,3008,2.0 Blue-HDi GT Line,21999,Diésel,2018-01-01,108466.0,150,5,Manual,Gris,Autohero.com
+Hyundai,i20,1.2 Klass,8299,Gasolina,2015-01-01,108853.0,85,5,Manual,Blanco,Autohero.com
+Peugeot,308,1.6 Blue-HDi Style,10599,Diésel,2016-01-01,109397.0,100,5,Manual,Blanco,Autohero.com
+Volkswagen,Polo,1.2 TSI Sport BlueMotion,11199,Gasolina,2017-01-01,109464.0,90,5,Manual,Azul,Autohero.com
+Dacia,Dokker,1.5 DCi Ambiance,9999,Diésel,2016-01-01,109479.0,75,3,Manual,Blanco,Autohero.com
+Peugeot,5008,1.5 Blue-HDi Allure,22599,Diésel,2019-01-01,109526.0,130,5,Automático,Blanco,Autohero.com
+BMW,X1,xDrive 20d,24499,Diésel,2018-01-01,109556.0,190,5,Automático,Gris,Autohero.com
+Seat,León,1.6 TDI Style,9899,Diésel,2014-01-01,109633.0,105,5,Manual,Blanco,Autohero.com
+Fiat,Panda,1.2 Lounge,6399,Gasolina,2012-01-01,109687.0,70,5,Manual,Blanco,Autohero.com
+MINI,Countryman,Cooper S ALL4,13199,Gasolina,2011-01-01,109909.0,185,5,Automático,Blanco,Autohero.com
+Peugeot,508,2.0 HDi Allure,9799,Diésel,2013-01-01,105696.0,140,5,Manual,Negro,Autohero.com
+Toyota,Auris Touring Sports,1.2 Active,12799,Gasolina,2017-01-01,106368.0,115,3,Manual,Blanco,Autohero.com
+Hyundai,Tucson,1.6 GDI BlueDrive Essence 2WD,16899,Gasolina,2019-01-01,106944.0,132,3,Manual,Azul,Autohero.com
+Dacia,Dokker,1.5 DCi Ambiance,9999,Diésel,2016-01-01,109479.0,75,5,Manual,Blanco,Autohero.com
+Peugeot,3008,2.0 Blue-HDi GT Line,22099,Diésel,2018-01-01,106910.0,150,3,Manual,Rojo,Autohero.com
+Citroen,C3 Picasso,1.6 Blue-HDi Feel Edition,10099,Diésel,2016-01-01,110135.0,100,5,Manual,Negro,Autohero.com
+Nissan,Qashqai,1.2 Acenta,16299,Gasolina,2017-01-01,110145.0,115,5,Manual,Azul,Autohero.com
+Mercedes-Benz,Clase B,B 200 CDI,13999,Diésel,2013-01-01,110145.0,135,5,Automático,Blanco,Autohero.com
+Opel,Astra,1.6 CDTI SS Selective,8999,Diésel,2014-01-01,110157.0,110,5,Manual,Plata,Autohero.com
+Mazda,CX 5,2.0 Style 2WD,14899,Gasolina,2015-01-01,110158.0,165,5,Manual,Azul,Autohero.com
+Opel,Insignia,1.6 CDTI Selective,10999,Diésel,2016-01-01,110363.0,120,5,Manual,Gris,Autohero.com
+Citroen,C3 Picasso,1.6 HDi Seduction,9399,Diésel,2014-01-01,110653.0,92,5,Manual,Rojo,Autohero.com
+Volkswagen,Golf VII,1.4 TSI Advance,17499,Gasolina,2017-01-01,111094.0,125,5,Automático,Blanco,Autohero.com
+BMW,Serie 1,118i Advantage,16499,Gasolina,2017-01-01,111334.0,135,5,Automático,Blanco,Autohero.com
+Citroen,C4 Grand Picasso,1.6 Blue-HDi Feel,15299,Diésel,2017-01-01,111345.0,120,5,Manual,Blanco,Autohero.com
+MINI,MINI,One,8399,Gasolina,2011-01-01,111379.0,75,5,Manual,Blanco,Autohero.com
+Seat,Tarraco,2.0 TDI Xcellence Plus 4Drive,29499,Diésel,2019-01-01,111542.0,190,5,Automático,Verde,Autohero.com
+Volkswagen,Golf VI,2.0 TDI Sport,11499,Diésel,2011-01-01,111744.0,140,5,Manual,Blanco,Autohero.com
+Toyota,Auris,1.6 Active,9599,Gasolina,2013-01-01,112769.0,132,5,Manual,Blanco,Autohero.com
+Chevrolet,Trax,1.6 LT,7799,Gasolina,2013-01-01,112863.0,115,5,Manual,Blanco,Autohero.com
+Hyundai,ix35,2.0 CRDi Tecno 4X4,13899,Diésel,2015-01-01,113242.0,185,5,Automático,Blanco,Autohero.com
+Toyota,Auris,1.8 Hybrid Active,11699,Híbrido,2013-01-01,113501.0,100,5,Automático,Blanco,Autohero.com
+Nissan,Qashqai,1.5 Turbodiesel Teckna 4x2,9999,Diésel,2011-01-01,113658.0,110,5,Manual,Blanco,Autohero.com
+Hyundai,i30,1.4 GLS Tecno,8599,Gasolina,2013-01-01,113699.0,100,5,Manual,Negro,Autohero.com
+Toyota,Verso,1.6 D-4D Advance 7pl,15099,Diésel,2017-01-01,113956.0,110,5,Manual,Gris,Autohero.com
+Citroen,C4,1.6 Blue-HDi Feel Edition,10499,Diésel,2016-01-01,114307.0,100,5,Manual,Gris,Autohero.com
+Citroen,C 3,HDi Collection,6899,Diésel,2014-01-01,114333.0,68,5,Manual,Negro,Autohero.com
+Volkswagen,Polo,1.2 TSI Advance,8599,Gasolina,2013-01-01,114690.0,90,5,Manual,Rojo,Autohero.com
+Kia,cee'd,1.4 Concept,9399,Gasolina,2016-01-01,114743.0,100,5,Manual,Blanco,Autohero.com
+Kia,Rio,1.2 Concept,7099,Gasolina,2014-01-01,114789.0,85,3,Manual,Blanco,Autohero.com
+Ford,Grand C-Max,1.0 EcoBoost Titanium,14199,Gasolina,2018-01-01,115193.0,125,5,Manual,Gris,Autohero.com
+Citroen,C 3,1.0 PT Tonic,6999,Gasolina,2014-01-01,115294.0,68,5,Manual,Blanco,Autohero.com
+Renault,Twingo,1.2 Emotion,6099,Gasolina,2013-01-01,115776.0,75,3,Manual,Morado,Autohero.com
+Ford,Tourneo,1.0 EcoBoost Trend,12299,Gasolina,2016-01-01,116820.0,100,5,Manual,Beige,Autohero.com
+Seat,Ibiza,1.6 TDI Style,9499,Diésel,2015-01-01,117204.0,105,5,Manual,Azul,Autohero.com
+BMW,X1,sDrive 18d xLine,21299,Diésel,2017-01-01,117359.0,150,5,Manual,Blanco,Autohero.com
+Hyundai,i10,1.2 Style,8799,Gasolina,2017-01-01,117423.0,87,5,Manual,Azul,Autohero.com
+Opel,Zafira Tourer,1.6 CDTI DPF Selective,12299,Diésel,2016-01-01,117708.0,136,5,Manual,Gris,Autohero.com
+Citroen,C4 Picasso,1.6 HDi Seduction,9699,Diésel,2014-01-01,117784.0,92,5,Manual,Blanco,Autohero.com
+BMW,Serie 1,116d EfficientDynamics Edition,11399,Diésel,2012-01-01,117920.0,115,5,Manual,Negro,Autohero.com
+BMW,X3,xDrive 20d,20199,Diésel,2014-01-01,117934.0,190,5,Automático,Blanco,Autohero.com
+Citroen,C4 Cactus,1.2 VTi Feel,8799,Gasolina,2014-01-01,118110.0,82,5,Manual,Blanco,Autohero.com
+BMW,X1,sDrive 20d,22099,Diésel,2016-01-01,118603.0,190,5,Automático,Gris,Autohero.com
+Peugeot,3008,1.6 Blue-HDi Style,11799,Diésel,2016-01-01,118705.0,120,5,Manual,Blanco,Autohero.com
+Dacia,Sandero,0.9 TCe  Stepway,8599,Gasolina,2016-01-01,119144.0,90,5,Manual,Rojo,Autohero.com
+Mercedes-Benz,Clase C,C 220 CDI BlueEfficiency Avantgarde,13199,Diésel,2011-01-01,119197.0,170,5,Automático,Plata,Autohero.com
+Volkswagen,Passat,2.0 TDI Variant Advance,15299,Diésel,2016-01-01,119399.0,150,5,Manual,Negro,Autohero.com
+Renault,Laguna,2.0 dCi Energy GT 4Control,8599,Diésel,2013-01-01,119420.0,150,5,Manual,Plata,Autohero.com
+BMW,Serie 3,320d,16099,Diésel,2013-01-01,119427.0,185,5,Automático,Rojo,Autohero.com
+Audi,A3,1.6 TDI Design Edition,14699,Diésel,2016-01-01,119725.0,110,3,Manual,Rojo,Autohero.com
+Dacia,Sandero II,1.5 dCi Ambiance,7699,Diésel,2017-01-01,119802.0,75,5,Manual,Blanco,Autohero.com
+Peugeot,208,1.2 PureTech Access,8199,Gasolina,2016-01-01,120087.0,82,5,Manual,Blanco,Autohero.com
+Volkswagen,Polo,1.6 TDI Advance,8999,Diésel,2014-01-01,120202.0,90,5,Manual,Negro,Autohero.com
+Volkswagen,Passat,2.0 TDI Advance BlueMotion,15899,Diésel,2015-01-01,120214.0,150,5,Automático,Gris,Autohero.com
+Citroen,DS3,1.4 HDi Urban Shot,8199,Diésel,2014-01-01,120274.0,68,5,Manual,Negro,Autohero.com
+Fiat,Freemont,2.0 Urban,12799,Diésel,2014-01-01,120636.0,140,5,Manual,Azul,Autohero.com
+Hyundai,ix20,1.6 CRDi Tecno Blue,7799,Diésel,2014-01-01,120687.0,115,5,Manual,Gris,Autohero.com
+Mercedes-Benz,Clase E,E 220 d AMG Line,31399,Diésel,2018-01-01,120801.0,195,5,Automático,Blanco,Autohero.com
+Seat,León,2.0 TDI FR Edition,18499,Diésel,2019-01-01,120849.0,150,5,Automático,Naranja,Autohero.com
+Nissan,Juke,1.6 Acenta,9999,Gasolina,2014-01-01,121269.0,117,5,Manual,Negro,Autohero.com
+Volkswagen,Tiguan,2.0 TDI T1 Sport BlueMotion,13699,Diésel,2013-01-01,121524.0,140,5,Manual,Marrón,Autohero.com
+Citroen,Berlingo,1.6 Blue-HDi Multispace 20 Aniversario ,13899,Diésel,2016-01-01,122209.0,120,5,Manual,Gris,Autohero.com
+Nissan,Note,1.2 Acenta,7599,Gasolina,2013-01-01,122258.0,80,5,Manual,Rojo,Autohero.com
+Opel,Corsa,1.4 Selective,6999,Gasolina,2013-01-01,122784.0,100,5,Manual,Blanco,Autohero.com
+Nissan,Juke,1.6 N-Connecta,12599,Gasolina,2018-01-01,123038.0,117,5,Automático,Negro,Autohero.com
+Opel,Astra GTC,1.4 Sportive GTC,9199,Gasolina,2013-01-01,123316.0,140,3,Manual,Rojo,Autohero.com
+Peugeot,308,1.2 PureTech Style,10699,Gasolina,2017-01-01,123663.0,110,5,Manual,Gris,Autohero.com
+Peugeot,208,1.2 PureTech Active,8299,Gasolina,2015-01-01,124286.0,82,5,Manual,Rojo,Autohero.com
+Citroen,DS5,2.0 HDi Sport,12899,Diésel,2014-01-01,124294.0,163,5,Automático,Morado,Autohero.com
+Skoda,Superb,2.0 TDI Ambition,11499,Diésel,2013-01-01,124351.0,140,5,Manual,Beige,Autohero.com
+Alfa,Romeo MiTo,1.4,7899,Gasolina,2013-01-01,124380.0,70,3,Manual,Rojo,Autohero.com
+Kia,Sportage,1.6 GDI Drive 4x2,12299,Gasolina,2014-01-01,124388.0,135,5,Manual,Blanco,Autohero.com
+Fiat,500,1.2 Lounge,6899,Gasolina,2013-01-01,124497.0,70,3,Manual,Blanco,Autohero.com
+Citroen,C4 Grand Picasso,1.2 PureTech Live Edition,12099,Gasolina,2015-01-01,124530.0,130,5,Manual,Gris,Autohero.com
+Toyota,Auris,1.8 Hybrid Active,12499,Híbrido,2016-01-01,124660.0,100,5,Automático,Azul,Autohero.com
+Toyota,Auris,1.8 Hybrid Advance,14599,Híbrido,2015-01-01,124684.0,100,3,Automático,Blanco,Autohero.com
+Seat,Arona,1.0 TSI Style,17999,Gasolina,2021-01-01,1637.0,110,5,Manual,Blanco,Autohero.com
+Suzuki,Jimny,1.5 JX,23599,Gasolina,2019-01-01,7923.0,102,3,Manual,Blanco,Autohero.com
+Renault,Clio,1.2 Life,10999,Gasolina,2017-01-01,8229.0,73,5,Manual,Blanco,Autohero.com
+Opel,Corsa,1.4 Turbo Excellence ecoFlex,10499,Gasolina,2015-01-01,8923.0,100,3,Manual,Rojo,Autohero.com
+Seat,Ibiza,1.0 TSI Style,16199,Gasolina,2021-01-01,12354.0,95,5,Manual,Gris,Autohero.com
+Citroen,C 3,1.2 e-THP Feel,14999,Gasolina,2019-01-01,12650.0,110,5,Manual,Blanco,Autohero.com
+Renault,Clio,1.6 Hybrid E-Tech Zen,19999,Híbrido,2021-01-01,13119.0,140,5,Automático,Negro,Autohero.com
+Dacia,Sandero II,1.5 dCi Comfort,12999,Diésel,2020-01-01,14042.0,95,5,Manual,Blanco,Autohero.com
+Hyundai,i20,1.0 TGDI Go! Navi,11599,Gasolina,2016-01-01,14559.0,100,5,Manual,Rojo,Autohero.com
+Toyota,Auris,1.8 Hybrid Advance,14599,Híbrido,2015-01-01,124684.0,100,5,Automático,Blanco,Autohero.com
+Renault,Scenic,1.3 TCe Zen,20999,Gasolina,2019-01-01,15743.0,140,5,Doble embrague,Gris,Autohero.com
+Toyota,Yaris,1.5 Dual VVT-iE Active,13999,Gasolina,2019-01-01,15935.0,110,5,Manual,Blanco,Autohero.com
+Audi,A3,35 TDI S line,32599,Diésel,2021-01-01,16555.0,150,5,Doble embrague,Blanco,Autohero.com
+Dacia,Sandero II,0.9 TCe SL Nomada 2018,11999,Gasolina,2018-01-01,17070.0,90,5,Manual,Rojo,Autohero.com
+Peugeot,308,1.2 e-THP Allure,18399,Gasolina,2019-01-01,17151.0,130,5,Manual,Azul,Autohero.com
+Dacia,Sandero II,1.0 Ambiance,8899,Gasolina,2018-01-01,17201.0,73,5,Manual,Blanco,Autohero.com
+Citroen,C 3,1.2 e-THP Shine,15499,Gasolina,2021-01-01,18880.0,110,5,Manual,Gris,Autohero.com
+Citroen,DS3,1.2 PureTech Desire,11999,Gasolina,2017-01-01,20308.0,82,3,Manual,Plata,Autohero.com
+Peugeot,208,1.5 Blue-HDi Allure,17099,Diésel,2020-01-01,20521.0,102,5,Manual,Gris,Autohero.com
+Renault,Captur,1.2 TCe Energy 4Austria,15799,Gasolina,2017-01-01,20796.0,118,5,Doble embrague,Rojo,Autohero.com
+Mercedes-Benz,Clase SLK,SLK 200 BlueEfficiency,20699,Gasolina,2012-01-01,20809.0,185,3,Manual,Rojo,Autohero.com
+Kia,XCeed,1.5 TGDI Mild-Hybrid Drive,22499,Gasolina,2021-01-01,21624.0,160,5,Semi-automático,Blanco,Autohero.com
+Opel,Corsa,1.2 Edition,13999,Gasolina,2021-01-01,21842.0,75,5,Manual,Blanco,Autohero.com
+Seat,Ateca,1.5 TSI ACT FR,28299,Gasolina,2020-01-01,22225.0,150,5,Doble embrague,Blanco,Autohero.com
+Peugeot,2008,1.2 e-THP Allure,16899,Gasolina,2019-01-01,23364.0,110,5,Automático,Gris,Autohero.com
+Mitsubishi,Eclipse Cross,1.5 T-MIVEC Motion 2WD,20999,Gasolina,2019-01-01,23393.0,163,5,Manual,Blanco,Autohero.com
+Renault,Captur,0.9 Energy Zen,12999,Gasolina,2016-01-01,23463.0,90,5,Manual,Plata,Autohero.com
+Kia,Sportage,1.6 GDI Black Edition 2WD,22699,Gasolina,2021-01-01,23834.0,132,5,Manual,Azul,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway,10599,Gasolina,2017-01-01,23995.0,90,5,Manual,Azul,Autohero.com
+Opel,Mokka X,1.4 Turbo 120 Jahre Start/Stop,17399,Gasolina,2019-01-01,24739.0,140,5,Manual,Negro,Autohero.com
+Ford,Kuga,1.5 EcoBoost ST-Line Limited Edition,21899,Gasolina,2019-01-01,25186.0,150,5,Manual,Rojo,Autohero.com
+Opel,Karl,1.0 Selective,10399,Gasolina,2018-01-01,25493.0,75,5,Manual,Blanco,Autohero.com
+Ford,Ecosport,1.0 EcoBoost Trend,15299,Gasolina,2019-01-01,25891.0,101,5,Manual,Gris,Autohero.com
+Dacia,Duster,1.5 dCi SL Eficacia 4x2,12999,Diésel,2016-01-01,27763.0,90,5,Manual,Blanco,Autohero.com
+Toyota,Yaris,1.0 Business,13499,Gasolina,2020-01-01,28190.0,69,5,Manual,Beige,Autohero.com
+Kia,Picanto,1.0 Tech,9299,Gasolina,2017-01-01,28382.0,65,5,Manual,Azul,Autohero.com
+Kia,Soul,1.6 GDI Spirit,15199,Gasolina,2018-01-01,28849.0,132,5,Manual,Azul,Autohero.com
+Suzuki,SX4,1.6 GL,9499,Gasolina,2013-01-01,29429.0,120,5,Manual,Blanco,Autohero.com
+Mazda,3,2.0 Zenith,23499,Gasolina,2021-01-01,30270.0,122,5,Manual,Rojo,Autohero.com
+Citroen,C1,1.0 Seduction,6599,Gasolina,2013-01-01,30406.0,68,3,Manual,Negro,Autohero.com
+Ford,Focus,1.5 TDCi ST-Line,15499,Diésel,2017-01-01,30534.0,120,5,Manual,Blanco,Autohero.com
+Seat,León,1.5 TSI ACT Style,17999,Gasolina,2019-01-01,31174.0,131,5,Manual,Rojo,Autohero.com
+Peugeot,2008,1.2 PureTech Allure,16999,Gasolina,2019-01-01,31775.0,114,5,Manual,Rojo,Autohero.com
+Land,Rover Evoque,D150 S,33799,Diésel,2019-01-01,31856.0,150,5,Automático,Rojo,Autohero.com
+Smart,ForFour,1.0 Basis passion,10899,Gasolina,2016-01-01,32248.0,70,5,Manual,Rojo,Autohero.com
+Citroen,C1,1.0 VTi City Edition,10599,Gasolina,2019-01-01,32399.0,72,5,Manual,Rojo,Autohero.com
+Smart,ForTwo,0.9 Turbo Basis passion,14999,Gasolina,2019-01-01,33494.0,90,3,Doble embrague,Gris,Autohero.com
+Ford,Kuga,1.5 EcoBoost Vignale,21399,Gasolina,2018-01-01,33508.0,150,5,Manual,Negro,Autohero.com
+Jeep,Compass,1.4 M-Air Night Eagle 4x2,22999,Gasolina,2020-01-01,33851.0,140,5,Manual,Negro,Autohero.com
+Dacia,Sandero II,1.5 dCi Ambiance,7399,Diésel,2013-01-01,33966.0,75,5,Manual,Beige,Autohero.com
+Citroen,Berlingo,1.6 Blue-HDi XTR Plus,16199,Diésel,2016-01-01,35250.0,100,5,Manual,Gris,Autohero.com
+BMW,Serie 1,116i,11499,Gasolina,2011-01-01,35289.0,135,5,Manual,Rojo,Autohero.com
+Audi,A3,30 TFSI S Line,22399,Gasolina,2019-01-01,35360.0,116,5,Manual,Blanco,Autohero.com
+Dacia,Logan II,1.2 Ambiance,7399,Gasolina,2014-01-01,35523.0,75,5,Manual,Blanco,Autohero.com
+Ford,Focus,1.5 TDCi ST-Line,15499,Diésel,2017-01-01,30534.0,120,3,Manual,Blanco,Autohero.com
+Volkswagen,Caddy,1.6 TDI Trendline BlueMotion Tech.,14999,Diésel,2014-01-01,35537.0,102,5,Manual,Marrón,Autohero.com
+Mercedes-Benz,Clase C,2.0 TDI AMG Line,34699,Gasolina,2017-01-01,35684.0,245,3,Automático,Blanco,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Feel M,22999,Diésel,2020-01-01,35854.0,131,5,Manual,Negro,Autohero.com
+Ford,Fusión,1.4 Ambiente,5999,Gasolina,2011-01-01,36202.0,80,5,Manual,Plata,Autohero.com
+Peugeot,Rifter,1.5 Blue-HDi Allure L1,25599,Diésel,2021-01-01,37211.0,131,3,Manual,Gris,Autohero.com
+Toyota,RAV 4,2.5 Hybrid Advance Hybrid,24999,Híbrido,2017-01-01,37399.0,197,5,Automático,Gris,Autohero.com
+Suzuki,Jimny,1.3 JX,13499,Gasolina,2011-01-01,37739.0,85,3,Manual,Blanco,Autohero.com
+Seat,León,1.5 TSI ACT FR Edition,20999,Gasolina,2019-01-01,38168.0,150,5,Doble embrague,Azul,Autohero.com
+Mazda,CX 3,2.0 Skyactiv-G Zenith,18799,Gasolina,2019-01-01,38269.0,121,5,Manual,Gris,Autohero.com
+Volkswagen,Tiguan,2.0 TSI Sport 4Motion BMT,31999,Gasolina,2020-01-01,39620.0,190,5,Doble embrague,Blanco,Autohero.com
+Nissan,Pixo,1.0 Acenta,5999,Gasolina,2013-01-01,40221.0,68,5,Manual,Negro,Autohero.com
+Dacia,Duster,1.5 dCi Laureate 4x2,10899,Diésel,2014-01-01,40458.0,90,5,Manual,Gris,Autohero.com
+Ford,Focus,1.0 EcoBoost Mild-Hybrid ST-Line,23699,Gasolina,2022-01-01,40550.0,125,5,Manual,Blanco,Autohero.com
+Nissan,X-Trail,1.7 dCi Acenta,23599,Diésel,2019-01-01,41556.0,150,5,Automático,Negro,Autohero.com
+Audi,A3,35 TFSI S line,32399,Gasolina,2021-01-01,41875.0,150,5,Doble embrague,Gris,Autohero.com
+Mitsubishi,ASX,1.6 Challenge 2WD,15499,Gasolina,2019-01-01,41960.0,117,5,Manual,Blanco,Autohero.com
+Peugeot,207,1.4 HDi Confort,7399,Diésel,2013-01-01,42339.0,68,5,Manual,Blanco,Autohero.com
+Hyundai,i30,1.0 TGDI Techo Tech,13999,Gasolina,2017-01-01,42422.0,120,5,Manual,Rojo,Autohero.com
+Fiat,Tipo,1.4 Lounge,13499,Gasolina,2020-01-01,42916.0,95,5,Manual,Blanco,Autohero.com
+Renault,Clio,0.9 Energy Limited,12999,Gasolina,2019-01-01,42960.0,90,5,Manual,Blanco,Autohero.com
+Peugeot,Rifter,1.5 Blue-HDi Allure L1,26999,Diésel,2020-01-01,43038.0,131,5,Automático,Gris,Autohero.com
+Toyota,Verso,1.6 Advance,16399,Gasolina,2017-01-01,43192.0,132,5,Manual,Blanco,Autohero.com
+Opel,Corsa,1.4 Expression,8699,Gasolina,2016-01-01,44101.0,75,5,Manual,Rojo,Autohero.com
+Nissan,Juke,1.5 Turbodiesel Acenta,13999,Diésel,2017-01-01,44111.0,110,5,Manual,Rojo,Autohero.com
+Opel,Corsa,1.4 Color Edition,11499,Gasolina,2018-01-01,44344.0,90,5,Manual,Azul,Autohero.com
+Smart,ForTwo,1.0 Micro Hybrid Drive passion,7499,Gasolina,2012-01-01,44492.0,70,3,Semi-automático,Negro,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Shine M,21999,Diésel,2019-01-01,44535.0,102,5,Manual,Blanco,Autohero.com
+Opel,Mokka X,1.4 Turbo Excellence Start/Stop,15199,Gasolina,2017-01-01,44844.0,140,5,Manual,Azul,Autohero.com
+Renault,Twingo,0.9 Energy GT,12499,Gasolina,2018-01-01,44970.0,110,5,Manual,Naranja,Autohero.com
+Renault,Fluence,1.6 Dynamique,9599,Gasolina,2013-01-01,45251.0,110,3,Manual,Negro,Autohero.com
+Citroen,C 3,1.2 PureTech Elle,11999,Gasolina,2019-01-01,45387.0,82,5,Manual,Gris,Autohero.com
+Ford,Kuga,1.5 EcoBoost Trend+,18999,Gasolina,2018-01-01,45855.0,150,5,Manual,Blanco,Autohero.com
+Seat,Ibiza,1.0 TSI FR Plus,18499,Gasolina,2019-01-01,46002.0,116,5,Doble embrague,Blanco,Autohero.com
+Citroen,C3 Aircross,1.2 e-THP Feel,15499,Gasolina,2019-01-01,46005.0,110,5,Manual,Azul,Autohero.com
+Hyundai,Tucson,1.6 Essence 2WD,19499,Gasolina,2019-01-01,46039.0,132,5,Manual,Azul,Autohero.com
+Toyota,Corolla,1.8 Hybrid Active Tech,19599,Híbrido,2019-01-01,46071.0,122,5,Automático,Gris,Autohero.com
+Toyota,Yaris,1.4 D-4D Life,8699,Diésel,2011-01-01,46199.0,90,5,Manual,Blanco,Autohero.com
+Nissan,Juke,1.6 N-Connecta,14799,Gasolina,2017-01-01,46408.0,117,5,Automático,Rojo,Autohero.com
+Peugeot,3008,1.2 e-THP Allure,24499,Gasolina,2021-01-01,46433.0,130,5,Manual,Negro,Autohero.com
+Renault,Megane,1.6 TCe Energy GT,18399,Gasolina,2016-01-01,46855.0,205,5,Doble embrague,Azul,Autohero.com
+Fiat,Qubo,1.3 JTD Dynamic,9499,Diésel,2014-01-01,46921.0,75,5,Automático,Plata,Autohero.com
+Dacia,Sandero II,0.9 TCe SL Nomada 2018,11999,Gasolina,2018-01-01,46940.0,90,5,Manual,Blanco,Autohero.com
+Opel,Astra K,1.4 SIDI Turbo 120 Jahre,15299,Gasolina,2019-01-01,47329.0,125,5,Manual,Rojo,Autohero.com
+Renault,Clio,1.2 TCe Energy Zen,13599,Gasolina,2018-01-01,47863.0,118,5,Manual,Rojo,Autohero.com
+BMW,Serie 3,318i Advantage,20999,Gasolina,2017-01-01,47897.0,135,5,Manual,Gris,Autohero.com
+Renault,Clio,0.9 Energy Zen,13299,Gasolina,2019-01-01,47992.0,90,5,Manual,Negro,Autohero.com
+Nissan,Note,1.5 dCi Acenta,9299,Diésel,2016-01-01,48370.0,90,5,Manual,Blanco,Autohero.com
+Peugeot,Partner,1.2 e-THP Active,15999,Gasolina,2018-01-01,48931.0,110,5,Manual,Gris,Autohero.com
+Volkswagen,Polo,2.0 TSI GTI,22299,Gasolina,2019-01-01,48937.0,200,5,Manual,Blanco,Autohero.com
+Renault,Fluence,1.6 Dynamique,9599,Gasolina,2013-01-01,45251.0,110,5,Manual,Negro,Autohero.com
+Peugeot,208,1.2 e-THP Allure,11799,Gasolina,2017-01-01,49478.0,110,5,Manual,Plata,Autohero.com
+Volkswagen,Golf VII,1.4 TSI Advance BlueMotion Tech,16999,Gasolina,2016-01-01,50002.0,125,5,Doble embrague,Blanco,Autohero.com
+BMW,X2,sDrive 18d Advantage,25699,Diésel,2018-01-01,50205.0,150,5,Manual,Blanco,Autohero.com
+Toyota,Avensis,2.0 D-4D Advance,9499,Diésel,2011-01-01,50524.0,125,5,Manual,Azul,Autohero.com
+Smart,ForTwo,1.0 Basis passion,8999,Gasolina,2015-01-01,50524.0,70,3,Manual,Naranja,Autohero.com
+Land,Rover Evoque,D150 HSE,34499,Diésel,2019-01-01,51855.0,150,5,Automático,Blanco,Autohero.com
+Ford,Focus,1.0 EcoBoost Active,15899,Gasolina,2019-01-01,52065.0,125,5,Manual,Rojo,Autohero.com
+Dacia,Sandero II,1.2 Base,6299,Gasolina,2014-01-01,52554.0,75,5,Manual,Blanco,Autohero.com
+Dacia,Sandero III,1.0 TCe Stepway Comfort,14499,Gasolina,2021-01-01,53226.0,91,5,Manual,Rojo,Autohero.com
+Seat,León,1.5 TSI ACT Style Visio Edition,16699,Gasolina,2019-01-01,53485.0,131,5,Manual,Gris,Autohero.com
+Volkswagen,Golf VI,1.2 TSI Advance,12599,Gasolina,2012-01-01,53496.0,105,5,Manual,Blanco,Autohero.com
+Renault,Twingo,1.0 SCe Intens,8399,Gasolina,2015-01-01,53716.0,70,5,Manual,Azul,Autohero.com
+Peugeot,308,1.6 e-HDi Allure,12599,Diésel,2015-01-01,53947.0,115,5,Manual,Gris,Autohero.com
+Peugeot,3008,1.6 Turbo Allure,15999,Gasolina,2015-01-01,54324.0,165,5,Automático,Blanco,Autohero.com
+Fiat,500X,1.6 Live Edizione,13999,Gasolina,2017-01-01,54394.0,110,5,Manual,Rojo,Autohero.com
+Peugeot,208,1.2 e-THP Allure,12299,Gasolina,2018-01-01,54567.0,110,5,Manual,Blanco,Autohero.com
+Audi,Q3,2.0 TFSI Design quattro,27299,Gasolina,2018-01-01,55436.0,180,5,Doble embrague,Gris,Autohero.com
+Renault,Megane,1.3 TCe GT-Line,18499,Gasolina,2019-01-01,55606.0,140,5,Manual,Azul,Autohero.com
+Ford,Tourneo,1.0 EcoBoost Sport,15899,Gasolina,2019-01-01,55976.0,100,5,Manual,Rojo,Autohero.com
+Mazda,CX 3,2.0 Skyactiv-G Zenith,17899,Gasolina,2019-01-01,56434.0,121,5,Manual,Rojo,Autohero.com
+Toyota,Yaris,1.5 Hybrid Active,13099,Híbrido,2016-01-01,56599.0,75,5,Automático,Rojo,Autohero.com
+Peugeot,208,1.2 e-VTi Style,10699,Gasolina,2018-01-01,56865.0,82,5,Manual,Blanco,Autohero.com
+Seat,Ibiza,1.2 Reference I-Tech 30 Aniversario,8799,Gasolina,2015-01-01,57187.0,70,3,Manual,Rojo,Autohero.com
+Smart,ForTwo,1.0 Micro Hybrid Drive passion,7599,Gasolina,2014-01-01,58948.0,70,3,Semi-automático,Blanco,Autohero.com
+Nissan,Micra,0.9 Tekna,12999,Gasolina,2018-01-01,58985.0,90,5,Manual,Rojo,Autohero.com
+Ford,C-Max,1.0 EcoBoost Titanium,9499,Gasolina,2013-01-01,59164.0,125,5,Manual,Plata,Autohero.com
+Renault,Megane,1.3 TCe Zen,16599,Gasolina,2019-01-01,59474.0,140,5,Manual,Gris,Autohero.com
+Nissan,Juke,1.6 Acenta,11599,Gasolina,2014-01-01,59632.0,117,5,Automático,Blanco,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway,8999,Gasolina,2014-01-01,60253.0,90,5,Manual,Plata,Autohero.com
+Volkswagen,Tiguan,1.4 TSI Edition BlueMotion,20299,Gasolina,2017-01-01,60342.0,125,5,Manual,Gris,Autohero.com
+Nissan,Micra,1.0 IG-T Visia,12699,Gasolina,2019-01-01,60426.0,101,5,Manual,Naranja,Autohero.com
+Skoda,Octavia,1.6 TDI Like,15599,Diésel,2018-01-01,60466.0,115,5,Manual,Marrón,Autohero.com
+Peugeot,208,1.2 e-THP Signature,12399,Gasolina,2019-01-01,60680.0,110,3,Manual,Blanco,Autohero.com
+Fiat,500,1.2 Color Therapy,7199,Gasolina,2013-01-01,61268.0,69,3,Manual,Rojo,Autohero.com
+Honda,Civic,1.5 VTEC Sport Plus,22399,Gasolina,2018-01-01,61528.0,182,5,Automático,Negro,Autohero.com
+Opel,Astra GTC,1.4 Turbo Sportive,11199,Gasolina,2013-01-01,61841.0,140,3,Manual,Negro,Autohero.com
+Volkswagen,Passat,2.0 TDI Advance BlueMotion,17499,Diésel,2016-01-01,61900.0,150,5,Manual,Blanco,Autohero.com
+Volkswagen,Caddy,1.0 TSI Trendline BlueMotion,15299,Gasolina,2018-01-01,62301.0,102,5,Manual,Gris,Autohero.com
+Renault,Megane,1.5 Blue dCi Zen,15999,Diésel,2019-01-01,62405.0,116,5,Manual,Azul,Autohero.com
+Audi,A1,1.6 TDI Attraction,17899,Diésel,2018-01-01,62635.0,115,5,Manual,Blanco,Autohero.com
+Kia,cee'd,1.0 TGDI Drive,15199,Gasolina,2019-01-01,62753.0,120,5,Manual,Gris,Autohero.com
+MINI,Cabrio,Cooper S,23499,Gasolina,2017-01-01,62802.0,192,3,Automático,Azul,Autohero.com
+Citroen,C-Elysée,1.6 Blue-HDi Exclusive,9899,Diésel,2017-01-01,62815.0,100,5,Manual,Blanco,Autohero.com
+Seat,Ibiza,1.6 TDI Stylance / Style,7999,Diésel,2011-01-01,62876.0,90,5,Manual,Gris,Autohero.com
+Honda,Civic,1.0 VTEC Elegance,17999,Gasolina,2017-01-01,62935.0,130,5,Manual,Gris,Autohero.com
+Peugeot,208,1.2 e-THP Signature,12399,Gasolina,2019-01-01,60680.0,110,5,Manual,Blanco,Autohero.com
+Volkswagen,Caddy,1.0 TSI Trendline BlueMotion,15299,Gasolina,2018-01-01,62301.0,102,3,Manual,Gris,Autohero.com
+Toyota,RAV 4,2.5 Hybrid 4x2 Feel!,31199,Híbrido,2019-01-01,62948.0,218,5,Automático,Blanco,Autohero.com
+Ford,Fiesta,1.25 Trend,8999,Gasolina,2015-01-01,63218.0,82,5,Manual,Gris,Autohero.com
+Ford,Focus,1.6 Ti-VCT Trend +,10599,Gasolina,2015-01-01,64098.0,125,5,Manual,Gris,Autohero.com
+Citroen,C4 Cactus,1.6 Blue-HDi Feel,12499,Diésel,2017-01-01,64456.0,100,5,Manual,Azul,Autohero.com
+Seat,Ibiza,1.0 TSI Style,12999,Gasolina,2018-01-01,64494.0,95,5,Manual,Dorado,Autohero.com
+Toyota,Yaris,1.5 Dual VVT-iE Feel,12399,Gasolina,2017-01-01,64645.0,110,5,Manual,Rojo,Autohero.com
+Peugeot,2008,1.6 Blue-HDi Allure,11999,Diésel,2015-01-01,64718.0,120,5,Manual,Blanco,Autohero.com
+Citroen,C 3,1.4 HDi Tonic,8499,Diésel,2014-01-01,64954.0,68,5,Manual,Blanco,Autohero.com
+Toyota,Auris,1.8 Hybrid Active,14399,Híbrido,2015-01-01,65143.0,100,5,Automático,Blanco,Autohero.com
+Audi,A5 Sportback,2.0 TFSI,15999,Gasolina,2011-01-01,65320.0,210,5,Manual,Azul,Autohero.com
+MINI,MINI,Cooper,13799,Gasolina,2015-01-01,65358.0,135,5,Manual,Azul,Autohero.com
+Kia,Soul,1.6 GDI Drive,12899,Gasolina,2016-01-01,65591.0,132,5,Manual,Blanco,Autohero.com
+Ford,Focus,1.0 EcoBoost Edition,9799,Gasolina,2014-01-01,65956.0,125,5,Manual,Gris,Autohero.com
+Dacia,Dokker,1.5 dCi Diesel Ambiance,9699,Diésel,2013-01-01,66434.0,75,5,Manual,Azul,Autohero.com
+Kia,Sportage,1.6 GDI Drive 2WD,18899,Gasolina,2019-01-01,67032.0,132,5,Manual,Gris,Autohero.com
+Skoda,Fabia,1.2 TSI Ambition,12499,Gasolina,2016-01-01,67038.0,110,5,Doble embrague,Azul,Autohero.com
+Opel,Grandland X,1.2 Excellence,16599,Gasolina,2017-01-01,67052.0,130,5,Manual,Rojo,Autohero.com
+Fiat,500C,1.2 Pop,8999,Gasolina,2013-01-01,67128.0,70,3,Semi-automático,Blanco,Autohero.com
+Seat,León,2.0 TDI FR,17999,Diésel,2017-01-01,67395.0,150,3,Manual,Gris,Autohero.com
+Fiat,500,1.2 Lounge,12399,Gasolina,2018-01-01,67829.0,70,3,Semi-automático,Blanco,Autohero.com
+Opel,Corsa,1.4 Selective,10799,Gasolina,2018-01-01,68117.0,90,5,Manual,Gris,Autohero.com
+Citroen,C 3,1.2 VTi Feel,11299,Gasolina,2017-01-01,68311.0,82,5,Manual,Rojo,Autohero.com
+Opel,Zafira Tourer,2.0 CDTI Selection,12999,Diésel,2015-01-01,68697.0,130,5,Manual,Blanco,Autohero.com
+Nissan,Note,1.2 Tekna Sport,9199,Gasolina,2014-01-01,69243.0,98,5,Manual,Blanco,Autohero.com
+Mercedes-Benz,Clase V,V 220 d lang,30499,Diésel,2014-01-01,69359.0,163,5,Semi-automático,Gris,Autohero.com
+Citroen,C3 Aircross,1.2 e-THP Feel,14999,Gasolina,2020-01-01,69487.0,110,5,Manual,Blanco,Autohero.com
+BMW,Serie 3,320d Sport Line,31999,Diésel,2019-01-01,70401.0,190,5,Automático,Azul,Autohero.com
+Citroen,Berlingo,1.6 Blue-HDi 20 Jahre Edition,16999,Diésel,2018-01-01,70543.0,120,5,Manual,Blanco,Autohero.com
+Kia,Niro,1.6 Concept,16999,Gasolina,2017-01-01,70791.0,104,5,Automático,Negro,Autohero.com
+Mercedes-Benz,Clase C,C 220 d BlueTEC AMG Line,27499,Diésel,2017-01-01,71256.0,170,5,Automático,Gris,Autohero.com
+Hyundai,Tucson,1.6 CRDi Mild-Hybrid Business 2WD,26499,Diésel,2020-01-01,71775.0,136,5,Doble embrague,Rojo,Autohero.com
+Peugeot,Rifter,1.2 e-THP Active L2,22499,Gasolina,2019-01-01,72288.0,110,5,Manual,Azul,Autohero.com
+Volkswagen,Polo,1.6 TDI Advance,14499,Diésel,2018-01-01,72570.0,95,5,Manual,Negro,Autohero.com
+Volkswagen,Polo,1.4 TDI Advance BlueMotion,11199,Diésel,2015-01-01,72932.0,90,5,Manual,Gris,Autohero.com
+Citroen,C 3,1.6 HDi Selection,7699,Diésel,2011-01-01,73630.0,92,5,Manual,Gris,Autohero.com
+Lancia,Ypsilon,1.2 Gold,7399,Gasolina,2016-01-01,73675.0,70,5,Manual,Negro,Autohero.com
+Renault,Megane,1.5 dCi Energy Zen,14299,Diésel,2017-01-01,73690.0,110,5,Manual,Plata,Autohero.com
+Jeep,Compass,1.4 M-Air Limited FWD,21199,Gasolina,2019-01-01,73802.0,140,5,Manual,Negro,Autohero.com
+Audi,A3,1.6 TDI Ambiente,15499,Diésel,2015-01-01,74188.0,110,3,Manual,Blanco,Autohero.com
+Seat,Ibiza,1.2 TSI Style ITech,8399,Gasolina,2014-01-01,74763.0,85,5,Manual,Blanco,Autohero.com
+Citroen,C4,1.6 Blue-HDi Feel Edition,11499,Diésel,2016-01-01,74793.0,100,5,Manual,Negro,Autohero.com
+Seat,Altea,1.6 TDI Reference Ecomotive,9199,Diésel,2014-01-01,74985.0,105,5,Manual,Blanco,Autohero.com
+BMW,Z4,sDrive 20i,24599,Gasolina,2014-01-01,75341.0,185,3,Automático,Negro,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Feel M,19999,Diésel,2019-01-01,75705.0,102,5,Manual,Gris,Autohero.com
+Opel,Zafira Tourer,1.4 Turbo Excellence,13799,Gasolina,2017-01-01,77074.0,140,5,Automático,Negro,Autohero.com
+Hyundai,i30,1.4 CRDi Klass,11499,Diésel,2016-01-01,77097.0,90,5,Manual,Gris,Autohero.com
+Citroen,C 3,1.2 VTi Feel,11999,Gasolina,2019-01-01,77097.0,82,5,Manual,Rojo,Autohero.com
+Citroen,Berlingo,1.6 Blue-HDi 20 Aniversario Edition,16499,Diésel,2018-01-01,77857.0,99,5,Manual,Blanco,Autohero.com
+Peugeot,3008,1.6 Blue-HDi Style,12399,Diésel,2015-01-01,78035.0,120,5,Manual,Gris,Autohero.com
+Opel,Corsa,1.2 Selective,6799,Gasolina,2014-01-01,78096.0,85,3,Manual,Rojo,Autohero.com
+Volkswagen,Polo,1.4 TDI Advance BlueMotion,11199,Diésel,2015-01-01,72932.0,90,3,Manual,Gris,Autohero.com
+Renault,Megane,1.5 dCi Energy Zen,14299,Diésel,2017-01-01,73690.0,110,3,Manual,Plata,Autohero.com
+Ford,Focus,1.5 TDCi Business,13699,Diésel,2018-01-01,78619.0,120,5,Manual,Plata,Autohero.com
+Seat,León,2.0 TDI X-Perience 4Drive,19199,Diésel,2017-01-01,79241.0,185,5,Doble embrague,Blanco,Autohero.com
+Fiat,Tipo,1.4 Lounge,11299,Gasolina,2019-01-01,79325.0,95,5,Manual,Negro,Autohero.com
+Audi,Q3,2.0 TDI Ambiente,17499,Diésel,2013-01-01,79737.0,140,5,Manual,Blanco,Autohero.com
+Hyundai,i10,1.2 Comfort,6499,Gasolina,2013-01-01,79875.0,85,5,Manual,Blanco,Autohero.com
+Skoda,Yeti,1.2 TSI Edition Outdoor,12799,Gasolina,2016-01-01,81065.0,110,5,Manual,Blanco,Autohero.com
+BMW,Serie 1,118d M Sport,19899,Diésel,2018-01-01,81215.0,150,5,Manual,Blanco,Autohero.com
+Citroen,C 3,1.1 LX,5899,Gasolina,2011-01-01,81739.0,60,5,Manual,Negro,Autohero.com
+Hyundai,Tucson,1.6 Essence BlueDrive 2WD,16899,Gasolina,2018-01-01,82351.0,132,5,Manual,Rojo,Autohero.com
+Mazda,2,1.5 Diesel Luxury,11599,Diésel,2018-01-01,83579.0,105,5,Manual,Blanco,Autohero.com
+Skoda,Yeti,1.2 TSI Black Outdoor,14199,Gasolina,2017-01-01,83680.0,110,5,Manual,Plata,Autohero.com
+Nissan,Note,1.5 dCi Acenta,8599,Diésel,2014-01-01,83712.0,90,5,Manual,Negro,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Feel XL,20699,Diésel,2019-01-01,84320.0,102,5,Manual,Blanco,Autohero.com
+Volkswagen,Polo,1.2 TSI Sport BlueMotion,14299,Gasolina,2016-01-01,84471.0,110,5,Doble embrague,Rojo,Autohero.com
+BMW,X2,sDrive 18i,26799,Gasolina,2019-01-01,85244.0,140,5,Automático,Plata,Autohero.com
+Peugeot,Partner,1.6 Blue-HDi Outdoor,14899,Diésel,2016-01-01,85416.0,100,5,Manual,Gris,Autohero.com
+Citroen,C4 Grand Picasso,1.6 VTi Seduction,8799,Gasolina,2012-01-01,85679.0,120,3,Manual,Blanco,Autohero.com
+Citroen,C3 Aircross,1.6 Blue-HDi Shine,14399,Diésel,2017-01-01,85763.0,120,5,Manual,Gris,Autohero.com
+Opel,Corsa,1.4 Selective,7799,Gasolina,2014-01-01,85880.0,100,5,Manual,Negro,Autohero.com
+Renault,Clio,1.5 dCi Energy Technofeel,8999,Diésel,2015-01-01,86902.0,90,5,Manual,Gris,Autohero.com
+Toyota,Auris,1.8 Hybrid Active,14299,Híbrido,2017-01-01,87014.0,100,5,Automático,Negro,Autohero.com
+Volkswagen,T-Roc,1.0 TSI Advance,19499,Gasolina,2019-01-01,87857.0,115,5,Manual,Negro,Autohero.com
+Citroen,C4 Grand Picasso,1.6 VTi Business,7999,Gasolina,2011-01-01,87942.0,120,5,Manual,Blanco,Autohero.com
+Volkswagen,T6 Multivan,2.0 TDI Outdoor,35599,Diésel,2016-01-01,88461.0,150,5,Manual,Blanco,Autohero.com
+Ssangyong,Tivoli,1.6 Turbodiesel Limited 4x2,13499,Diésel,2017-01-01,88491.0,115,5,Manual,Negro,Autohero.com
+BMW,Serie 1,118d M Sport,18499,Diésel,2017-01-01,88532.0,150,3,Manual,Rojo,Autohero.com
+Jaguar,F-Pace,20d Pure AWD,22799,Diésel,2016-01-01,88703.0,180,5,Semi-automático,Gris,Autohero.com
+Peugeot,5008,1.5 Blue-HDi Allure,22399,Diésel,2019-01-01,89212.0,130,5,Manual,Blanco,Autohero.com
+Peugeot,2008,1.2 e-VTi Active,10999,Gasolina,2014-01-01,89649.0,82,5,Automático,Blanco,Autohero.com
+Dacia,Dokker,1.5 Blue dCi SL Nomada,14999,Diésel,2019-01-01,90214.0,95,5,Manual,Negro,Autohero.com
+Citroen,C 3,1.2 VTi Live Edition,8499,Gasolina,2016-01-01,90533.0,82,5,Manual,Rojo,Autohero.com
+Renault,Captur,0.9 Energy Zen,11599,Gasolina,2016-01-01,90572.0,90,5,Manual,Blanco,Autohero.com
+Renault,Megane,1.2 Limited,9599,Gasolina,2014-01-01,91552.0,115,5,Manual,Blanco,Autohero.com
+Ford,Transit Connect,1.5 EcoBlue TDCi Kombi Trend lang,19499,Diésel,2018-01-01,91557.0,120,5,Manual,Azul,Autohero.com
+Hyundai,i10,1.0 Go,8499,Gasolina,2016-01-01,91901.0,67,5,Manual,Blanco,Autohero.com
+BMW,Serie 1,120d M Sport,18799,Diésel,2016-01-01,91938.0,190,5,Manual,Blanco,Autohero.com
+Dacia,Sandero II,1.5 dCi Stepway,9999,Diésel,2016-01-01,92018.0,90,5,Manual,Rojo,Autohero.com
+Opel,Insignia,1.6 CDTI Excellence,14799,Diésel,2017-01-01,92588.0,135,5,Manual,Gris,Autohero.com
+Mazda,3,1.6 CD Diesel Style,7999,Diésel,2013-01-01,92657.0,115,5,Manual,Marrón,Autohero.com
+Hyundai,Kona,1.0 TGDI Classic 2WD,14299,Gasolina,2018-01-01,92737.0,120,5,Manual,Blanco,Autohero.com
+Smart,ForFour,0.9 Turbo Basis passion,10699,Gasolina,2016-01-01,92889.0,90,5,Doble embrague,Blanco,Autohero.com
+MINI,Clubman,Cooper SD,21699,Diésel,2018-01-01,93446.0,190,5,Automático,Gris,Autohero.com
+Citroen,C4 Grand Picasso,1.2 e-THP Attraction,12899,Gasolina,2016-01-01,93521.0,130,5,Manual,Blanco,Autohero.com
+Citroen,C 3,1.6 Blue-HDi Shine,11899,Diésel,2017-01-01,93536.0,100,5,Manual,Blanco,Autohero.com
+Citroen,C4 Cactus,1.2 VTi Feel,9999,Gasolina,2016-01-01,93718.0,82,5,Manual,Azul,Autohero.com
+Citroen,C4 Cactus,1.2 e-THP Feel,12599,Gasolina,2018-01-01,93868.0,110,5,Manual,Rojo,Autohero.com
+Hyundai,i20,1.2 Go! Navi,9499,Gasolina,2016-01-01,94657.0,85,5,Manual,Blanco,Autohero.com
+Ford,Tourneo Connect,1.8 TDCi Trend kurz,8499,Diésel,2011-01-01,94725.0,110,5,Manual,Plata,Autohero.com
+Volkswagen,Scirocco,1.4 TSI,12299,Gasolina,2012-01-01,94836.0,122,3,Manual,Azul,Autohero.com
+Volkswagen,Scirocco,1.4 TSI,12299,Gasolina,2012-01-01,94836.0,122,5,Manual,Azul,Autohero.com
+Lexus,NX-Serie,NX 300h,23099,Híbrido,2015-01-01,94900.0,155,5,Automático,Gris,Autohero.com
+Volkswagen,Golf VII,1.2 TSI Edition BlueMotion Tech.,13299,Gasolina,2016-01-01,95126.0,110,5,Manual,Blanco,Autohero.com
+Honda,CR-V,1.6 DTEC Executive 4WD,19999,Diésel,2016-01-01,96804.0,160,5,Automático,Rojo,Autohero.com
+Ford,Ka+,1.2 Ti-VCT Basis,8399,Gasolina,2016-01-01,96952.0,70,5,Manual,Blanco,Autohero.com
+Kia,Sportage,2.0 CRDi GT Line 2WD,19199,Diésel,2016-01-01,97631.0,135,5,Manual,Blanco,Autohero.com
+Hyundai,Elantra,1.6 CRDi Klass,11999,Diésel,2016-01-01,97678.0,135,5,Manual,Blanco,Autohero.com
+Chevrolet,Cruze,2.0 Diesel LT,6999,Diésel,2011-01-01,97706.0,163,5,Automático,Blanco,Autohero.com
+Mercedes-Benz,Clase A,A 180 CDI BlueEfficiency Urban,18499,Diésel,2016-01-01,98020.0,110,5,Automático,Blanco,Autohero.com
+Nissan,Juke,1.6 Acenta,9499,Gasolina,2012-01-01,98297.0,117,5,Manual,Blanco,Autohero.com
+Skoda,Fabia,1.2 Basis,6599,Gasolina,2011-01-01,98433.0,60,5,Manual,Azul,Autohero.com
+Seat,León,1.6 TDI Style Ecomotive,12199,Diésel,2015-01-01,98544.0,110,5,Manual,Blanco,Autohero.com
+Ford,Focus,1.6 TDCi Trend,7799,Diésel,2011-01-01,99040.0,95,5,Manual,Gris,Autohero.com
+Seat,Altea,1.6 TDI I-Tech Ecomotive,9699,Diésel,2014-01-01,99216.0,105,5,Manual,Blanco,Autohero.com
+Citroen,C4 Grand Picasso,1.6 VTi Business,7899,Gasolina,2012-01-01,99774.0,120,5,Manual,Plata,Autohero.com
+Mazda,CX 5,2.0 Black Tech Ed.,17999,Gasolina,2017-01-01,100319.0,165,5,Manual,Negro,Autohero.com
+Peugeot,2008,1.2 e-THP Allure,12999,Gasolina,2018-01-01,100536.0,110,5,Automático,Rojo,Autohero.com
+Audi,A7,3.0 V6 TDI quattro,23999,Diésel,2014-01-01,101809.0,245,5,Doble embrague,Negro,Autohero.com
+Citroen,C4 Cactus,1.6 Blue-HDi Feel,10999,Diésel,2016-01-01,101811.0,100,5,Manual,Amarillo,Autohero.com
+Volkswagen,Golf VII,1.0 TSI Ready2Go,13899,Gasolina,2017-01-01,102009.0,110,5,Manual,Blanco,Autohero.com
+Peugeot,208,1.4 HDi Style,7999,Diésel,2014-01-01,102167.0,68,5,Manual,Azul,Autohero.com
+Citroen,C3 Aircross,1.2 e-THP Feel,12799,Gasolina,2019-01-01,102352.0,110,3,Manual,Gris,Autohero.com
+BMW,Serie 3,318d,13199,Diésel,2012-01-01,102407.0,143,5,Automático,Blanco,Autohero.com
+Volkswagen,Polo,1.6 TDI Advance,9099,Diésel,2013-01-01,102539.0,90,5,Manual,Blanco,Autohero.com
+BMW,Serie 1,116d,12999,Diésel,2013-01-01,102539.0,115,3,Manual,Blanco,Autohero.com
+Mercedes-Benz,Clase A,A 200 CDI Urban,18799,Diésel,2019-01-01,102948.0,135,5,Doble embrague,Gris,Autohero.com
+Nissan,Juke,1.5 Turbodiesel Tekna,11599,Diésel,2014-01-01,103595.0,110,5,Manual,Blanco,Autohero.com
+Dacia,Duster,1.5 dCi Ambiance 4x2,11399,Diésel,2017-01-01,103605.0,110,5,Manual,Blanco,Autohero.com
+Mercedes-Benz,Viano,2.2 CDI lang Ambiente,25999,Diésel,2013-01-01,104469.0,163,5,Automático,Negro,Autohero.com
+Volkswagen,Golf VII,1.4 TSI Advance,15199,Gasolina,2017-01-01,104697.0,125,5,Manual,Blanco,Autohero.com
+Renault,Scenic,1.5 dCi Dynamique,9299,Diésel,2012-01-01,105350.0,110,5,Doble embrague,Blanco,Autohero.com
+Ford,Focus,1.0 EcoBoost Edition,8199,Gasolina,2012-01-01,106619.0,125,5,Manual,Negro,Autohero.com
+Opel,Corsa,1.4 Selective,8999,Gasolina,2017-01-01,107332.0,90,5,Manual,Negro,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Feel M,19999,Diésel,2020-01-01,107844.0,102,5,Manual,Gris,Autohero.com
+Mercedes-Benz,Clase CLA,CLA 200 d Urban,22499,Diésel,2018-01-01,108171.0,135,5,Doble embrague,Blanco,Autohero.com
+Citroen,C4 Grand Picasso,2.0 Blue-HDi Shine,18199,Diésel,2018-01-01,108304.0,150,5,Automático,Gris,Autohero.com
+Peugeot,Expert,2.0 Blue-HDi Active L2,27999,Diésel,2018-01-01,108673.0,150,5,Manual,Gris,Autohero.com
+Nissan,Qashqai,1.6 dCi Visia 4x4,15999,Diésel,2017-01-01,108687.0,130,5,Manual,Blanco,Autohero.com
+Nissan,Pulsar,1.5 Turbodiesel Acenta,11099,Diésel,2017-01-01,108935.0,110,5,Manual,Gris,Autohero.com
+Citroen,C4,1.6 HDi Exclusive,8599,Diésel,2011-01-01,108939.0,110,5,Semi-automático,Azul,Autohero.com
+Peugeot,508,1.6 Turbo Allure,8499,Gasolina,2011-01-01,109111.0,155,5,Manual,Negro,Autohero.com
+Seat,Altea,1.6 TDI Reference Copa Ecomotive,8999,Diésel,2013-01-01,109729.0,105,5,Manual,Negro,Autohero.com
+Honda,Jazz,1.3 Hybrid Elegance,9599,Híbrido,2011-01-01,109843.0,88,5,Automático,Azul,Autohero.com
+Ford,Grand Tourneo Connect,1.5 TDCi Titanium,17699,Diésel,2017-01-01,110633.0,120,5,Manual,Blanco,Autohero.com
+Volkswagen,Passat,1.6 TDI Edition BlueMotion,11899,Diésel,2014-01-01,111310.0,105,5,Manual,Blanco,Autohero.com
+Citroen,C3 Aircross,1.2 e-THP Feel,12799,Gasolina,2019-01-01,102352.0,110,5,Manual,Gris,Autohero.com
+BMW,X3,sDrive 18d,18499,Diésel,2014-01-01,112350.0,150,5,Manual,Azul,Autohero.com
+Opel,Insignia,2.0 CDTI Cosmo,7999,Diésel,2011-01-01,113235.0,130,5,Manual,Negro,Autohero.com
+Volkswagen,Polo,1.6 TDI Sport by R-Line,10799,Diésel,2013-01-01,113985.0,90,5,Manual,Blanco,Autohero.com
+Dacia,Duster,1.2 TCe Laureate 4x2,9399,Gasolina,2016-01-01,114899.0,125,5,Manual,Blanco,Autohero.com
+Volkswagen,Tiguan,2.0 TDI Sport 4Motion BlueMotion,27599,Diésel,2017-01-01,115074.0,190,5,Doble embrague,Gris,Autohero.com
+Nissan,Qashqai,1.6 dCi Visia 4x4,12899,Diésel,2014-01-01,115228.0,130,5,Manual,Blanco,Autohero.com
+Dacia,Sandero II,1.5 dCi Laureate,7999,Diésel,2015-01-01,115779.0,90,3,Manual,Negro,Autohero.com
+Renault,Megane,1.2 Limited,8699,Gasolina,2014-01-01,116198.0,115,5,Manual,Blanco,Autohero.com
+Peugeot,308,1.6 Active,7099,Gasolina,2012-01-01,116491.0,120,5,Manual,Blanco,Autohero.com
+Audi,Q5,2.0 TDI Advance quattro,20999,Diésel,2014-01-01,117575.0,177,5,Doble embrague,Gris,Autohero.com
+Peugeot,308,1.2 e-THP Style,10699,Gasolina,2016-01-01,118212.0,110,5,Manual,Blanco,Autohero.com
+Fiat,Freemont,2.0 Multijet Urban,10699,Diésel,2011-01-01,118792.0,140,5,Manual,Negro,Autohero.com
+Kia,Sportage,1.7 CRDi Drive 2WD,17199,Diésel,2017-01-01,119884.0,115,5,Manual,Blanco,Autohero.com
+Volkswagen,Tiguan,2.0 TDI T1 BlueMotion,16699,Diésel,2015-01-01,120453.0,150,5,Manual,Blanco,Autohero.com
+MINI,MINI,Cooper S,11599,Gasolina,2011-01-01,121006.0,185,3,Automático,Gris,Autohero.com
+Seat,Ibiza,1.6 TDI Style,7099,Diésel,2012-01-01,121814.0,105,5,Manual,Gris,Autohero.com
+BMW,Serie 1,116d M Sport,14999,Diésel,2015-01-01,122971.0,115,5,Manual,Blanco,Autohero.com
+Citroen,C4 Picasso,1.6 Blue-HDi Live,11799,Diésel,2017-01-01,124010.0,120,5,Manual,Negro,Autohero.com
+Citroen,C4 Cactus,1.2 VTi Feel,9299,Gasolina,2015-01-01,124033.0,82,5,Manual,Blanco,Autohero.com
+Audi,A1,1.2 TFSI Attraction,10499,Gasolina,2013-01-01,124166.0,85,3,Manual,Blanco,Autohero.com
+Peugeot,2008,1.6 Blue-HDi Allure,12199,Diésel,2016-01-01,124942.0,120,5,Manual,Blanco,Autohero.com
+Suzuki,SX4,2.0 DDiS GLX,7099,Diésel,2013-01-01,124969.0,135,5,Manual,Gris,Autohero.com
+MG,ZS,1.5 VTi Luxury,18499,Gasolina,2022-01-01,2487.0,106,5,Manual,Negro,Autohero.com
+Fiat,500,1.2 Lounge,15099,Gasolina,2020-01-01,3198.0,70,3,Automático,Blanco,Autohero.com
+Peugeot,2008,GT PureTech SS EAT8,24699,Gasolina,2021-01-01,3558.0,131,5,Automático,Naranja,Autohero.com
+Hyundai,Tucson,1.6 T-GDI Hybrid Maxx Auto,34099,Híbrido,2022-01-01,4194.0,180,5,Automático,Gris,Autohero.com
+Land,Rover Evoque,D150 S Mild-Hybrid,36399,Diésel,2019-01-01,4366.0,150,5,Automático,Gris,Autohero.com
+Hyundai,i20,1.0 TGDI SLX,15299,Gasolina,2022-01-01,6025.0,101,5,Manual,Verde,Autohero.com
+Volkswagen,Polo,1.0 TSI United,15499,Gasolina,2021-01-01,6108.0,95,5,Manual,Blanco,Autohero.com
+Skoda,Kamiq,1.0 TSI Emotion ,17499,Gasolina,2022-01-01,6887.0,95,5,Manual,Azul,Autohero.com
+Dacia,Sandero II,1.0 TCe Comfort,10799,Gasolina,2020-01-01,7811.0,101,5,Manual,Azul,Autohero.com
+Skoda,Fabia,1.2 TSI Ambition,11799,Gasolina,2016-01-01,8082.0,90,5,Manual,Blanco,Autohero.com
+Peugeot,2008,1.2 PureTech Style,14299,Gasolina,2018-01-01,8633.0,82,5,Manual,Gris,Autohero.com
+Peugeot,3008,1.5 Blue-HDi GT Line,26399,Diésel,2021-01-01,8670.0,130,5,Manual,Rojo,Autohero.com
+Dacia,Sandero III,1.0 TCe Stepway Essential,14599,Gasolina,2021-01-01,8802.0,91,5,Manual,Rojo,Autohero.com
+Dacia,Duster,1.2 TCe Black Shadow 4x2,13699,Gasolina,2017-01-01,10575.0,125,5,Manual,Blanco,Autohero.com
+Fiat,500,1.0 Lounge,11999,Híbrido,2020-01-01,10915.0,70,3,Manual,Blanco,Autohero.com
+Toyota,C-HR,1.8 Hybrid Active,25299,Híbrido,2021-01-01,11475.0,122,5,Automático,Negro,Autohero.com
+Toyota,C-HR,2.0 Hybrid GR Sport,28099,Híbrido,2022-01-01,12774.0,184,5,Automático,Blanco,Autohero.com
+Seat,Arona,1.0 TSI Ecomotive Style,14299,Gasolina,2018-01-01,13121.0,95,5,Manual,Blanco,Autohero.com
+Peugeot,108,1.0 VTi Allure,9799,Gasolina,2020-01-01,14237.0,72,5,Manual,Rojo,Autohero.com
+Dacia,Sandero II,0.9 TCe SL Nomada 2018,11499,Gasolina,2018-01-01,14384.0,90,5,Manual,Blanco,Autohero.com
+Peugeot,2008,1.2 PureTech Style,14299,Gasolina,2017-01-01,14441.0,110,5,Manual,Gris,Autohero.com
+Kia,Picanto,1.0 CVVT Concept,8899,Gasolina,2018-01-01,14677.0,67,5,Manual,Gris,Autohero.com
+Hyundai,i20,1.0 TGDI Tecno LE,14799,Gasolina,2019-01-01,15027.0,101,5,Automático,Blanco,Autohero.com
+Volkswagen,up!,1.0 High up!,7699,Gasolina,2014-01-01,15117.0,75,5,Manual,Rojo,Autohero.com
+Fiat,Punto,1.2 Nueva Coleccion,8499,Gasolina,2018-01-01,15253.0,70,5,Manual,Blanco,Autohero.com
+Kia,Sportage,1.6 GDI Concept 2WD,18199,Gasolina,2020-01-01,15675.0,132,5,Manual,Gris,Autohero.com
+Fiat,500L,1.3 M-Jet Pop Star,13999,Diésel,2017-01-01,16107.0,95,5,Automático,Rojo,Autohero.com
+Hyundai,i20,1.0 TGDI SLX,15299,Gasolina,2022-01-01,6025.0,101,3,Manual,Verde,Autohero.com
+Nissan,Micra,1.2 Acenta,7999,Gasolina,2014-01-01,16511.0,80,5,Manual,Blanco,Autohero.com
+Dacia,Sandero II,0.9 TCe SL Xplore,11199,Gasolina,2019-01-01,16908.0,90,5,Manual,Azul,Autohero.com
+Suzuki,Jimny,1.5 JX,26499,Gasolina,2020-01-01,17527.0,102,3,Manual,Verde,Autohero.com
+Opel,Mokka,1.2 Turbo GS Line,23799,Gasolina,2021-01-01,17574.0,131,5,Automático,Blanco,Autohero.com
+Opel,Adam,1.4 Glam Unlimited,10799,Gasolina,2019-01-01,18280.0,87,3,Manual,Negro,Autohero.com
+Kia,Picanto,1.0 Concept,8599,Gasolina,2016-01-01,18387.0,65,5,Manual,Blanco,Autohero.com
+Toyota,AYGO,1.0 X-Wave,10299,Gasolina,2019-01-01,18427.0,72,5,Manual,Negro,Autohero.com
+Hyundai,i20,1.2 Fresh,10799,Gasolina,2017-01-01,18640.0,85,5,Manual,Blanco,Autohero.com
+Hyundai,i30,1.5 Hybrid N Line,20499,Híbrido,2021-01-01,18750.0,159,5,Manual,Rojo,Autohero.com
+Volkswagen,Polo,1.6 TDI Advance,10999,Diésel,2014-01-01,18790.0,90,3,Manual,Gris,Autohero.com
+Dacia,Sandero,0.9 TCe  Stepway Essential,11299,Gasolina,2018-01-01,19456.0,90,5,Manual,Blanco,Autohero.com
+Smart,ForTwo,0.9 Turbo Coupe Passion ,12199,Gasolina,2018-01-01,19508.0,90,3,Automático,Blanco,Autohero.com
+Peugeot,2008,1.2 PureTech GT EAT8,25599,Gasolina,2021-01-01,19587.0,131,5,Automático,Blanco,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway Comfort,11699,Gasolina,2019-01-01,19812.0,90,5,Manual,Blanco,Autohero.com
+Nissan,Qashqai,1.3 DIG-T N-Connecta,18899,Gasolina,2019-01-01,20647.0,140,5,Manual,Gris,Autohero.com
+Hyundai,i30,1.0 TGDI Essence,17399,Gasolina,2021-01-01,21012.0,120,5,Manual,Blanco,Autohero.com
+Toyota,Yaris,1.5 Hybrid Active,13999,Híbrido,2018-01-01,21111.0,75,5,Automático,Rojo,Autohero.com
+Citroen,C4 Grand Spacetourer,1.2 PureTech Feel,19499,Gasolina,2019-01-01,21381.0,130,5,Manual,Negro,Autohero.com
+Dacia,Lodgy,1.6 SCe SL Nomada,15199,Gasolina,2018-01-01,21489.0,102,5,Manual,Blanco,Autohero.com
+Ford,Tourneo,1.0 EcoBoost Ambiente,14299,Gasolina,2019-01-01,21679.0,100,5,Manual,Rojo,Autohero.com
+Volkswagen,Polo,1.2 TSI Advance BlueMotion,13099,Gasolina,2017-01-01,21825.0,90,5,Manual,Gris,Autohero.com
+Ford,Focus,1.0 EcoBoost Trend Edition,15999,Gasolina,2019-01-01,22001.0,125,5,Manual,Blanco,Autohero.com
+Toyota,AYGO,1.0 X-Play,9799,Gasolina,2018-01-01,22378.0,70,3,Manual,Plata,Autohero.com
+Toyota,AYGO,1.0 X-Play,10899,Gasolina,2021-01-01,23215.0,72,5,Manual,Gris,Autohero.com
+Mitsubishi,ASX,2.0 MPI Spirit,18899,Gasolina,2019-01-01,23284.0,150,5,Manual,Gris,Autohero.com
+Jeep,Compass,1.3 Gse Sport FWD,21099,Gasolina,2021-01-01,24181.0,131,5,Manual,Blanco,Autohero.com
+Citroen,Berlingo,1.2 PureTech Feel M,20299,Gasolina,2019-01-01,24301.0,110,5,Manual,Azul,Autohero.com
+Fiat,500,1.2 Lounge,12299,Gasolina,2019-01-01,24324.0,70,3,Automático,Azul,Autohero.com
+Toyota,AYGO,1.0 Live,6999,Gasolina,2014-01-01,24369.0,68,5,Manual,Rojo,Autohero.com
+Skoda,Octavia,1.4 TSI Ambition,16699,Gasolina,2018-01-01,24417.0,150,5,Manual,Gris,Autohero.com
+Fiat,500,1.2 Pop,8799,Gasolina,2017-01-01,24670.0,70,3,Manual,Blanco,Autohero.com
+Ford,Fiesta,1.0 EcoBoost ST-Line,14199,Gasolina,2020-01-01,24935.0,95,5,Manual,Azul,Autohero.com
+Citroen,Berlingo,Talla M BlueHDi Shine ,20799,Diésel,2020-01-01,25244.0,102,5,Manual,Gris,Autohero.com
+DS,Automobiles DS7 Crossback,1.2 PureTech Performance,27899,Gasolina,2020-01-01,26743.0,131,5,Automático,Gris,Autohero.com
+Citroen,C 3,1.6 Blue-HDi Shine,12199,Diésel,2018-01-01,26952.0,100,5,Manual,Rojo,Autohero.com
+Citroen,Berlingo,1.2 PureTech Feel Talla M,21099,Gasolina,2019-01-01,27601.0,110,5,Manual,Negro,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Shine M,21699,Diésel,2019-01-01,27646.0,131,5,Manual,Gris,Autohero.com
+Audi,A1,30 TFSI S Line,18599,Gasolina,2018-01-01,27975.0,116,3,Manual,Gris,Autohero.com
+Hyundai,Tucson,1.6 CRDi NLine 4X2,23099,Diésel,2021-01-01,28063.0,116,5,Manual,Rojo,Autohero.com
+Hyundai,Kona,1.0 TGDI Klass 2WD,15999,Gasolina,2019-01-01,28136.0,120,5,Manual,Naranja,Autohero.com
+MINI,Cabrio,Cooper S,24499,Gasolina,2018-01-01,28214.0,192,3,Automático,Negro,Autohero.com
+Citroen,C3 Aircross,1.2 PureTech Feel,12799,Gasolina,2018-01-01,28314.0,82,5,Manual,Rojo,Autohero.com
+Toyota,AYGO,1.0 X-Cite,9699,Gasolina,2018-01-01,28423.0,70,5,Manual,Gris,Autohero.com
+Opel,Insignia,1.4 Turbo Selective,12599,Gasolina,2017-01-01,28485.0,140,5,Manual,Azul,Autohero.com
+Kia,Rio,1.2 X-Tech,10399,Gasolina,2016-01-01,28972.0,85,5,Manual,Blanco,Autohero.com
+Toyota,AYGO,1.0 X-Play,9799,Gasolina,2018-01-01,22378.0,70,5,Manual,Plata,Autohero.com
+Citroen,Berlingo,1.5 Blue-HDi Shine M,21699,Diésel,2019-01-01,27646.0,131,3,Manual,Gris,Autohero.com
+Audi,A1,30 TFSI S Line,18599,Gasolina,2018-01-01,27975.0,116,5,Manual,Gris,Autohero.com
+Audi,A1,1.6 TDI Ambition,12199,Diésel,2014-01-01,29178.0,105,3,Manual,Negro,Autohero.com
+Seat,Alhambra,1.4 TSI Xcellence,32799,Gasolina,2021-01-01,29357.0,150,5,Automático,Negro,Autohero.com
+Hyundai,i20,1.2 Essence,11299,Gasolina,2019-01-01,29713.0,75,5,Manual,Azul,Autohero.com
+Hyundai,Kona,1.0 TGDI Essence 4x2,15999,Gasolina,2019-01-01,29979.0,120,5,Manual,Gris,Autohero.com
+Seat,Ateca,1.5 TSI  Style,23999,Gasolina,2021-01-01,31583.0,150,5,Automático,Gris,Autohero.com
+Honda,CR-V,2.0 i-MMD Hybrid Elegance 2WD,27499,Híbrido,2019-01-01,31851.0,184,5,Automático,Azul,Autohero.com
+Toyota,C-HR,1.8 Hybrid Advance,20699,Híbrido,2018-01-01,32404.0,122,5,Automático,Gris,Autohero.com
+Seat,Ibiza,1.2 TSI Reference,10099,Gasolina,2016-01-01,32471.0,90,5,Manual,Blanco,Autohero.com
+Kia,Sportage,1.6 GDI Concept,17399,Gasolina,2019-01-01,32821.0,132,5,Manual,Blanco,Autohero.com
+Ford,Focus,1.0 EcoBoost ST-Line,19099,Gasolina,2019-01-01,33267.0,125,5,Automático,Gris,Autohero.com
+Citroen,C 3,1.5 Blue-HDi Feel,13699,Diésel,2020-01-01,33339.0,102,5,Manual,Blanco,Autohero.com
+Dacia,Sandero II,0.9 TCe Serie Limitada Aniversario ,12899,Gasolina,2020-01-01,33498.0,90,5,Manual,Azul,Autohero.com
+Citroen,C 3,1.2 PureTech Tonic,8399,Gasolina,2015-01-01,33564.0,82,5,Manual,Plata,Autohero.com
+Kia,Stonic,1.2 Concept,14399,Gasolina,2019-01-01,33643.0,85,5,Manual,Rojo,Autohero.com
+Opel,Corsa,1.4 Selective,10399,Gasolina,2018-01-01,33940.0,90,5,Manual,Azul,Autohero.com
+Kia,Picanto,1.0 Concept,9999,Gasolina,2019-01-01,34243.0,67,5,Manual,Blanco,Autohero.com
+Citroen,C4,1.6 Blue-HDi Feel Edition,10999,Diésel,2015-01-01,34329.0,100,5,Manual,Negro,Autohero.com
+Land,Rover Evoque,D180 SE,36299,Híbrido,2020-01-01,34647.0,179,5,Automático,Gris,Autohero.com
+Peugeot,5008,1.5 Blue-HDi GT Line,25399,Diésel,2019-01-01,35603.0,130,5,Manual,Gris,Autohero.com
+Dacia,Duster II,1.3 TCe Prestige,15099,Gasolina,2019-01-01,35713.0,131,5,Manual,Gris,Autohero.com
+Renault,Clio,0.9 Energy Zen,11299,Gasolina,2018-01-01,35756.0,90,5,Manual,Rojo,Autohero.com
+Mercedes-Benz,Clase CLA,CLA 200 d,23599,Diésel,2017-01-01,35837.0,135,3,Manual,Blanco,Autohero.com
+Volkswagen,up!,1.0 High up! BlueMotion,8999,Gasolina,2017-01-01,36605.0,60,5,Manual,Blanco,Autohero.com
+Peugeot,208,1.2 PureTech Active,9399,Gasolina,2015-01-01,36620.0,82,5,Manual,Gris,Autohero.com
+Hyundai,Tucson,1.6 Essence,20599,Gasolina,2020-01-01,36795.0,132,5,Manual,Gris,Autohero.com
+Nissan,Qashqai,1.5 dCi N-Tec,20599,Diésel,2020-01-01,36970.0,116,5,Manual,Gris,Autohero.com
+Peugeot,208,1.2 PureTech Style,9299,Gasolina,2016-01-01,36974.0,82,5,Manual,Gris,Autohero.com
+Opel,Astra,1.4 Selective,14899,Gasolina,2019-01-01,37573.0,125,5,Manual,Azul,Autohero.com
+Opel,Corsa,1.3 Expression,6899,Diésel,2012-01-01,37647.0,75,5,Manual,Gris,Autohero.com
+Suzuki,Vitara,1.4 BoosterJet TURBO S 4x4,17199,Gasolina,2018-01-01,37707.0,140,5,Automático,Gris,Autohero.com
+MINI,MINI,Cooper,17899,Gasolina,2019-01-01,38367.0,135,5,Manual,Beige,Autohero.com
+Toyota,Yaris,1.5 Hybrid Active,14599,Híbrido,2019-01-01,38420.0,75,5,Automático,Blanco,Autohero.com
+Seat,Ibiza,1.0 Style,11299,Gasolina,2018-01-01,38571.0,75,5,Manual,Gris,Autohero.com
+Seat,Mii,1.0 Chic,7499,Gasolina,2016-01-01,38587.0,75,5,Manual,Negro,Autohero.com
+Kia,Rio,1.2 Concept,11599,Gasolina,2020-01-01,39783.0,85,5,Manual,Blanco,Autohero.com
+Volkswagen,Golf VII,1.6 TDI Sport BMT,14599,Diésel,2015-01-01,39906.0,110,5,Automático,Plata,Autohero.com
+Opel,Adam,1.4 XEL Jam,8099,Gasolina,2014-01-01,40245.0,87,3,Manual,Amarillo,Autohero.com
+Alfa,Romeo Giulietta,1.6 JTD Super,13899,Diésel,2018-01-01,40254.0,120,5,Manual,Azul,Autohero.com
+Mazda,CX 3,2.0 Skyactiv-G Evolution,17199,Gasolina,2018-01-01,40627.0,121,5,Manual,Blanco,Autohero.com
+Hyundai,i10,1.0 Klass,8999,Gasolina,2017-01-01,40910.0,67,5,Manual,Rojo,Autohero.com
+MINI,Clubman,Cooper,18299,Gasolina,2017-01-01,41548.0,135,5,Automático,Blanco,Autohero.com
+Ford,Fiesta,1.4 TDCi Trend,7799,Diésel,2011-01-01,42278.0,70,5,Manual,Gris,Autohero.com
+Jeep,Renegade,2.0 M-Jet Limited ,16399,Diésel,2015-01-01,42326.0,140,5,Manual,Azul,Autohero.com
+Toyota,Corolla,2.0 Hybrid Feel,22199,Híbrido,2019-01-01,42602.0,179,5,Automático,Rojo,Autohero.com
+Volkswagen,Golf VII,2.0 TDI Variant Advance,18499,Diésel,2019-01-01,42632.0,150,5,Manual,Gris,Autohero.com
+Citroen,C4 Spacetourer,1.5 Blue-HDi Feel,17299,Diésel,2020-01-01,43064.0,131,5,Manual,Blanco,Autohero.com
+Toyota,RAV 4,2.5 Hybrid 4x2 Advance,32499,Híbrido,2021-01-01,43389.0,218,5,Automático,Negro,Autohero.com
+Renault,Twingo,1.0 SCe Energy Zen ,8599,Gasolina,2015-01-01,43693.0,70,5,Manual,Rojo,Autohero.com
+Peugeot,208,1.6 Blue-HDi Allure,11399,Diésel,2016-01-01,43916.0,100,5,Manual,Gris,Autohero.com
+Opel,Mokka,1.7 CDTI Excellence,12699,Diésel,2014-01-01,44408.0,130,5,Automático,Gris,Autohero.com
+Volkswagen,Golf VII,2.0 TDI Variant Advance,18499,Diésel,2019-01-01,42632.0,150,3,Manual,Gris,Autohero.com
+Fiat,500,1.3 M-Jet Lounge,7399,Diésel,2011-01-01,44450.0,95,3,Manual,Blanco,Autohero.com
+Mercedes-Benz,Clase B,200d AMG Line,28699,Diésel,2021-01-01,44491.0,150,5,Automático,Blanco,Autohero.com
+Toyota,C-HR,1.8 Hybrid Advance,20899,Híbrido,2018-01-01,45060.0,122,5,Automático,Gris,Autohero.com
+Dacia,Sandero II,1.2 Ambiance,6799,Gasolina,2013-01-01,45267.0,75,3,Manual,Blanco,Autohero.com
+Renault,Megane,1.2 TCe Energy Dynamique,8699,Gasolina,2012-01-01,45534.0,115,5,Manual,Blanco,Autohero.com
+Dacia,Sandero II,0.9 TCe Stepway Comfort,10399,Gasolina,2018-01-01,45589.0,90,5,Manual,Blanco,Autohero.com
+Citroen,C 3,1.2 PureTech Feel,14099,Gasolina,2019-01-01,45888.0,110,5,Automático,Negro,Autohero.com
+Hyundai,i30 Fastback,1.4 T-GDI Fastback NLine,18499,Gasolina,2019-01-01,46244.0,140,5,Manual,Rojo,Autohero.com
+Toyota,Corolla,1.8 Active,19099,Híbrido,2021-01-01,46555.0,122,5,Automático,Blanco,Autohero.com
+Citroen,Berlingo,1.2 PureTech 20 Aniversario,16599,Gasolina,2018-01-01,47501.0,110,5,Manual,Negro,Autohero.com
+Hyundai,Tucson,1.6 SLE 2WD,19899,Gasolina,2020-01-01,47541.0,132,5,Manual,Gris,Autohero.com
+Peugeot,3008,1.2 PureTech Allure,19099,Gasolina,2017-01-01,47572.0,130,3,Manual,Marrón,Autohero.com
+Toyota,C-HR,2.0 Hybrid Advance,23799,Híbrido,2020-01-01,47642.0,152,5,Automático,Rojo,Autohero.com
+Nissan,Micra,1.0 IG-T Lifestyle,12899,Gasolina,2019-01-01,48440.0,101,5,Manual,Blanco,Autohero.com
+Renault,Megane,1.6 Dynamique,8199,Gasolina,2011-01-01,48461.0,110,5,Manual,Gris,Autohero.com
+Hyundai,Tucson,1.6 Essence BlueDrive 2WD,16699,Gasolina,2017-01-01,48549.0,132,5,Manual,Azul,Autohero.com
+Hyundai,i20,1.2 MPI LINK,11199,Gasolina,2018-01-01,48848.0,85,5,Manual,Gris,Autohero.com
+Volkswagen,Golf,1.0 TSI Ready2Go,16199,Gasolina,2019-01-01,49077.0,116,3,Manual,Gris,Autohero.com
+Dacia,Sandero II,0.9 TCe SL Nomada,11099,Gasolina,2018-01-01,49447.0,90,5,Manual,Negro,Autohero.com
+Citroen,C4 Cactus,1.2 PureTech Shine,13799,Gasolina,2019-01-01,49593.0,110,5,Manual,Blanco,Autohero.com
+Nissan,Qashqai,1.5 Turbodiesel Acenta,16999,Diésel,2017-01-01,49691.0,110,5,Manual,Negro,Autohero.com
+Audi,A1,1.0 TFSI Adrenalin,13199,Gasolina,2016-01-01,49821.0,95,3,Manual,Gris,Autohero.com
+Ford,Ka,1.2 Trend,6899,Gasolina,2016-01-01,50379.0,70,3,Manual,Rojo,Autohero.com
+Audi,A1,1.6 TDI Attraction,12899,Diésel,2015-01-01,50654.0,90,5,Manual,Azul,Autohero.com
+Peugeot,508,2.0 Blue-HDi Allure,22599,Diésel,2019-01-01,51265.0,163,5,Automático,Gris,Autohero.com
+Renault,Kadjar,1.5 BLUE dCi Intens,18399,Diésel,2020-01-01,51427.0,116,5,Manual,Blanco,Autohero.com
+Lexus,RC-Serie,2.5 300h Executive,27899,Híbrido,2016-01-01,53016.0,223,3,Automático,Negro,Autohero.com
+Ford,Focus,1.0 EcoBoost ST-Line ,15199,Gasolina,2018-01-01,53041.0,125,5,Manual,Gris,Autohero.com
+Fiat,500,1.2 Lounge,7699,Gasolina,2012-01-01,53048.0,70,3,Manual,Blanco,Autohero.com
+Peugeot,208,1.6 Blue-HDi Style,10399,Diésel,2016-01-01,53370.0,75,5,Manual,Plata,Autohero.com
+Volkswagen,Polo,1.2 TSI Sport BlueMotion,11499,Gasolina,2015-01-01,53402.0,90,3,Manual,Negro,Autohero.com
+Peugeot,2008,1.6 Blue-HDi Allure,15999,Diésel,2018-01-01,53431.0,120,5,Manual,Blanco,Autohero.com
+Kia,Rio,1.2 Concept,7399,Gasolina,2012-01-01,53606.0,85,3,Manual,Blanco,Autohero.com
+Honda,CR-V,1.6 DTEC Executive 4WD,20999,Diésel,2017-01-01,53651.0,160,5,Automático,Blanco,Autohero.com
+Opel,Corsa,1.2 Edition,11699,Gasolina,2020-01-01,53705.0,75,3,Manual,Blanco,Autohero.com
+Fiat,500,1.2 S,10699,Gasolina,2019-01-01,53786.0,70,5,Manual,Verde,Autohero.com
+Renault,Clio,1.5 dCi Energy Zen,13199,Diésel,2017-01-01,53814.0,90,5,Automático,Rojo,Autohero.com
+BMW,Serie 2,225xe Active Tourer PHEV iPerformance,24199,Híbrido,2019-01-01,53919.0,136,5,Automático,Gris,Autohero.com
+Volkswagen,Polo,1.0 Edition,11499,Gasolina,2018-01-01,54061.0,75,5,Manual,Gris,Autohero.com
+Audi,A4,S Line 35 TDI S Troic,26099,Diésel,2019-01-01,54386.0,150,5,Automático,Gris,Autohero.com
+Seat,Altea XL,1.2 TSI Reference Copa,8499,Gasolina,2012-01-01,54741.0,105,5,Manual,Negro,Autohero.com
+Fiat,Panda,1.2 Lounge,8699,Gasolina,2019-01-01,54946.0,70,5,Manual,Naranja,Autohero.com
+Audi,A3,35 TDI S tronic Sportback,24499,Diésel,2019-01-01,55387.0,150,5,Automático,Rojo,Autohero.com
+Renault,Captur,Zen Energy  TCe,13899,Gasolina,2018-01-01,55914.0,118,5,Manual,Negro,Autohero.com
+Toyota,C-HR,1.8 Hybrid Advance,20199,Híbrido,2019-01-01,55952.0,122,5,Automático,Rojo,Autohero.com
+Volkswagen,Golf VII,1.6 TDI Ready2Go,16999,Diésel,2020-01-01,56122.0,116,5,Manual,Gris,Autohero.com
+Renault,Megane,1.3 TCe Limited,15199,Gasolina,2019-01-01,56433.0,140,5,Manual,Gris,Autohero.com
+Volkswagen,Polo,1.2 TSI Sport BlueMotion,11499,Gasolina,2015-01-01,53402.0,90,5,Manual,Negro,Autohero.com
+Kia,Rio,1.2 Concept,7399,Gasolina,2012-01-01,53606.0,85,5,Manual,Blanco,Autohero.com
+Opel,Corsa,1.2 Edition,11699,Gasolina,2020-01-01,53705.0,75,5,Manual,Blanco,Autohero.com
+Fiat,500,1.2 S,10699,Gasolina,2019-01-01,53786.0,70,3,Manual,Verde,Autohero.com
+Renault,Clio,0.9 Energy Limited,10999,Gasolina,2018-01-01,56889.0,90,5,Manual,Blanco,Autohero.com
+Kia,pro_cee'd,1.4 Concept,8199,Gasolina,2013-01-01,57161.0,100,3,Manual,Blanco,Autohero.com
+Renault,Captur,1.3 TCe Zen,16199,Gasolina,2019-01-01,57419.0,150,5,Automático,Rojo,Autohero.com
+Dacia,Duster II,1.6 Prestige,14899,Gasolina,2019-01-01,57598.0,114,3,Manual,Dorado,Autohero.com
+Opel,Meriva,1.4 Selective,9799,Gasolina,2016-01-01,57664.0,120,5,Manual,Blanco,Autohero.com
+Kia,Rio,1.2 Concept,9199,Gasolina,2015-01-01,58011.0,85,5,Manual,Blanco,Autohero.com
+Renault,Kadjar,1.5 dCi Energy Tech Road,16099,Diésel,2018-01-01,58184.0,110,5,Manual,Blanco,Autohero.com
+Peugeot,308,1.6 Blue-HDi Style,11999,Diésel,2016-01-01,58249.0,120,5,Manual,Blanco,Autohero.com
+Ford,B-Max,1.0 EcoBoost Trend,10699,Gasolina,2017-01-01,58970.0,100,5,Manual,Gris,Autohero.com
+Hyundai,i20 Active,1.0 TDGI Link BlueDrive,12199,Gasolina,2017-01-01,59105.0,101,5,Manual,Blanco,Autohero.com
+Ford,Focus,1.0 EcoBoost Business,11899,Gasolina,2016-01-01,59424.0,125,5,Manual,Gris,Autohero.com
+Renault,Koleos,2.0 dCi Zen X-Tronic,21899,Diésel,2017-01-01,59527.0,177,5,Automático,Negro,Autohero.com
+Kia,cee'd,1.4 Tech,14999,Gasolina,2019-01-01,59596.0,100,5,Manual,Gris,Autohero.com
+Volkswagen,Golf VII Sportsvan,1.6 TDI Advance,18199,Diésel,2018-01-01,59724.0,115,5,Manual,Gris,Autohero.com
+Alfa,Romeo Stelvio,2.2 Executive RWD,30499,Diésel,2020-01-01,59740.0,190,5,Automático,Negro,Autohero.com
+Seat,León,1.4 TSI FR,12999,Gasolina,2013-01-01,59931.0,140,3,Manual,Blanco,Autohero.com
+Kia,cee'd,1.0 TGDI Tech,14799,Gasolina,2018-01-01,59986.0,120,5,Manual,Azul,Autohero.com
+Hyundai,i10,1.2 Go Plus,9899,Gasolina,2018-01-01,60167.0,87,5,Manual,Rojo,Autohero.com
+Alfa,Romeo Giulietta,1.4 Turbo Sport,15599,Gasolina,2019-01-01,60360.0,120,5,Manual,Blanco,Autohero.com
+Renault,Megane,1.2 TCe Energy Zen,12799,Gasolina,2016-01-01,60418.0,132,5,Manual,Azul,Autohero.com
+Nissan,Juke,DIGT NConnecta,13799,Gasolina,2018-01-01,60615.0,115,5,Manual,Azul,Autohero.com
+Renault,Grand Scenic,1.6 dCi Energy Edition One,18899,Diésel,2016-01-01,60740.0,160,5,Automático,Negro,Autohero.com
+Fiat,500,1.2 S,12999,Gasolina,2018-01-01,61360.0,70,3,Automático,Negro,Autohero.com
+Peugeot,208,1.2 PureTech Style,9799,Gasolina,2017-01-01,61384.0,82,5,Manual,Gris,Autohero.com
+Renault,Grand Scenic,1.3 TCe Zen,18499,Gasolina,2018-01-01,61395.0,140,5,Manual,Marrón,Autohero.com
+Kia,Rio,1.2 CVVT Eco-Dynamics X-Tech,8599,Gasolina,2015-01-01,61549.0,85,5,Manual,Blanco,Autohero.com
+Nissan,NV200 Evalia,1.5 dCi Comfort,15099,Diésel,2018-01-01,61706.0,110,5,Manual,Blanco,Autohero.com
